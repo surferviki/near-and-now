@@ -20,18 +20,18 @@
       <div class="hero-copy">
         <div class="eyebrow"><span class="live-dot"></span> LITTLE PLANS, RIGHT AROUND YOU</div>
         <h1>Make today<br />a <em>good story.</em></h1>
-        <p class="hero-intro">Tell us what you’re in the mood for and where you are. We’ll find something lovely to do nearby.</p>
+        <p class="hero-intro">Tell us what you’re thinking about and where you are. We’ll find real places and events to explore nearby.</p>
         <form id="searchForm" class="search-card">
-          <label class="field-label" for="intent">WHAT FEELS GOOD?</label>
-          <div class="input-wrap intent-wrap"><span class="input-icon">✳</span><input id="intent" name="intent" placeholder="e.g. get outside, keep the kids busy…" autocomplete="off" required /><button type="button" id="clearIntent" class="clear-btn" aria-label="Clear">×</button></div>
+          <label class="field-label" for="intent">WHAT’S ON YOUR MIND?</label>
+          <div class="input-wrap intent-wrap"><span class="input-icon">✳</span><input id="intent" name="intent" placeholder="e.g. I need a little fresh air…" autocomplete="off" required /><button type="button" id="clearIntent" class="clear-btn" aria-label="Clear">×</button></div>
           <div class="form-row">
             <div class="location-field"><label class="field-label" for="region">I’M IN</label><select id="region"><option value="uk">United Kingdom</option><option value="tn">Tamil Nadu, India</option></select></div>
             <div class="postcode-field"><label class="field-label" for="postcode">POSTCODE</label><div class="input-wrap"><span class="input-icon">⌖</span><input id="postcode" name="postcode" placeholder="e.g. SW11 1AA" autocomplete="postal-code" required /></div></div>
           </div>
-          <button class="search-button" type="submit">Find my something <span>→</span></button>
+          <button class="search-button" type="submit">Find my kind of day <span>→</span></button>
           <div class="privacy-note"><span>⌑</span> Just your postcode area. No account needed.</div>
         </form>
-        <div class="popular"><span>POPULAR MOODS</span><button class="mood-chip" data-mood="Something fun for the kids">☀ Something for the kids</button><button class="mood-chip" data-mood="I want to get outside and run">↗ Get outside</button><button class="mood-chip" data-mood="A creative weekend">✳ Get creative</button></div>
+        <div class="popular"><span>TRY SAYING</span><button class="mood-chip" data-mood="I need something fun to do with the kids">☀ A fun day with the kids</button><button class="mood-chip" data-mood="I want to get outside and move">↗ Get outside</button><button class="mood-chip" data-mood="I feel like trying something creative">✳ Try something creative</button></div>
       </div>
       <div class="hero-art" aria-label="Illustration of a family spending a day in a park">
         <div class="sun"></div><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
@@ -46,15 +46,15 @@
       </div>
     </section>
     <section id="results" class="results-section" hidden>
-      <div class="results-head"><div><div class="eyebrow"><span class="live-dot"></span> A FEW IDEAS FOR YOU</div><h2 id="resultsTitle">Your next good story</h2><p id="resultsSub"></p></div><button class="edit-search" id="editSearch">← Edit search</button></div>
+      <div class="results-head"><div><div class="eyebrow"><span class="live-dot"></span> FROM LIVE LISTINGS</div><h2 id="resultsTitle">Your next good story</h2><p id="resultsSub"></p></div><button class="edit-search" id="editSearch">← Edit search</button></div>
       <div class="results-tools"><div class="result-count" id="resultCount"></div><div class="sort-hint">Picked for your mood <span>✳</span></div></div>
       <div class="ai-explanation" id="aiExplanation" hidden></div>
       <div id="eventGrid" class="event-grid"></div>
-      <div class="demo-note">These are sample events for the prototype. Live listings will come from verified event sources.</div>
+      <div class="demo-note" id="sourceNote"></div>
     </section>
     <section id="how" class="how-section">
       <div class="how-heading"><div class="eyebrow">A LITTLE SMARTER THAN A SEARCH</div><h2>Good plans start<br />with <em>how you feel.</em></h2></div>
-      <div class="steps"><article><span class="step-no">01</span><div class="step-icon mint">✳</div><h3>Say what’s on your mind</h3><p>A mood, a hobby, or “help, the kids are bored” — use your own words.</p></article><article><span class="step-no">02</span><div class="step-icon peach">⌖</div><h3>Tell us roughly where</h3><p>We support UK postcodes and Tamil Nadu PIN codes, with nearby plans in mind.</p></article><article><span class="step-no">03</span><div class="step-icon lilac">♡</div><h3>Find your kind of day</h3><p>Family-friendly ideas get a boost, and your words help us find the right fit.</p></article></div>
+      <div class="steps"><article><span class="step-no">01</span><div class="step-icon mint">✳</div><h3>Tell us what’s on your mind</h3><p>A mood, a hobby, or “the kids need to burn off some energy” — just say it your way.</p></article><article><span class="step-no">02</span><div class="step-icon peach">⌖</div><h3>Share your area</h3><p>Enter a UK postcode or Tamil Nadu PIN code to find listings around that location.</p></article><article><span class="step-no">03</span><div class="step-icon lilac">♡</div><h3>Find your kind of day</h3><p>We bring back nearby activity places in Chennai and upcoming ticketed events in the UK.</p></article></div>
     </section>
     <section class="bottom-banner"><div class="banner-spark">✳</div><div><div class="eyebrow">YOUR WEEKEND CALLED</div><h2>It’s got a few ideas.</h2></div><button id="backToSearch">Find something nearby <span>→</span></button></section>
   </main>
