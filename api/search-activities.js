@@ -47,6 +47,7 @@ async function tamilNaduResults(postcode) {
       date: item.hours_text || 'Check opening hours',
       place: [item.area, item.city].filter(Boolean).join(', '),
       distance: `${item.distanceKm.toFixed(1)} km`,
+      distanceKm: item.distanceKm,
       age: 'Check with venue',
       description: activities.length
         ? `Activities include ${activities.slice(0, 4).join(', ')}.`
@@ -112,6 +113,7 @@ async function ukResults(postcode) {
       date,
       place: [venue.name, venue.city?.name].filter(Boolean).join(', ') || point.admin_district || 'United Kingdom',
       distance: km === null ? '' : `${km.toFixed(1)} km`,
+      distanceKm: km,
       age: item.ageRestrictions?.legalAgeEnforcement || 'See event details',
       description: item.info || item.pleaseNote || 'Check the event page for details, age guidance and availability.',
       url: item.url,

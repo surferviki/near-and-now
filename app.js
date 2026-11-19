@@ -4,6 +4,9 @@ const postcode = document.querySelector('#postcode');
 const intent = document.querySelector('#intent');
 const results = document.querySelector('#results');
 const grid = document.querySelector('#eventGrid');
+const distanceFilter = document.querySelector('#distanceFilter');
+let currentResults = [];
+let currentAI = null;
 const scrollResults = () => results.scrollIntoView({behavior:'smooth', block:'start'});
 
 region.addEventListener('change', () => { postcode.value=''; postcode.placeholder=region.value==='uk'?'e.g. SW11 1AA':'e.g. Mylapore 600004'; });
@@ -35,8 +38,20 @@ function rankResults(list, aiIntent) {
   const words = query.split(/[^a-z0-9]+/).filter(Boolean);
   const kidIntent = /kid|child|family|toddler|baby|bored|colour|color|school/.test(query);
   const adultIntent = /adult|date|night|workshop|wine|quiet|solo/.test(query);
-  return list.map((event,index)=>({...event,index,score:scoreEvent(event,words,kidIntent,adultIntent,aiIntent)})).sort((a,b)=>b.score-a.score||a.index-b.index);
+  return list.map((event,index)=>({...event,index,score:scoreEvent(event,words,kidIntent,adultIntent,aiIntent)})).sort((a,b)=>{
+    const aDistance=Number.isFinite(a.distanceKm)?a.distanceKm:Infinity;
+    const bDistance=Number.isFinite(b.distanceKm)?b.distanceKm:Infinity;
+    return aDistance-bDistance||b.score-a.score||a.index-b.index;
+  });
 }
+function renderResults() {
+  const maxDistance=Number(distanceFilter.value);
+  const nearby=currentResults.filter(event=>Number.isFinite(event.distanceKm)&&event.distanceKm<=maxDistance);
+  const ranked=rankResults(nearby,currentAI);
+  grid.innerHTML=ranked.length?ranked.map(cardMarkup).join(''):'<p class="empty-results">No listings within this distance. Try a wider radius.</p>';
+  document.querySelector('#resultCount').textContent=`${ranked.length} ${region.value==='uk'?'upcoming events':'nearby activity places'} within ${maxDistance} km`;
+}
+distanceFilter.addEventListener('change',renderResults);
 function escapeHtml(value) { return String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char])); }
 function cardMarkup(event) {
   const title=escapeHtml(event.title), url=/^https:\/\//i.test(event.url||'')?escapeHtml(event.url):'#';
@@ -74,8 +89,9 @@ form.addEventListener('submit',async event=>{
     sourceNote.textContent='';
     results.hidden=false;scrollResults();return;
   }
-  const ranked=rankResults(listingData.events||[],aiIntent);
-  grid.innerHTML=ranked.length?ranked.map(cardMarkup).join(''):'<p class="empty-results">No matches found in this area. Try a nearby postcode or a different idea.</p>';
+  currentResults=listingData.events||[];
+  currentAI=aiIntent;
+  renderResults();
   if(aiIntent?.method==='openrouter') {
     const audience={family:'family friendly',adults:'adult focused',mixed:'all ages'}[aiIntent.audience]||'all ages';
     const themes=(aiIntent.themes||[]).slice(0,3).join(', ');
@@ -88,7 +104,6 @@ form.addEventListener('submit',async event=>{
   const area=region.value==='uk'?'near '+postcode.value.toUpperCase():'near PIN '+postcode.value;
   document.querySelector('#resultsTitle').textContent=region.value==='uk'?'Upcoming events near you':'Nearby places to try';
   document.querySelector('#resultsSub').textContent=`For “${intent.value.trim()}” ${area}.`;
-  document.querySelector('#resultCount').textContent=`${ranked.length} ${region.value==='uk'?'upcoming events':'nearby activity places'}`;
   const locationAttribution=listingData.locationSourceUrl?` PIN area lookup: <a href="${escapeHtml(listingData.locationSourceUrl)}" target="_blank" rel="noopener noreferrer">India Pincode API</a>.`:'';
   sourceNote.innerHTML=`${escapeHtml(listingData.note)} Source: <a href="${escapeHtml(listingData.sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(listingData.source)}</a>.${locationAttribution} Retrieved ${new Date(listingData.checkedAt).toLocaleString()}.`;
   submitButton.disabled=false;
