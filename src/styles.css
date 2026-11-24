@@ -35,3 +35,25 @@ footer{border-color:#292a2f}.footer-brand{color:#f8f5ee}footer p,.footer-small{c
 :focus-visible{outline-color:#f0c45b}
 @media(max-width:950px){.hero{padding-left:30px;padding-right:30px}.hero-silhouette{right:3%;height:86%;max-width:47%}}
 @media(max-width:700px){.hero{padding:39px 20px 42px;background:radial-gradient(ellipse at 84% 14%,#1d1a15 0%,#0b0c0f 44%,#08090c 78%)}.hero-silhouette{right:-1%;top:10px;height:370px;max-width:57%;opacity:.48;mask-image:linear-gradient(90deg,transparent 0%,#000 20%),linear-gradient(0deg,transparent 0%,#000 18%)}.hero-watermark{right:-7%;bottom:30px;color:#e8bd550d}.hero-copy{max-width:100%}.mood-panel{background:rgba(19,19,22,.97)}.result-card{background:#151619}.closing-banner{background:#191817}}
+.result-actions{display:grid;grid-template-columns:auto auto 1fr;align-items:center;gap:12px;border-top:1px solid #34343a;margin-top:19px;padding:17px 0 2px}
+.whatsapp-share,.reset-experience{min-height:42px;display:inline-flex;align-items:center;justify-content:center;gap:9px;border-radius:6px;padding:0 15px;font:700 10px "DM Sans",sans-serif;text-decoration:none;cursor:pointer}
+.whatsapp-share{background:#25d366;color:#062d16;border:1px solid #25d366}
+.whatsapp-share:hover{background:#38e078;border-color:#38e078}
+.share-mark{display:grid;place-items:center;width:20px;height:20px;border:1.5px solid currentColor;border-radius:50%;font-size:13px;line-height:1}
+.reset-experience{background:#202024;border:1px solid #46454a;color:#eee9e0}
+.reset-experience:hover{border-color:#e8bd55;color:#f0c45b}
+.reset-experience span{font-size:16px;line-height:1}
+.share-note{margin:0;color:#9c968c;font-size:9px;line-height:1.5}
+@media(max-width:700px){
+  .hero{background:radial-gradient(ellipse at 84% 12%,#252017 0%,#0b0c0f 44%,#08090c 78%)}
+  .hero-copy{max-width:62%;padding:0}
+  .hero h1{font-size:clamp(28px,8.2vw,32px);line-height:.98;letter-spacing:-1.5px;margin:15px 0 9px;max-width:100%}
+  .hero-subtitle{font-size:13px;line-height:1.4;margin-bottom:7px}
+  .hero-note{font-size:10px;line-height:1.5}
+  .hero-promise{font-size:8px;margin-top:12px}
+  .hero-silhouette{right:-5%;top:7px;height:300px;max-width:54%;opacity:.86;object-position:center top;mask-image:linear-gradient(90deg,transparent 0%,#000 15%),linear-gradient(0deg,transparent 0%,#000 12%)}
+  .hero-watermark{bottom:22px}
+  .result-actions{grid-template-columns:1fr;gap:9px;padding:15px 0 2px}
+  .whatsapp-share,.reset-experience{width:100%;min-height:46px;font-size:11px}
+  .share-note{text-align:center;font-size:9px;padding:1px 8px 0}
+}
