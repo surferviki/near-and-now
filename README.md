@@ -1,14 +1,14 @@
-# Superstar Mode
+# Rajinism
 
-Superstar Mode is a responsive, browser-first mood-to-motivation experience inspired by the energy of Tamil cinema. A visitor chooses a mood and intensity, then receives one connected Mind, Body, and Entertainment experience.
+Rajinism is a responsive, browser-first mood-to-motivation experience inspired by the energy of Tamil cinema. A visitor chooses a mood and intensity, then receives one connected Mind, Body, and Entertainment experience.
 
 ## MVP architecture
 
 - Curated recommendations live in [`data/content.json`](data/content.json).
 - The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
 - The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
-- The two Rajinikanth photos supplied for this project are in `public/images/`. CSS uses layered cards, pointer parallax on desktop, gentle drift, and a reduced-motion fallback. The images are provided project assets; their reuse rights have not been independently verified. Check [`data/ASSET_RIGHTS.md`](data/ASSET_RIGHTS.md) before a public release.
-- The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the Superstar Mode page does not call them.
+- The dark hero uses the owner-provided Rajinikanth reference image as a high-contrast silhouette treatment with subtle desktop pointer parallax and a reduced-motion fallback.
+- The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the Rajinism page does not call them.
 - `mcp-server/` remains a separate learning example. The new website does not depend on it.
 
 ## Run locally

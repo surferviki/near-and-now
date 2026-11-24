@@ -1,8 +1,5 @@
 # Asset rights register
 
-| Asset | Source | Creator / rightsholder | Use status |
-| --- | --- | --- | --- |
-| `public/images/rajinikanth-blue.jpg` | Supplied by the project owner in this conversation | Not identified | Pending verification; supplied for the requested local MVP. |
-| `public/images/rajinikanth-white.jpg` | Supplied by the project owner in this conversation | Not identified | Pending verification; supplied for the requested local MVP. |
+The original pair of Rajinikanth photos supplied for the first MVP preview were removed from the application and repository at the owner's request. The owner has since supplied `public/images/rajini-silhouette.jpg` as a reference image and asked for a silhouette treatment in the Rajinism hero. The image is used as a visual asset; its creator and public reuse rights have not been independently verified. Confirm rights before a public launch.
 
-Before publishing the site publicly, verify that the project has permission or an appropriate licence for each photo. CSS animation does not change the rights in the underlying image. Keep this register updated with the creator, licence, attribution, source, and rights status.
+The film and song recommendations remain metadata with outbound links to official platforms. The app does not host music or film clips.

@@ -109,19 +109,19 @@ document.querySelector("#feedbackPanel")?.addEventListener("click", (event) => {
   }
 });
 
-const hero = document.querySelector<HTMLElement>("#heroVisual")!;
+const hero = document.querySelector<HTMLElement>("#journey")!;
 const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
 if (window.matchMedia("(pointer: fine)").matches && !reduceMotion.matches) {
   hero.addEventListener("pointermove", (event) => {
     const bounds = hero.getBoundingClientRect();
     const x = (event.clientX - bounds.left) / bounds.width - 0.5;
     const y = (event.clientY - bounds.top) / bounds.height - 0.5;
-    hero.style.setProperty("--pointer-x", `${x}`);
-    hero.style.setProperty("--pointer-y", `${y}`);
+    hero.style.setProperty("--px", `${x}`);
+    hero.style.setProperty("--py", `${y}`);
   });
   hero.addEventListener("pointerleave", () => {
-    hero.style.setProperty("--pointer-x", "0");
-    hero.style.setProperty("--pointer-y", "0");
+    hero.style.setProperty("--px", "0");
+    hero.style.setProperty("--py", "0");
   });
 }
 
