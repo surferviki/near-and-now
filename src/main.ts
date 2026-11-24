@@ -1,9 +1,19 @@
 import contentJson from "../data/content.json";
+import contentExpansionJson from "../data/content-expansion.json";
 import { buildExperience, getInitialRecent, rememberExperience, validateContent } from "./recommendation";
 import type { Content, Intensity, MoodId, ReasonId, UserInput } from "./types";
 import "./styles.css";
 
-const content = contentJson as Content;
+const baseContent = contentJson as Content;
+const expansion = contentExpansionJson as Partial<Content>;
+const content: Content = {
+  ...baseContent,
+  thoughts: [...baseContent.thoughts, ...(expansion.thoughts ?? [])],
+  stories: [...baseContent.stories, ...(expansion.stories ?? [])],
+  activities: [...baseContent.activities, ...(expansion.activities ?? [])],
+  songs: [...baseContent.songs, ...(expansion.songs ?? [])],
+  movies: [...baseContent.movies, ...(expansion.movies ?? [])],
+};
 const form = document.querySelector<HTMLFormElement>("#moodForm")!;
 const moodGrid = document.querySelector<HTMLDivElement>("#moodGrid")!;
 const results = document.querySelector<HTMLElement>("#results")!;
@@ -105,7 +115,7 @@ document.querySelector("#feedbackPanel")?.addEventListener("click", (event) => {
   const thanks = document.querySelector<HTMLElement>("#feedbackThanks")!;
   thanks.hidden = false;
   if (button.dataset.feedback !== "skip") {
-    try { sessionStorage.setItem("superstar-last-feedback", button.dataset.feedback ?? ""); } catch { /* Feedback remains local to this page. */ }
+    try { sessionStorage.setItem("rajinism-last-feedback", button.dataset.feedback ?? ""); } catch { /* Feedback remains local to this page. */ }
   }
 });
 

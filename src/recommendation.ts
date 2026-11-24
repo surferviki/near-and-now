@@ -73,15 +73,15 @@ export function buildExperience(input: UserInput, content: Content, recentIds: s
 
 export function rememberExperience(experience: Experience): string[] {
   let previous: string[] = [];
-  try { previous = JSON.parse(sessionStorage.getItem("superstar-recent") ?? "[]") as string[]; } catch { /* Storage can be unavailable in private or restricted contexts. */ }
+  try { previous = JSON.parse(sessionStorage.getItem("rajinism-recent") ?? "[]") as string[]; } catch { /* Storage can be unavailable in private or restricted contexts. */ }
   const ids = [experience.thought.item.id, experience.story.item.id, experience.activity.item.id, experience.song.item.id, experience.movie.item.id];
   const next = [...new Set([...ids, ...previous])].slice(0, 20);
-  try { sessionStorage.setItem("superstar-recent", JSON.stringify(next)); } catch { /* Recommendations still work without session persistence. */ }
+  try { sessionStorage.setItem("rajinism-recent", JSON.stringify(next)); } catch { /* Recommendations still work without session persistence. */ }
   return next;
 }
 
 export function getInitialRecent(): string[] {
-  try { return JSON.parse(sessionStorage.getItem("superstar-recent") ?? "[]") as string[]; } catch { return []; }
+  try { return JSON.parse(sessionStorage.getItem("rajinism-recent") ?? "[]") as string[]; } catch { return []; }
 }
 
 export function allMoodIds(): MoodId[] { return GENERAL_MOODS; }
