@@ -1,21 +1,37 @@
-# Near & Now
+# Superstar Mode
 
-Near & Now helps people find nearby activity venues or upcoming events from a mood, hobby, or plan and a location in the UK or Tamil Nadu.
+Superstar Mode is a responsive, browser-first mood-to-motivation experience inspired by the energy of Tamil cinema. A visitor chooses a mood and intensity, then receives one connected Mind, Body, and Entertainment experience.
 
-## How live listings work
+## MVP architecture
 
-- **Tamil Nadu:** the first integration uses the public Chennai venue feed from [Playz](https://playz.in/data/). Results are activity places such as sports venues and kids' play zones, not one-off events. The directory is refreshed daily and requires attribution. Distance is estimated from the entered PIN code using the PIN office coordinates; a PIN code can cover a broad area.
-- **United Kingdom:** the app uses the free [Ticketmaster Discovery API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/) for upcoming ticketed events within about 25 km. It needs a free Ticketmaster developer API key in `TICKETMASTER_API_KEY`. Listings depend on the provider's coverage and do not represent every local event.
-- UK postcodes are geocoded using [Postcodes.io](https://api.postcodes.io/docs/overview/). Tamil Nadu PIN coordinates are looked up through the [India Pincode API](https://aniket-thapa.github.io/india-pincode-api/), which attributes its data to India's Department of Posts and is licensed CC BY-NC 4.0. This is suitable for non-commercial use; replace it with a compatible source before commercial use.
-- OpenRouter only interprets the user's words for relevance ranking. It does not create or fetch listings. Event data is fetched server-side and the provider links are shown with each result.
-- Results put the closest places first. The distance filter shows listings within 5, 10, or 25 km.
+- Curated recommendations live in [`data/content.json`](data/content.json).
+- The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
+- The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
+- The two Rajinikanth photos supplied for this project are in `public/images/`. CSS uses layered cards, pointer parallax on desktop, gentle drift, and a reduced-motion fallback. The images are provided project assets; their reuse rights have not been independently verified. Check [`data/ASSET_RIGHTS.md`](data/ASSET_RIGHTS.md) before a public release.
+- The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the Superstar Mode page does not call them.
+- `mcp-server/` remains a separate learning example. The new website does not depend on it.
 
-## Run it
+## Run locally
 
-The APIs run as Vercel Functions, so use `vercel dev` rather than opening `index.html` directly. Copy `.env.example` to `.env.local`, add your OpenRouter key and optional model, and add a Ticketmaster Discovery API key for UK results. Never put provider keys in browser code or commit them.
+Requires Node.js 20 or newer.
 
-## AI and MCP learning notes
+```sh
+npm install
+npm run dev
+```
 
-`api/interpret.js` asks OpenRouter for a small JSON classification, validates the audience and theme values, and returns the classification to the browser. The browser ranks provider-sourced listings using this result and ordinary JavaScript text matching.
+Vite opens the browser-first experience at the local URL it prints. Create a production bundle with `npm run build`; preview it with `npm run preview`.
 
-`mcp-server/` contains a learning MCP server that registers a sample search tool over stdio. The website currently calls its own Vercel HTTP functions; it does not call the MCP server. MCP is a protocol for discovering and invoking tools, while the website's provider integrations use regular HTTPS APIs.
+## Content editing
+
+Edit the JSON in `data/content.json`. IDs must be unique within each collection, mood references must match the mood taxonomy, every song must point to an existing movie, and only approved original thoughts and stories are shown. Movie and song references should remain factual, with links pointing to official platforms. Do not add lyrics, film dialogue, stills, posters, or media files without the appropriate rights.
+
+The first set focuses on original English thoughts, stories, and practical activities. Film/music references are metadata plus outbound links; the application does not stream or host entertainment media. Tamil-language interface/content can be added once there is enough reviewed coverage.
+
+## Privacy and safety
+
+Mood, intensity, reason, and time are used only in the browser to select recommendations. The app stores recent content IDs and coarse feedback in `sessionStorage`; it does not save mood history or send mood data to a server. It is not mental-health treatment or crisis care. High-intensity suggestions use low-energy activities and include gentle safety notes.
+
+## Rights and credits
+
+This is an independent fan-made concept, not affiliated with or endorsed by Rajinikanth, his representatives, film producers, studios, music labels, or other rights holders. See `data/ASSET_RIGHTS.md` for the supplied photos' current rights status. The notice does not grant permission to use third-party material.
