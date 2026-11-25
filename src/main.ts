@@ -109,7 +109,7 @@ function presentExperience(input: UserInput): void {
     `Try this reset: ${experience.activity.item.title} — ${experience.activity.item.description}`,
     `A song for the moment: ${experience.song.item.title}`,
     `A film for later: ${experience.movie.item.title}`,
-    "Find your MoodLift moment: https://moodlift.vercel.app",
+    "Find your MoodLift moment: https://moodlift-moment.vercel.app",
   ].join("\n\n");
   document.querySelector<HTMLAnchorElement>("#shareWhatsapp")!.href = `https://wa.me/?text=${encodeURIComponent(shareText)}`;
   results.hidden = false;
