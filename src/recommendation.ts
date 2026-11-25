@@ -67,14 +67,15 @@ export function buildExperience(input: UserInput, content: Content, recentIds: s
   const activity = chooseActivity(content.activities, input, [...profile.preferredThemes, ...story.item.themes], recent);
   const song = choose(score(validSongs, input, profile.preferredThemes, recent), recent);
   const movie = choose(score(validMovies, input, profile.preferredThemes, recent), recent);
-  const dialogue = content.dialogues?.find((item) => item.moods.includes(input.moodId));
+  const dialogueCandidates = (content.dialogues ?? []).filter((item) => item.moods.includes(input.moodId));
+  const dialogue = dialogueCandidates.find((item) => !recent.has(item.id)) ?? dialogueCandidates[0];
   return { mood: profile, thought, story, activity, song, movie, ...(dialogue ? { dialogue } : {}) };
 }
 
 export function rememberExperience(experience: Experience): string[] {
   let previous: string[] = [];
   try { previous = JSON.parse(sessionStorage.getItem("rajinism-recent") ?? "[]") as string[]; } catch { /* Storage can be unavailable in private or restricted contexts. */ }
-  const ids = [experience.thought.item.id, experience.story.item.id, experience.activity.item.id, experience.song.item.id, experience.movie.item.id];
+  const ids = [experience.thought.item.id, experience.story.item.id, experience.activity.item.id, experience.song.item.id, experience.movie.item.id, ...(experience.dialogue ? [experience.dialogue.id] : [])];
   const next = [...new Set([...ids, ...previous])].slice(0, 20);
   try { sessionStorage.setItem("rajinism-recent", JSON.stringify(next)); } catch { /* Recommendations still work without session persistence. */ }
   return next;

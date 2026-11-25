@@ -70,15 +70,32 @@ function presentExperience(input: UserInput): void {
   dialogueBlock.hidden = !dialogue;
   if (dialogue) {
     setText("#dialogueText", `“${dialogue.text}”`);
-    setText("#dialogueLabel", dialogue.kind === "speech_paraphrase" ? "THALAIVAR’S SPEECH TAKEAWAY · PARAPHRASED" : "SOURCED THALAIVAR FILM DIALOGUE");
-    setText("#dialogueAttribution", `${dialogue.film} (${dialogue.year}) · ${dialogue.renderingLabel ?? (dialogue.kind === "speech_paraphrase" ? "paraphrased summary" : "English rendering")}`);
+    const dialogueLabels: Record<string, string> = {
+      film: "SOURCED THALAIVAR FILM DIALOGUE",
+      film_unconfirmed: "THALAIVAR DIALOGUE · FILM UNCONFIRMED",
+      speech_paraphrase: "THALAIVAR SPEECH TAKEAWAY · PARAPHRASED",
+      philosophy_paraphrase: "LIFE-PHILOSOPHY TAKEAWAY · PARAPHRASED",
+      fan_speech_paraphrase: "FAN-MEET SPEECH TAKEAWAY · PARAPHRASED",
+    };
+    setText("#dialogueLabel", dialogueLabels[dialogue.kind ?? "film"] ?? "THALAIVAR MOOD GUIDE");
+    const attribution = dialogue.year > 0 ? `${dialogue.film} (${dialogue.year})` : dialogue.film;
+    setText("#dialogueAttribution", `${attribution}${dialogue.renderingLabel ? ` · ${dialogue.renderingLabel}` : ""} · ${dialogue.source}`);
     const dialogueSource = document.querySelector<HTMLAnchorElement>("#dialogueSource")!;
-    dialogueSource.href = dialogue.sourceUrl;
-    dialogueSource.hidden = false;
-    setText("#dialogueInterpretation", dialogue.interpretation);
-    setText("#dialogueStoryTitle", dialogue.originalStoryTitle);
-    setText("#dialogueStoryText", dialogue.originalStory);
-    document.querySelector<HTMLElement>("#dialogueStoryBlock")!.hidden = false;
+    if (dialogue.sourceUrl) {
+      dialogueSource.href = dialogue.sourceUrl;
+      dialogueSource.hidden = false;
+    } else {
+      dialogueSource.hidden = true;
+    }
+    const interpretation = document.querySelector<HTMLElement>("#dialogueInterpretation")!;
+    interpretation.textContent = dialogue.interpretation ?? "";
+    interpretation.hidden = !dialogue.interpretation;
+    const storyBlock = document.querySelector<HTMLElement>("#dialogueStoryBlock")!;
+    storyBlock.hidden = !dialogue.originalStoryTitle || !dialogue.originalStory;
+    if (dialogue.originalStoryTitle && dialogue.originalStory) {
+      setText("#dialogueStoryTitle", dialogue.originalStoryTitle);
+      setText("#dialogueStoryText", dialogue.originalStory);
+    }
   } else {
     document.querySelector<HTMLElement>("#dialogueStoryBlock")!.hidden = true;
   }
@@ -103,7 +120,7 @@ function presentExperience(input: UserInput): void {
   movieLink.hidden = !/^https:\/\//i.test(movieLink.href);
   const shareText = [
     "MOODLIFT ✦ A little lift for my mood",
-    ...(experience.dialogue ? [`A Thalaivar line or speech takeaway: “${experience.dialogue.text}”`, `Source: ${experience.dialogue.sourceUrl}`] : []),
+    ...(experience.dialogue ? [`A Thalaivar line or speech takeaway: “${experience.dialogue.text}”`, ...(experience.dialogue.sourceUrl ? [`Source: ${experience.dialogue.sourceUrl}`] : [])] : []),
     `An original MoodLift reflection (not a film quote): “${experience.thought.item.text}”`,
     `Try this reset: ${experience.activity.item.title} — ${experience.activity.item.description}`,
     `A song for the moment: ${experience.song.item.title}`,

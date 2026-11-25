@@ -776,6 +776,789 @@
       "source": "Sun TV official Annaatthe audio jukebox",
       "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
       "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS057",
+      "title": "Vanthenda Paalkaran",
+      "movieId": "MOV040",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "celebration",
+        "gratitude",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS058",
+      "title": "Annamalai Annamalai",
+      "movieId": "MOV040",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "warmth",
+        "nostalgia"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS059",
+      "title": "Kondayil Thaazham Poo",
+      "movieId": "MOV040",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "playfulness",
+        "romance",
+        "novelty"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS060",
+      "title": "Vetri Nichayam",
+      "movieId": "MOV040",
+      "moods": [
+        "demotivated",
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "perseverance",
+        "small_wins",
+        "agency"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS061",
+      "title": "Oru Pen Pura",
+      "movieId": "MOV040",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "reflection",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS062",
+      "title": "Rekkai Katti Parakudhu",
+      "movieId": "MOV040",
+      "moods": [
+        "happy",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "warmth",
+        "connection",
+        "nostalgia"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "source": "Apple Music · Annamalai original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/annamalai-original-motion-picture-soundtrack-ep/1836865656",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS063",
+      "title": "Oruvan Oruvan Mudhalali",
+      "movieId": "MOV007",
+      "moods": [
+        "confident",
+        "demotivated",
+        "stressed"
+      ],
+      "themes": [
+        "purpose",
+        "perspective",
+        "resilience"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS064",
+      "title": "Kuluvalilae",
+      "movieId": "MOV007",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "playfulness",
+        "novelty",
+        "romance"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS065",
+      "title": "Thillana Thillana",
+      "movieId": "MOV007",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "celebration",
+        "playfulness",
+        "romance"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS066",
+      "title": "Kokku Saiva Kokku",
+      "movieId": "MOV007",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "humour",
+        "playfulness",
+        "novelty"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS067",
+      "title": "Vidukathaiya",
+      "movieId": "MOV007",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "reflection",
+        "comfort",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS068",
+      "title": "Muthu Theme Music",
+      "movieId": "MOV007",
+      "moods": [
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "confidence",
+        "cinema",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "source": "Apple Music · Muthu original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/muthu-original-motion-picture-soundtrack/1729623821",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS069",
+      "title": "Aathile Annakili",
+      "movieId": "MOV042",
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "comfort",
+        "nature",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS070",
+      "title": "Konji Konji (Male)",
+      "movieId": "MOV042",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "warmth",
+        "connection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS071",
+      "title": "Maadethile Kanni",
+      "movieId": "MOV042",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "romance",
+        "celebration",
+        "warmth"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS072",
+      "title": "Malai Kovil Vaasalil",
+      "movieId": "MOV042",
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "reflection",
+        "comfort",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS073",
+      "title": "Pattu Poo Poo",
+      "movieId": "MOV042",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "playfulness",
+        "novelty",
+        "romance"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS074",
+      "title": "Vaadi Vethalai",
+      "movieId": "MOV042",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "playfulness",
+        "celebration",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "source": "Apple Music · Veera original soundtrack",
+      "sourceUrl": "https://music.apple.com/us/album/veera-original-motion-picture-soundtrack/1706174617",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS075",
+      "title": "Baba Theme",
+      "movieId": "MOV045",
+      "moods": [
+        "confident",
+        "stressed"
+      ],
+      "themes": [
+        "reflection",
+        "purpose",
+        "choice"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS076",
+      "title": "Dippu Dippu",
+      "movieId": "MOV045",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "playfulness",
+        "celebration",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS077",
+      "title": "Kichchu Tha",
+      "movieId": "MOV045",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "celebration",
+        "confidence",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS078",
+      "title": "Maya Maya",
+      "movieId": "MOV045",
+      "moods": [
+        "happy",
+        "stressed"
+      ],
+      "themes": [
+        "wonder",
+        "perspective",
+        "playfulness"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS079",
+      "title": "Rajyama Illai Emaiyama (Version 1)",
+      "movieId": "MOV045",
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "reflection",
+        "calm",
+        "perspective"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS080",
+      "title": "Rajyama Illai Emaiyama (Version 2)",
+      "movieId": "MOV045",
+      "moods": [
+        "sad",
+        "stressed",
+        "demotivated"
+      ],
+      "themes": [
+        "reflection",
+        "calm",
+        "perspective"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS081",
+      "title": "Sakthi Kodu",
+      "movieId": "MOV045",
+      "moods": [
+        "demotivated",
+        "stressed",
+        "confident"
+      ],
+      "themes": [
+        "hope",
+        "courage",
+        "perseverance"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS082",
+      "title": "Baba Rap",
+      "movieId": "MOV045",
+      "moods": [
+        "confident",
+        "angry",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "confidence",
+        "playfulness"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "source": "Spotify · Baba original soundtrack",
+      "sourceUrl": "https://open.spotify.com/album/1EGBSC9ZGRVC3MLbYGnm71",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS083",
+      "title": "Ala Bolelo",
+      "movieId": "MOV053",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "playfulness",
+        "celebration",
+        "novelty"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS084",
+      "title": "One Sun One Moon",
+      "movieId": "MOV053",
+      "moods": [
+        "confident",
+        "demotivated",
+        "happy"
+      ],
+      "themes": [
+        "purpose",
+        "hope",
+        "confidence"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS085",
+      "title": "Netru Ponavai",
+      "movieId": "MOV053",
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "reflection",
+        "letting_go",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS086",
+      "title": "Veramaari",
+      "movieId": "MOV053",
+      "moods": [
+        "happy",
+        "angry",
+        "confident"
+      ],
+      "themes": [
+        "energy",
+        "confidence",
+        "playfulness"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS087",
+      "title": "Jailer 2 Theme",
+      "movieId": "MOV053",
+      "moods": [
+        "confident",
+        "angry",
+        "bored"
+      ],
+      "themes": [
+        "cinema",
+        "confidence",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS088",
+      "title": "Bindaas",
+      "movieId": "MOV053",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "playfulness",
+        "celebration",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS089",
+      "title": "Putaapu Gang",
+      "movieId": "MOV053",
+      "moods": [
+        "happy",
+        "bored",
+        "angry"
+      ],
+      "themes": [
+        "playfulness",
+        "novelty",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS090",
+      "title": "Shaitaan",
+      "movieId": "MOV053",
+      "moods": [
+        "angry",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "confidence",
+        "cinema"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS091",
+      "title": "One Name",
+      "movieId": "MOV053",
+      "moods": [
+        "confident",
+        "demotivated",
+        "happy"
+      ],
+      "themes": [
+        "purpose",
+        "confidence",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS092",
+      "title": "Dileep Theme",
+      "movieId": "MOV053",
+      "moods": [
+        "stressed",
+        "angry",
+        "confident"
+      ],
+      "themes": [
+        "cinema",
+        "focus",
+        "energy"
+      ],
+      "energy": "moderate",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS093",
+      "title": "Dil Haareya",
+      "movieId": "MOV053",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "reflection",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS094",
+      "title": "Hukum Reloaded",
+      "movieId": "MOV053",
+      "moods": [
+        "confident",
+        "angry",
+        "happy"
+      ],
+      "themes": [
+        "confidence",
+        "celebration",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "source": "Apple Music · Jailer 2 original soundtrack · 2026 Sun Pictures",
+      "sourceUrl": "https://music.apple.com/us/album/jailer-2-original-motion-picture-soundtrack/6817733404",
+      "rightsStatus": "not_applicable"
     }
   ],
   "movies": [
@@ -1570,6 +2353,38 @@
       "verified": true,
       "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
       "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV053",
+      "title": "Jailer 2",
+      "year": 2026,
+      "genres": [
+        "action",
+        "drama"
+      ],
+      "moods": [
+        "happy",
+        "sad",
+        "angry",
+        "frustrated",
+        "stressed",
+        "lonely",
+        "bored",
+        "demotivated",
+        "confident"
+      ],
+      "themes": [
+        "family",
+        "resilience",
+        "humour",
+        "confidence"
+      ],
+      "synopsis": "Tiger Muthuvel Pandian returns in Nelson Dilipkumar’s action sequel starring Rajinikanth.",
+      "recommendationReason": "A new chapter in the Jailer world, with Anirudh’s soundtrack and a larger-than-life return for a change of pace.",
+      "externalLink": "https://www.youtube.com/watch?v=MXUNkJ0ceTg",
+      "verified": true,
+      "source": "Sun Pictures official Jailer 2 special",
+      "sourceUrl": "https://www.youtube.com/watch?v=MXUNkJ0ceTg"
     }
   ],
   "dialogues": [
@@ -1709,6 +2524,593 @@
       "interpretation": "The app’s take: you do not need a perfect opening. Make one small opportunity for yourself today.",
       "originalStoryTitle": "The First Invitation",
       "originalStory": "Naveen wanted to learn photography but kept waiting until he had the right camera. On Saturday he used the phone already in his pocket and took ten pictures on a walk. One friend liked a picture and asked how he made it. That small exchange became the first reason to keep practising."
+    },
+    {
+      "id": "GUIDE-L01",
+      "text": "If I say it once, it is as good as saying it a hundred times.",
+      "film": "Baasha",
+      "year": 1995,
+      "moods": [
+        "confident"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L02",
+      "text": "God commands; Arunachalam does it.",
+      "film": "Arunachalam",
+      "year": 1997,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L03",
+      "text": "My path is my own path.",
+      "film": "Padayappa",
+      "year": 1999,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L04",
+      "text": "Doesn’t it just shake the place?",
+      "film": "Sivaji: The Boss",
+      "year": 2007,
+      "moods": [
+        "happy"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L05",
+      "text": "Magizhchi — joy.",
+      "film": "Kabali",
+      "year": 2016,
+      "moods": [
+        "happy"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L06",
+      "text": "It’s fire!",
+      "film": "Kabali",
+      "year": 2016,
+      "moods": [
+        "angry"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L07",
+      "text": "Even if I arrive late, I arrive with the latest.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L08",
+      "text": "Finished, finished. What’s done is done.",
+      "film": "Baba",
+      "year": 2002,
+      "moods": [
+        "sad"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L09",
+      "text": "Pigs come in herds; a lion comes alone.",
+      "film": "Sivaji: The Boss",
+      "year": 2007,
+      "moods": [
+        "lonely"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L10",
+      "text": "Just hearing the name makes the place shake.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "confident"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L11",
+      "text": "I don’t speak without thinking, and I don’t second-guess after I’ve spoken.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "confident"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L12",
+      "text": "Opportunities don’t just happen; we have to create them.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "bored"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L13",
+      "text": "Go on; God himself is on our side.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L14",
+      "text": "I’ll do what I say, and I’ll also do what I don’t say.",
+      "film": "Annamalai",
+      "year": 1992,
+      "moods": [
+        "confident"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L15",
+      "text": "Nobody knows when or how I’ll arrive, but I’ll come exactly when I need to.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "demotivated",
+        "confident"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L16",
+      "text": "A matchbox lights only if struck on two sides, but Alex Pandian ignites whichever side you strike.",
+      "film": "Moondru Mugam",
+      "year": 1982,
+      "moods": [
+        "angry"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L17",
+      "text": "Your policy is to strike when someone is off guard; Baba’s policy is to strike without flinching.",
+      "film": "Baba",
+      "year": 2002,
+      "moods": [
+        "angry"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L18",
+      "text": "I won’t do what everyone expects, and I won’t let you guess what I’ll do.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "bored"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L19",
+      "text": "Some say it and then do it; some do it and then say it.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "frustrated"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L20",
+      "text": "Kabali has returned, just as he left.",
+      "film": "Kabali",
+      "year": 2016,
+      "moods": [
+        "demotivated",
+        "confident"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L21",
+      "text": "Some learn by being told, some by experience, and some only after a knockdown.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "frustrated"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L22",
+      "text": "Live while letting others live; don’t ruin others’ lives to live yours.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "lonely"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L23",
+      "text": "Don’t chase money, fame, or position; let them follow because of how you act.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L24",
+      "text": "You can be good, but not too good.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "frustrated"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L25",
+      "text": "God tests good people but never abandons them.",
+      "film": "Baasha",
+      "year": 1995,
+      "moods": [
+        "sad"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L26",
+      "text": "Someone who has fallen can rebuild; someone who has lived well must not go astray.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L27",
+      "text": "What is meant for you will come; what isn’t won’t.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L28",
+      "text": "There can be fear in life, but fear must not become your life.",
+      "film": "Film not confirmed",
+      "year": 0,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "film_unconfirmed",
+      "renderingLabel": "English rendering · film attribution unconfirmed",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L29",
+      "text": "Nothing comes without effort, and what comes without effort won’t last.",
+      "film": "Kochadaiiyaan",
+      "year": 2014,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L30",
+      "text": "Too much greed and too much anger do not lead to a good life.",
+      "film": "Padayappa",
+      "year": 1999,
+      "moods": [
+        "angry"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-L31",
+      "text": "You come with nothing and leave with nothing; why cling to material pleasures in between?",
+      "film": "Padayappa",
+      "year": 1999,
+      "moods": [
+        "sad"
+      ],
+      "kind": "film",
+      "renderingLabel": "English rendering",
+      "source": "User-supplied Thalaivar Mood Guide · English rendering"
+    },
+    {
+      "id": "GUIDE-S01",
+      "text": "When provoked, don’t react to the noise; move toward what matters.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "angry",
+        "frustrated"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrase of the crow-and-eagle story in the Jailer launch speech.",
+      "sourceUrl": "https://www.moviecrow.com/News/32372/jailer-audio-launch-rajinikanth-full-speech-youtube"
+    },
+    {
+      "id": "GUIDE-S02",
+      "text": "He described alcohol as his biggest mistake and urged fans not to misuse it.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "sad"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of his remarks on alcohol.",
+      "sourceUrl": "https://www.bollywoodhungama.com/news/south-cinema/jailer-audio-launch-rajinikanth-opens-alcoholism-calls-biggest-mistake-life"
+    },
+    {
+      "id": "GUIDE-S03",
+      "text": "He called Vijay a well-wisher, not a rival, and asked both fan groups to end their quarrel.",
+      "film": "Lal Salaam audio launch speech",
+      "year": 2024,
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of his appeal for unity.",
+      "sourceUrl": "https://english.vikatan.com/entertainment/kollywood/lal-salaam-rajinikanth-squashs-rumors-calls-vijay-well-wisher"
+    },
+    {
+      "id": "GUIDE-S04",
+      "text": "He shared an early-career memory and warmly praised Anirudh and A. R. Murugadoss.",
+      "film": "Darbar audio launch speech",
+      "year": 2019,
+      "moods": [
+        "happy"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of a warm, celebratory speech.",
+      "sourceUrl": "https://www.onmanorama.com/entertainment/music/2019/12/08/rajinikanth-on-anirudh-darbar-audio-launch.html"
+    },
+    {
+      "id": "GUIDE-S05",
+      "text": "After setbacks and illness, he spoke about learning from failure and choosing roles that fit.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of lessons shared in the speech.",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-S06",
+      "text": "He said commercial entertainers have his heart and shared a light, spontaneous moment with fans.",
+      "film": "Vettaiyan audio launch speech",
+      "year": 2024,
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of remarks about entertaining audiences.",
+      "sourceUrl": "https://www.deccanchronicle.com/entertainment/kollywood/commercial-entertainers-have-my-heart-rajinikanth-1825319"
+    },
+    {
+      "id": "GUIDE-S07",
+      "text": "He kept the audience laughing with playful teasing and film references.",
+      "film": "Coolie audio launch speech",
+      "year": 2025,
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary of a light-hearted speech.",
+      "sourceUrl": "https://zeenews.india.com/tamil/movies/live-updates/rajinikanth-coolie-movie-audio-launch-pass-teaser-trailer-release-date-time-ticket-booking-latest-news-602524"
+    },
+    {
+      "id": "GUIDE-P01",
+      "text": "Treat failure as a lesson you can carry into the next attempt.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-P02",
+      "text": "Choose roles and responsibilities that fit the season of life you are in.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-P03",
+      "text": "Be kind, while still keeping healthy boundaries.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "frustrated"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-P04",
+      "text": "Keep walking your own path and make room for what you love.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "lonely"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-P05",
+      "text": "Don’t answer every provocation; put your energy into rising above it.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "angry"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.moviecrow.com/News/32372/jailer-audio-launch-rajinikanth-full-speech-youtube"
+    },
+    {
+      "id": "GUIDE-P06",
+      "text": "Be honest about mistakes and take care with habits that can harm you.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "sad"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.bollywoodhungama.com/news/south-cinema/jailer-audio-launch-rajinikanth-opens-alcoholism-calls-biggest-mistake-life"
+    },
+    {
+      "id": "GUIDE-P07",
+      "text": "Give the right moment time to arrive; patience can be part of the plan.",
+      "film": "Kaala audio launch speech",
+      "year": 2018,
+      "moods": [
+        "bored"
+      ],
+      "kind": "philosophy_paraphrase",
+      "renderingLabel": "life-philosophy summary",
+      "source": "Paraphrased from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.ibtimes.co.in/kaala-audio-launch-here-complete-text-rajinikanths-speech-768804"
+    },
+    {
+      "id": "GUIDE-M01",
+      "text": "He thanked fans for welcoming him into Tamil culture and said the system—not just its leaders—needed to change.",
+      "film": "2017 fan-meet speech",
+      "year": 2017,
+      "moods": [
+        "frustrated",
+        "lonely"
+      ],
+      "kind": "fan_speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.business-standard.com/article/news-ians/at-fan-meet-rajinikanth-hints-at-political-plunge-117051900349_1.html"
+    },
+    {
+      "id": "GUIDE-M02",
+      "text": "He called for honest, transparent, principled public life.",
+      "film": "31 December 2017 announcement speech",
+      "year": 2017,
+      "moods": [
+        "confident"
+      ],
+      "kind": "fan_speech_paraphrase",
+      "renderingLabel": "paraphrased summary",
+      "source": "Paraphrased summary from the supplied Thalaivar Mood Guide and its listed source",
+      "sourceUrl": "https://www.thenewsminute.com/article/spiritual-superstar-political-war-cry-full-text-rajinikanth-s-speech-73972"
     }
   ]
 }

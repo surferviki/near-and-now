@@ -4,8 +4,8 @@ MoodLift is a responsive, browser-first mood-to-motivation experience. A visitor
 
 ## MVP architecture
 
-- Curated recommendations live in [`data/content.json`](data/content.json), [`data/content-expansion.json`](data/content-expansion.json), and [`data/catalog-expansion.json`](data/catalog-expansion.json). Together they contain 32 thoughts, 23 short stories, 36 activities, 56 song references and 52 film recommendations.
-- The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
+- Curated recommendations live in [`data/content.json`](data/content.json), [`data/content-expansion.json`](data/content-expansion.json), and [`data/catalog-expansion.json`](data/catalog-expansion.json). Together they contain 32 thoughts, 23 short stories, 36 activities, 94 song references and 53 film recommendations.
+- The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, cycles through recent mood-matched Thalaivar material, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
 - The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
 - The dark hero uses the owner-provided Rajinikanth reference image as a high-contrast silhouette treatment with subtle desktop pointer parallax and a reduced-motion fallback.
 - The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the MoodLift page does not call them.
@@ -30,7 +30,7 @@ The first set focuses on original English thoughts, stories, and practical activ
 
 ## Attribution clarity
 
-Original reflections and stories are app-authored and must not be attributed to Rajinikanth. The sourced Baasha dialogue is shown only for selected moods, with the film attribution and source beside it. Its English rendering is kept short; the app's interpretation and story are clearly labeled as original work inspired by the idea. Speech paraphrases and unverified attributions in the supplied reference have not been presented as direct quotes.
+Original reflections and stories are app-authored and must not be attributed to Rajinikanth. The mood guide contributes 31 dialogue entries, seven speech summaries, seven philosophy summaries, and two fan-meet summaries. Film attributions flagged as unconfirmed remain labeled that way; speeches and philosophy are identified as paraphrases. The app's separate stories are original work, not part of the sourced material.
 
 ## Privacy and safety
 
