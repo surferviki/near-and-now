@@ -787,8 +787,8 @@
         "drama"
       ],
       "moods": [
-        "curious",
-        "reflective"
+        "bored",
+        "stressed"
       ],
       "themes": [
         "curiosity"
@@ -850,8 +850,8 @@
         "drama"
       ],
       "moods": [
-        "reflective",
-        "curious"
+        "sad",
+        "bored"
       ],
       "themes": [
         "growth"
@@ -913,8 +913,7 @@
         "drama"
       ],
       "moods": [
-        "reflective",
-        "frustrated"
+        "stressed"
       ],
       "themes": [
         "perspective"
@@ -955,8 +954,7 @@
         "romantic thriller"
       ],
       "moods": [
-        "bored",
-        "curious"
+        "bored"
       ],
       "themes": [
         "mystery"
@@ -1040,8 +1038,7 @@
         "drama"
       ],
       "moods": [
-        "angry",
-        "reflective"
+        "angry"
       ],
       "themes": [
         "accountability"
@@ -1145,8 +1142,7 @@
         "biographical drama"
       ],
       "moods": [
-        "stressed",
-        "reflective"
+        "stressed"
       ],
       "themes": [
         "faith"
@@ -1418,8 +1414,7 @@
         "fantasy drama"
       ],
       "moods": [
-        "stressed",
-        "reflective"
+        "stressed"
       ],
       "themes": [
         "choice"
@@ -1481,8 +1476,7 @@
         "action drama"
       ],
       "moods": [
-        "confident",
-        "reflective"
+        "confident"
       ],
       "themes": [
         "service"
@@ -1502,8 +1496,7 @@
         "animated action"
       ],
       "moods": [
-        "bored",
-        "curious"
+        "bored"
       ],
       "themes": [
         "imagination"
