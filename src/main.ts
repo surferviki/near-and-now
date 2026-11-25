@@ -1,18 +1,21 @@
 import contentJson from "../data/content.json";
 import contentExpansionJson from "../data/content-expansion.json";
+import catalogExpansionJson from "../data/catalog-expansion.json";
 import { buildExperience, getInitialRecent, rememberExperience, validateContent } from "./recommendation";
 import type { Content, Intensity, MoodId, ReasonId, UserInput } from "./types";
 import "./styles.css";
 
 const baseContent = contentJson as Content;
 const expansion = contentExpansionJson as Partial<Content>;
+const catalogExpansion = catalogExpansionJson as Partial<Content>;
 const content: Content = {
   ...baseContent,
   thoughts: [...baseContent.thoughts, ...(expansion.thoughts ?? [])],
   stories: [...baseContent.stories, ...(expansion.stories ?? [])],
   activities: [...baseContent.activities, ...(expansion.activities ?? [])],
-  songs: [...baseContent.songs, ...(expansion.songs ?? [])],
-  movies: [...baseContent.movies, ...(expansion.movies ?? [])],
+  songs: [...baseContent.songs, ...(expansion.songs ?? []), ...(catalogExpansion.songs ?? [])],
+  movies: [...baseContent.movies, ...(expansion.movies ?? []), ...(catalogExpansion.movies ?? [])],
+  dialogues: catalogExpansion.dialogues ?? [],
 };
 const form = document.querySelector<HTMLFormElement>("#moodForm")!;
 const moodGrid = document.querySelector<HTMLDivElement>("#moodGrid")!;
@@ -63,6 +66,22 @@ function presentExperience(input: UserInput): void {
   const setText = (selector: string, text: string) => { document.querySelector<HTMLElement>(selector)!.textContent = text; };
   setText("#results-intro", `${experience.mood.emoji} ${experience.mood.label} · ${input.intensity} intensity · ${input.availableMinutes} minute reset`);
   setText("#thoughtText", `“${experience.thought.item.text}”`);
+  const dialogue = experience.dialogue;
+  const dialogueBlock = document.querySelector<HTMLElement>("#dialogueBlock")!;
+  dialogueBlock.hidden = !dialogue;
+  if (dialogue) {
+    setText("#dialogueText", `“${dialogue.text}”`);
+    setText("#dialogueAttribution", `${dialogue.film} (${dialogue.year}) · English rendering`);
+    const dialogueSource = document.querySelector<HTMLAnchorElement>("#dialogueSource")!;
+    dialogueSource.href = dialogue.sourceUrl;
+    dialogueSource.hidden = false;
+    setText("#dialogueInterpretation", dialogue.interpretation);
+    setText("#dialogueStoryTitle", dialogue.originalStoryTitle);
+    setText("#dialogueStoryText", dialogue.originalStory);
+    document.querySelector<HTMLElement>("#dialogueStoryBlock")!.hidden = false;
+  } else {
+    document.querySelector<HTMLElement>("#dialogueStoryBlock")!.hidden = true;
+  }
   setText("#storyTime", `${experience.story.item.durationMinutes} min read`);
   setText("#storyTitle", experience.story.item.title);
   setText("#storyText", experience.story.item.content);
@@ -84,7 +103,8 @@ function presentExperience(input: UserInput): void {
   movieLink.hidden = !/^https:\/\//i.test(movieLink.href);
   const shareText = [
     "RAJINISM ✦ My Superstar moment",
-    `“${experience.thought.item.text}”`,
+    ...(experience.dialogue ? [`A Baasha dialogue (English rendering): “${experience.dialogue.text}”`, `Source: ${experience.dialogue.sourceUrl}`] : []),
+    `An original Rajinism thought (not a Rajinikanth quote): “${experience.thought.item.text}”`,
     `Try this reset: ${experience.activity.item.title} — ${experience.activity.item.description}`,
     `A song for the moment: ${experience.song.item.title}`,
     `A film for later: ${experience.movie.item.title}`,
