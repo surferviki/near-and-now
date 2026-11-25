@@ -1,6 +1,6 @@
-# Rajinism
+# MoodLift
 
-Rajinism is a responsive, browser-first mood-to-motivation experience inspired by the energy of Tamil cinema. A visitor chooses a mood and intensity, then receives one connected Mind, Body, and Entertainment experience.
+MoodLift is a responsive, browser-first mood-to-motivation experience. A visitor chooses a mood and intensity, then receives a thoughtful reflection, one doable reset, and a surprise inspired by Rajinikanth's words and cinema.
 
 ## MVP architecture
 
@@ -8,7 +8,7 @@ Rajinism is a responsive, browser-first mood-to-motivation experience inspired b
 - The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
 - The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
 - The dark hero uses the owner-provided Rajinikanth reference image as a high-contrast silhouette treatment with subtle desktop pointer parallax and a reduced-motion fallback.
-- The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the Rajinism page does not call them.
+- The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the MoodLift page does not call them.
 - `mcp-server/` remains a separate learning example. The new website does not depend on it.
 
 ## Run locally

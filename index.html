@@ -4,27 +4,27 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#08090c" />
-    <meta name="description" content="Tell Rajinism how you feel. Get a Thalaivar-inspired reflection, one small reset, and a Rajini film or song matched to your mood." />
-    <title>Rajinism — Find your next scene</title>
+    <meta name="description" content="Tell MoodLift how you feel. Get a thoughtful reflection, one doable reset, and a mood-matched surprise to help you find a more positive next step." />
+    <title>MoodLift — A little lift for your mood</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   </head>
   <body>
     <header class="topbar">
-      <a class="brand" href="#top" aria-label="Rajinism home"><span class="brand-star" aria-hidden="true">✦</span><span>RAJINISM</span><span class="brand-note">A RAJINIKANTH-INSPIRED RESET</span></a>
+      <a class="brand" href="#top" aria-label="MoodLift home"><span class="brand-star" aria-hidden="true">✦</span><span>MOODLIFT</span><span class="brand-note">A MOMENT TO FEEL BETTER</span></a>
       <nav aria-label="Main navigation"><a href="#credits">About</a><a class="nav-link" href="#journey">Choose your mood <span aria-hidden="true">↓</span></a></nav>
     </header>
     <main id="top">
       <section class="hero" id="journey" aria-labelledby="hero-title">
-        <div class="hero-watermark" aria-hidden="true">RAJINISM</div>
+        <div class="hero-watermark" aria-hidden="true">MOODLIFT</div>
         <img class="hero-silhouette" src="/images/rajini-silhouette.jpg" alt="" aria-hidden="true" />
         <div class="hero-copy">
-          <p class="eyebrow"><span class="eyebrow-line"></span> A MOOD RESET, THALAIVAR STYLE</p>
-          <h1 id="hero-title">FEEL A SHIFT.<br /><em>RAJINI STYLE.</em></h1>
-          <p class="hero-subtitle">Thalaivar’s words, wisdom and cinema—matched to your moment.</p>
-          <p class="hero-note">Choose how you feel. Get an original reflection, one small reset, and a Rajini film or song picked for your mood—so you can find a more positive next step.</p>
-          <p class="hero-promise"><span>01</span> A thought for your mood <i>·</i> <span>02</span> One small reset <i>·</i> <span>03</span> A Rajini song or film</p>
+          <p class="eyebrow"><span class="eyebrow-line"></span> A SMALL LIFT FOR YOUR MOOD</p>
+          <h1 id="hero-title">FEEL A LITTLE<br /><em>LIGHTER.</em></h1>
+          <p class="hero-subtitle">A brighter moment can start with one small shift.</p>
+          <p class="hero-note">Choose how you feel. Get a thoughtful reflection, one doable reset, and a personal surprise to help you move toward a more positive moment.</p>
+          <p class="hero-promise"><span>01</span> A thought for you <i>·</i> <span>02</span> One doable reset <i>·</i> <span>03</span> A little lift</p>
         </div>
         <div class="mood-panel">
           <div class="panel-heading"><p class="panel-kicker">YOUR MOMENT, YOUR WAY</p><h2>What’s on your mind?</h2><p>Pick the feeling that fits best. We’ll shape a small, relevant reset around it.</p></div>
@@ -41,7 +41,7 @@
                 <label for="minutes">Time you have <span>Optional</span><select id="minutes" name="minutes"><option value="5">5 minutes</option><option value="10" selected>10 minutes</option><option value="20">20 minutes</option><option value="30">30 minutes</option></select></label>
               </div>
             </div>
-            <button class="submit-button" type="submit">Find my Rajinism moment <span aria-hidden="true">→</span></button>
+            <button class="submit-button" type="submit">Lift my mood <span aria-hidden="true">→</span></button>
             <p class="privacy-note">No account. Your mood stays in this browser session.</p>
             <p class="form-error" id="formError" role="alert" hidden></p>
           </form>
@@ -49,22 +49,22 @@
       </section>
 
       <section class="results-section" id="results" aria-live="polite" aria-labelledby="results-title" hidden>
-        <div class="results-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> YOUR RAJINISM MOMENT</p><h2 id="results-title">A little room to reset.</h2><p id="results-intro"></p></div><button id="tryAnother" class="text-button" type="button">Try another <span aria-hidden="true">↻</span></button></div>
+        <div class="results-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> YOUR MOODLIFT MOMENT</p><h2 id="results-title">A little room to reset.</h2><p id="results-intro"></p></div><button id="tryAnother" class="text-button" type="button">Try another <span aria-hidden="true">↻</span></button></div>
         <div class="result-grid">
-          <article class="result-card mind-card"><div class="card-topline"><span class="card-number">01</span><span class="card-label">ORIGINAL RAJINISM REFLECTION</span></div><h3>A thought for this moment</h3><blockquote id="thoughtText"></blockquote><p class="original-label">Written for Rajinism—not a Rajinikanth dialogue.</p><section id="dialogueBlock" class="dialogue-block" hidden aria-label="Sourced Thalaivar dialogue or speech takeaway"><p id="dialogueLabel" class="story-kicker"></p><blockquote id="dialogueText"></blockquote><p id="dialogueAttribution" class="dialogue-attribution"></p><a id="dialogueSource" class="outbound-link" target="_blank" rel="noopener noreferrer" hidden>Read the source <span aria-hidden="true">↗</span></a><p id="dialogueInterpretation" class="dialogue-interpretation"></p><div id="dialogueStoryBlock" class="story-block dialogue-story" hidden><p class="story-kicker">AN ORIGINAL STORY INSPIRED BY THIS IDEA</p><h4 id="dialogueStoryTitle"></h4><p id="dialogueStoryText" class="story-text"></p></div></section><div class="story-block"><p class="story-kicker">AN ORIGINAL SHORT STORY <span id="storyTime"></span></p><h4 id="storyTitle"></h4><p id="storyText" class="story-text"></p></div><p class="match-reason" id="mindReason"></p></article>
-          <article class="result-card body-card"><div class="card-topline"><span class="card-number">02</span><span class="card-label">YOUR NEXT SCENE</span></div><h3>A small next step</h3><p id="activityDescription" class="activity-description"></p><div class="activity-meta"><span id="activityTime"></span><span class="energy-badge">LOW PRESSURE</span></div><ol id="activitySteps" class="activity-steps"></ol><p class="safety-note" id="safetyNote"></p><p class="match-reason" id="bodyReason"></p></article>
-          <article class="result-card entertainment-card"><div class="card-topline"><span class="card-number">03</span><span class="card-label">RAJINI CINEMA PICKS</span></div><h3>Something to watch or hear</h3><p class="entertainment-kicker">A SONG TO MATCH YOUR MOMENT</p><h4 id="songTitle"></h4><p id="songReason" class="entertainment-copy"></p><a id="songLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Open official music link <span aria-hidden="true">↗</span></a><div class="movie-block"><p class="entertainment-kicker">A FILM FOR ANOTHER MOMENT</p><h4 id="movieTitle"></h4><p id="movieCopy" class="entertainment-copy"></p><a id="movieLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Explore the official film guide <span aria-hidden="true">↗</span></a></div><p class="rights-note">We link out to the rightsholder’s platform. No music or film clips are hosted here.</p></article>
+          <article class="result-card mind-card"><div class="card-topline"><span class="card-number">01</span><span class="card-label">A THOUGHT FOR YOU</span></div><h3>A thought for this moment</h3><blockquote id="thoughtText"></blockquote><p class="original-label">An original MoodLift reflection—not a film line.</p><section id="dialogueBlock" class="dialogue-block" hidden aria-label="Sourced Thalaivar dialogue or speech takeaway"><p id="dialogueLabel" class="story-kicker"></p><blockquote id="dialogueText"></blockquote><p id="dialogueAttribution" class="dialogue-attribution"></p><a id="dialogueSource" class="outbound-link" target="_blank" rel="noopener noreferrer" hidden>Read the source <span aria-hidden="true">↗</span></a><p id="dialogueInterpretation" class="dialogue-interpretation"></p><div id="dialogueStoryBlock" class="story-block dialogue-story" hidden><p class="story-kicker">AN ORIGINAL STORY INSPIRED BY THIS IDEA</p><h4 id="dialogueStoryTitle"></h4><p id="dialogueStoryText" class="story-text"></p></div></section><div class="story-block"><p class="story-kicker">AN ORIGINAL SHORT STORY <span id="storyTime"></span></p><h4 id="storyTitle"></h4><p id="storyText" class="story-text"></p></div><p class="match-reason" id="mindReason"></p></article>
+          <article class="result-card body-card"><div class="card-topline"><span class="card-number">02</span><span class="card-label">ONE DOABLE RESET</span></div><h3>Your next small step</h3><p id="activityDescription" class="activity-description"></p><div class="activity-meta"><span id="activityTime"></span><span class="energy-badge">LOW PRESSURE</span></div><ol id="activitySteps" class="activity-steps"></ol><p class="safety-note" id="safetyNote"></p><p class="match-reason" id="bodyReason"></p></article>
+          <article class="result-card entertainment-card"><div class="card-topline"><span class="card-number">03</span><span class="card-label">A LITTLE SURPRISE</span></div><h3>A song or film picked for you</h3><p class="entertainment-kicker">A SONG TO MATCH YOUR MOMENT</p><h4 id="songTitle"></h4><p id="songReason" class="entertainment-copy"></p><a id="songLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Open official music link <span aria-hidden="true">↗</span></a><div class="movie-block"><p class="entertainment-kicker">A FILM FOR ANOTHER MOMENT</p><h4 id="movieTitle"></h4><p id="movieCopy" class="entertainment-copy"></p><a id="movieLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Explore the film guide <span aria-hidden="true">↗</span></a></div><p class="rights-note">We link out to the rightsholder’s platform. No music or film clips are hosted here.</p></article>
         </div>
         <div class="result-actions" aria-label="Result actions">
-          <a id="shareWhatsapp" class="whatsapp-share" href="https://wa.me/" target="_blank" rel="noopener noreferrer" aria-label="Share this Rajinism result on WhatsApp"><span class="share-mark" aria-hidden="true">↗</span> Share on WhatsApp</a>
+          <a id="shareWhatsapp" class="whatsapp-share" href="https://wa.me/" target="_blank" rel="noopener noreferrer" aria-label="Share this MoodLift result on WhatsApp"><span class="share-mark" aria-hidden="true">↗</span> Share on WhatsApp</a>
           <button id="resetExperience" class="reset-experience" type="button">Reset and choose another mood <span aria-hidden="true">↺</span></button>
           <p class="share-note">WhatsApp opens with a message draft. You choose whether to send it.</p>
         </div>
-        <div class="feedback-panel" id="feedbackPanel"><p>Did this Rajinism moment help?</p><div class="feedback-actions"><button type="button" data-feedback="yes">A little, yes</button><button type="button" data-feedback="not-yet">Not yet</button><button type="button" data-feedback="skip">Skip</button></div><p class="feedback-thanks" id="feedbackThanks" hidden>Thanks — your feedback stays on this page.</p></div>
-        <p class="support-note">Rajinism is for encouragement and entertainment, not mental health treatment or crisis care. If you’re in serious distress, consider reaching out to someone you trust or an appropriate local support service.</p>
+        <div class="feedback-panel" id="feedbackPanel"><p>Did this MoodLift moment help?</p><div class="feedback-actions"><button type="button" data-feedback="yes">A little, yes</button><button type="button" data-feedback="not-yet">Not yet</button><button type="button" data-feedback="skip">Skip</button></div><p class="feedback-thanks" id="feedbackThanks" hidden>Thanks — your feedback stays on this page.</p></div>
+        <p class="support-note">MoodLift is for encouragement and entertainment, not mental health treatment or crisis care. If you’re in serious distress, consider reaching out to someone you trust or an appropriate local support service.</p>
       </section>
     </main>
-    <footer id="credits"><a class="brand footer-brand" href="#top"><span class="brand-star" aria-hidden="true">✦</span><span>RAJINISM</span></a><p>Independent, non-commercial fan-made concept. Not affiliated with or endorsed by Rajinikanth, his representatives, film producers, studios, music labels, or other rights holders.</p><span class="footer-small">Original thoughts · Curated references · No hosted media</span></footer>
+    <footer id="credits"><a class="brand footer-brand" href="#top"><span class="brand-star" aria-hidden="true">✦</span><span>MOODLIFT</span></a><p>Independent, non-commercial fan-made concept. Not affiliated with or endorsed by Rajinikanth, his representatives, film producers, studios, music labels, or other rights holders.</p><span class="footer-small">Original thoughts · Curated references · No hosted media</span></footer>
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

@@ -103,13 +103,13 @@ function presentExperience(input: UserInput): void {
   movieLink.href = experience.movie.item.externalLink;
   movieLink.hidden = !/^https:\/\//i.test(movieLink.href);
   const shareText = [
-    "RAJINISM ✦ My Superstar moment",
-    ...(experience.dialogue ? [`A Baasha dialogue (English rendering): “${experience.dialogue.text}”`, `Source: ${experience.dialogue.sourceUrl}`] : []),
-    `An original Rajinism thought (not a Rajinikanth quote): “${experience.thought.item.text}”`,
+    "MOODLIFT ✦ A little lift for my mood",
+    ...(experience.dialogue ? [`A Thalaivar line or speech takeaway: “${experience.dialogue.text}”`, `Source: ${experience.dialogue.sourceUrl}`] : []),
+    `An original MoodLift reflection (not a film quote): “${experience.thought.item.text}”`,
     `Try this reset: ${experience.activity.item.title} — ${experience.activity.item.description}`,
     `A song for the moment: ${experience.song.item.title}`,
     `A film for later: ${experience.movie.item.title}`,
-    "Find your next scene: https://rajinism.vercel.app",
+    "Find your MoodLift moment: https://moodlift.vercel.app",
   ].join("\n\n");
   document.querySelector<HTMLAnchorElement>("#shareWhatsapp")!.href = `https://wa.me/?text=${encodeURIComponent(shareText)}`;
   results.hidden = false;
