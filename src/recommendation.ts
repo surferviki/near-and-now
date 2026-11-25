@@ -4,7 +4,7 @@ const WEIGHTS = { mood: 40, intensity: 20, context: 15, duration: 15, target: 10
 const GENERAL_MOODS: MoodId[] = ["happy", "sad", "angry", "frustrated", "stressed", "lonely", "bored", "demotivated", "confident"];
 export function validateContent(content: Content): string[] {
   const errors: string[] = [];
-  for (const collection of [content.moods, content.thoughts, content.stories, content.activities, content.songs, content.movies]) {
+  for (const collection of [content.moods, content.thoughts, content.stories, content.activities, content.songs, content.movies, ...(content.dialogues ? [content.dialogues] : [])]) {
     const ids = collection.map((entry) => entry.id);
     if (new Set(ids).size !== ids.length) errors.push("Content IDs must be unique within each collection.");
   }
@@ -12,7 +12,7 @@ export function validateContent(content: Content): string[] {
   for (const [name, collection] of Object.entries({ moods: content.moods, thoughts: content.thoughts, stories: content.stories, activities: content.activities, songs: content.songs, movies: content.movies })) {
     if (!collection.length) errors.push(`The ${name} collection cannot be empty.`);
   }
-  for (const item of [...content.thoughts, ...content.stories, ...content.activities, ...content.songs, ...content.movies]) {
+  for (const item of [...content.thoughts, ...content.stories, ...content.activities, ...content.songs, ...content.movies, ...(content.dialogues ?? [])]) {
     if (item.moods.some((mood) => !moodIds.has(mood))) errors.push(`Unknown mood reference in ${item.id}.`);
   }
   if (content.songs.some((song) => !content.movies.some((movie) => movie.id === song.movieId))) errors.push("Every song must reference a movie.");
@@ -68,7 +68,8 @@ export function buildExperience(input: UserInput, content: Content, recentIds: s
   const activity = chooseActivity(content.activities, input, [...profile.preferredThemes, ...story.item.themes], recent);
   const song = choose(score(validSongs, input, profile.preferredThemes, recent), recent);
   const movie = choose(score(validMovies, input, profile.preferredThemes, recent), recent);
-  return { mood: profile, thought, story, activity, song, movie };
+  const dialogue = content.dialogues?.find((item) => item.moods.includes(input.moodId));
+  return { mood: profile, thought, story, activity, song, movie, ...(dialogue ? { dialogue } : {}) };
 }
 
 export function rememberExperience(experience: Experience): string[] {
