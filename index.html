@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="theme-color" content="#08090c" />
-    <meta name="description" content="Rajinism: a Rajinikanth-inspired mood reset. Find one thought, one doable action, and a little screen magic for your moment." />
+    <meta name="description" content="Rajinism is a Rajinikanth-inspired mood reset with an original reflection, a practical next step, and film or music picks for your moment." />
     <title>Rajinism — Find your next scene</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -20,14 +20,14 @@
         <div class="hero-watermark" aria-hidden="true">RAJINISM</div>
         <img class="hero-silhouette" src="/images/rajini-silhouette.jpg" alt="" aria-hidden="true" />
         <div class="hero-copy">
-          <p class="eyebrow"><span class="eyebrow-line"></span> FIND YOUR NEXT SCENE</p>
+          <p class="eyebrow"><span class="eyebrow-line"></span> EVERY MOOD HAS A SCENE</p>
           <h1 id="hero-title">RAJINISM<br /><em>STARTS HERE</em></h1>
-          <p class="hero-subtitle">A little Superstar spirit for the moment you’re in.</p>
-          <p class="hero-note">Pick your mood. We’ll bring you a thought, a simple reset, and a touch of cinema.</p>
-          <p class="hero-promise"><span>01</span> Mind <i>·</i> <span>02</span> Body <i>·</i> <span>03</span> Entertainment</p>
+          <p class="hero-subtitle">Find a little Superstar spirit for the moment you’re in.</p>
+          <p class="hero-note">Choose how you feel for an original reflection, a doable reset, and a Rajini film or music pick.</p>
+          <p class="hero-promise"><span>01</span> Original thought <i>·</i> <span>02</span> Small action <i>·</i> <span>03</span> Cinema picks</p>
         </div>
         <div class="mood-panel">
-          <div class="panel-heading"><p class="panel-kicker">YOUR MOMENT, YOUR WAY</p><h2>What’s on your mind?</h2><p>Choose what feels closest. No wrong answers.</p></div>
+          <div class="panel-heading"><p class="panel-kicker">YOUR MOMENT, YOUR WAY</p><h2>What’s on your mind?</h2><p>Pick the feeling that fits best. We’ll shape a small, relevant reset around it.</p></div>
           <form id="moodForm" class="mood-form">
             <fieldset class="mood-fieldset"><legend>How are you feeling?</legend><div class="mood-grid" id="moodGrid"></div></fieldset>
             <div class="form-secondary">
@@ -51,9 +51,9 @@
       <section class="results-section" id="results" aria-live="polite" aria-labelledby="results-title" hidden>
         <div class="results-heading"><div><p class="eyebrow"><span class="eyebrow-line"></span> YOUR RAJINISM MOMENT</p><h2 id="results-title">A little room to reset.</h2><p id="results-intro"></p></div><button id="tryAnother" class="text-button" type="button">Try another <span aria-hidden="true">↻</span></button></div>
         <div class="result-grid">
-          <article class="result-card mind-card"><div class="card-topline"><span class="card-number">01</span><span class="card-label">MIND</span></div><h3>A thought for this moment</h3><blockquote id="thoughtText"></blockquote><p class="original-label">An original Rajinism thought</p><div class="story-block"><p class="story-kicker">A SHORT STORY <span id="storyTime"></span></p><h4 id="storyTitle"></h4><p id="storyText" class="story-text"></p></div><p class="match-reason" id="mindReason"></p></article>
-          <article class="result-card body-card"><div class="card-topline"><span class="card-number">02</span><span class="card-label">BODY</span></div><h3>Your Superstar Reset</h3><p id="activityDescription" class="activity-description"></p><div class="activity-meta"><span id="activityTime"></span><span class="energy-badge">LOW PRESSURE</span></div><ol id="activitySteps" class="activity-steps"></ol><p class="safety-note" id="safetyNote"></p><p class="match-reason" id="bodyReason"></p></article>
-          <article class="result-card entertainment-card"><div class="card-topline"><span class="card-number">03</span><span class="card-label">ENTERTAINMENT</span></div><h3>The Superstar Experience</h3><p class="entertainment-kicker">A SONG TO MATCH YOUR MOMENT</p><h4 id="songTitle"></h4><p id="songReason" class="entertainment-copy"></p><a id="songLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Open official music link <span aria-hidden="true">↗</span></a><div class="movie-block"><p class="entertainment-kicker">A FILM FOR ANOTHER MOMENT</p><h4 id="movieTitle"></h4><p id="movieCopy" class="entertainment-copy"></p><a id="movieLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Explore the official film guide <span aria-hidden="true">↗</span></a></div><p class="rights-note">We link out to the rightsholder’s platform. No music or film clips are hosted here.</p></article>
+          <article class="result-card mind-card"><div class="card-topline"><span class="card-number">01</span><span class="card-label">ORIGINAL THOUGHT</span></div><h3>A thought for this moment</h3><blockquote id="thoughtText"></blockquote><p class="original-label">Written for Rajinism. This is not a verified Rajinikanth quote.</p><section id="dialogueBlock" class="dialogue-block" hidden aria-label="Sourced film dialogue"><p class="story-kicker">A THALAIVAR FILM LINE</p><blockquote id="dialogueText"></blockquote><p id="dialogueAttribution" class="dialogue-attribution"></p><a id="dialogueSource" class="outbound-link" target="_blank" rel="noopener noreferrer" hidden>Read the source <span aria-hidden="true">↗</span></a><p id="dialogueInterpretation" class="dialogue-interpretation"></p><div id="dialogueStoryBlock" class="story-block dialogue-story" hidden><p class="story-kicker">AN ORIGINAL STORY INSPIRED BY THIS IDEA</p><h4 id="dialogueStoryTitle"></h4><p id="dialogueStoryText" class="story-text"></p></div></section><div class="story-block"><p class="story-kicker">AN ORIGINAL SHORT STORY <span id="storyTime"></span></p><h4 id="storyTitle"></h4><p id="storyText" class="story-text"></p></div><p class="match-reason" id="mindReason"></p></article>
+          <article class="result-card body-card"><div class="card-topline"><span class="card-number">02</span><span class="card-label">YOUR NEXT SCENE</span></div><h3>A small next step</h3><p id="activityDescription" class="activity-description"></p><div class="activity-meta"><span id="activityTime"></span><span class="energy-badge">LOW PRESSURE</span></div><ol id="activitySteps" class="activity-steps"></ol><p class="safety-note" id="safetyNote"></p><p class="match-reason" id="bodyReason"></p></article>
+          <article class="result-card entertainment-card"><div class="card-topline"><span class="card-number">03</span><span class="card-label">RAJINI CINEMA PICKS</span></div><h3>Something to watch or hear</h3><p class="entertainment-kicker">A SONG TO MATCH YOUR MOMENT</p><h4 id="songTitle"></h4><p id="songReason" class="entertainment-copy"></p><a id="songLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Open official music link <span aria-hidden="true">↗</span></a><div class="movie-block"><p class="entertainment-kicker">A FILM FOR ANOTHER MOMENT</p><h4 id="movieTitle"></h4><p id="movieCopy" class="entertainment-copy"></p><a id="movieLink" class="outbound-link" target="_blank" rel="noopener noreferrer">Explore the official film guide <span aria-hidden="true">↗</span></a></div><p class="rights-note">We link out to the rightsholder’s platform. No music or film clips are hosted here.</p></article>
         </div>
         <div class="result-actions" aria-label="Result actions">
           <a id="shareWhatsapp" class="whatsapp-share" href="https://wa.me/" target="_blank" rel="noopener noreferrer" aria-label="Share this Rajinism result on WhatsApp"><span class="share-mark" aria-hidden="true">↗</span> Share on WhatsApp</a>
