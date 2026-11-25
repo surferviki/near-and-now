@@ -71,7 +71,8 @@ function presentExperience(input: UserInput): void {
   dialogueBlock.hidden = !dialogue;
   if (dialogue) {
     setText("#dialogueText", `“${dialogue.text}”`);
-    setText("#dialogueAttribution", `${dialogue.film} (${dialogue.year}) · English rendering`);
+    setText("#dialogueLabel", dialogue.kind === "speech_paraphrase" ? "THALAIVAR’S SPEECH TAKEAWAY · PARAPHRASED" : "SOURCED THALAIVAR FILM DIALOGUE");
+    setText("#dialogueAttribution", `${dialogue.film} (${dialogue.year}) · ${dialogue.renderingLabel ?? (dialogue.kind === "speech_paraphrase" ? "paraphrased summary" : "English rendering")}`);
     const dialogueSource = document.querySelector<HTMLAnchorElement>("#dialogueSource")!;
     dialogueSource.href = dialogue.sourceUrl;
     dialogueSource.hidden = false;
