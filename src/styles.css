@@ -57,3 +57,14 @@ footer{border-color:#292a2f}.footer-brand{color:#f8f5ee}footer p,.footer-small{c
   .whatsapp-share,.reset-experience{width:100%;min-height:46px;font-size:11px}
   .share-note{text-align:center;font-size:9px;padding:1px 8px 0}
 }
+
+/* Keep original app-written reflections clearly distinct from sourced dialogue. */
+.original-label{display:inline-block;margin-top:10px;padding:6px 9px;border:1px solid #51472f;border-radius:4px;color:#f0d58b;font-size:9px;line-height:1.45;letter-spacing:.1px}
+.dialogue-block{margin-top:18px;padding:15px;border:1px solid #76602c;border-radius:7px;background:linear-gradient(135deg,#201b10,#171719)}
+.dialogue-block[hidden],.dialogue-story[hidden]{display:none}
+.dialogue-block>blockquote{margin:8px 0 5px;color:#f2ce70;font:700 18px/1.4 var(--display)}
+.dialogue-attribution{margin:0 0 7px;color:#c6beb0;font-size:10px}
+.dialogue-interpretation{margin:11px 0 0;color:#e0d9cc;font-size:11px;line-height:1.65}
+.dialogue-story{border-color:#50472f}
+.dialogue-story .story-kicker{line-height:1.5}
+@media(max-width:700px){.dialogue-block{padding:12px}.dialogue-block>blockquote{font-size:16px}}
