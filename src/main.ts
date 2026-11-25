@@ -65,7 +65,7 @@ function presentExperience(input: UserInput): void {
   lastInput = input;
   const setText = (selector: string, text: string) => { document.querySelector<HTMLElement>(selector)!.textContent = text; };
   setText("#results-intro", `${experience.mood.emoji} ${experience.mood.label} · ${input.intensity} intensity · ${input.availableMinutes} minute reset`);
-  setText("#thoughtText", `“${experience.thought.item.text}”`);
+  setText("#thoughtText", experience.thought.item.text);
   const dialogue = experience.dialogue;
   const dialogueBlock = document.querySelector<HTMLElement>("#dialogueBlock")!;
   dialogueBlock.hidden = !dialogue;
