@@ -2,7 +2,7 @@ import contentJson from "../data/content.json";
 import contentExpansionJson from "../data/content-expansion.json";
 import catalogExpansionJson from "../data/catalog-expansion.json";
 import { buildExperience, getInitialRecent, rememberExperience, validateContent } from "./recommendation";
-import type { Content, Intensity, MoodId, ReasonId, UserInput } from "./types";
+import type { Content, Intensity, MoodId, UserInput } from "./types";
 import "./styles.css";
 
 const baseContent = contentJson as Content;
@@ -54,8 +54,7 @@ function getInput(): UserInput | null {
   return {
     moodId: selectedMood,
     intensity: String(data.get("intensity")) as Intensity,
-    reasonId: String(data.get("reason")) as ReasonId,
-    availableMinutes: Number(data.get("minutes")) as UserInput["availableMinutes"],
+    availableMinutes: 10,
   };
 }
 
@@ -64,7 +63,7 @@ function presentExperience(input: UserInput): void {
   recentIds = rememberExperience(experience);
   lastInput = input;
   const setText = (selector: string, text: string) => { document.querySelector<HTMLElement>(selector)!.textContent = text; };
-  setText("#results-intro", `${experience.mood.emoji} ${experience.mood.label} · ${input.intensity} intensity · ${input.availableMinutes} minute reset`);
+  setText("#results-intro", `${experience.mood.emoji} ${experience.mood.label} · ${input.intensity} intensity`);
   setText("#thoughtText", experience.thought.item.text);
   const dialogue = experience.dialogue;
   const dialogueBlock = document.querySelector<HTMLElement>("#dialogueBlock")!;

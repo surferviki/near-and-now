@@ -1,6 +1,6 @@
 import type { Activity, Content, Experience, Intensity, MoodId, Scored, UserInput } from "./types";
 
-const WEIGHTS = { mood: 40, intensity: 20, context: 15, duration: 15, target: 10 } as const;
+const WEIGHTS = { mood: 40, intensity: 20, duration: 15, target: 10 } as const;
 const GENERAL_MOODS: MoodId[] = ["happy", "sad", "angry", "frustrated", "stressed", "lonely", "bored", "demotivated", "confident"];
 export function validateContent(content: Content): string[] {
   const errors: string[] = [];
@@ -29,7 +29,6 @@ function score<T extends { id: string; moods: MoodId[]; themes: string[] }>(
     if (item.moods.includes(input.moodId)) { points += WEIGHTS.mood; reasons.push("matches your mood"); }
     const intensityValues = "intensity" in item ? (item.intensity as Intensity[]) : [];
     if (!intensityValues.length || intensityValues.includes(input.intensity)) { points += WEIGHTS.intensity; reasons.push("fits your intensity"); }
-    if ("reasonIds" in item && (item.reasonIds as string[]).includes(input.reasonId)) { points += WEIGHTS.context; reasons.push("fits your context"); }
     const minutes = "durationMinutes" in item ? Number(item.durationMinutes) : 0;
     if (minutes && minutes <= input.availableMinutes) { points += WEIGHTS.duration; reasons.push("fits your time"); }
     const overlap = item.themes.filter((theme) => preferredThemes.includes(theme)).length;

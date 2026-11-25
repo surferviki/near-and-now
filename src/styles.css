@@ -68,3 +68,4 @@ footer{border-color:#292a2f}.footer-brand{color:#f8f5ee}footer p,.footer-small{c
 .dialogue-story{border-color:#50472f}
 .dialogue-story .story-kicker{line-height:1.5}
 @media(max-width:700px){.dialogue-block{padding:12px}.dialogue-block>blockquote{font-size:16px}}
+.form-secondary{grid-template-columns:1fr}
