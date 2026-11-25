@@ -1,0 +1,1600 @@
+{
+  "songs": [
+    {
+      "id": "MUS020",
+      "title": "Naan Autokaaran",
+      "movieId": "MOV008",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "source": "Kosmik official Baasha audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS021",
+      "title": "Style Style",
+      "movieId": "MOV008",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "source": "Kosmik official Baasha audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS022",
+      "title": "Ra Ra Raamaiya",
+      "movieId": "MOV008",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "source": "Kosmik official Baasha audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS023",
+      "title": "Thanga Magan",
+      "movieId": "MOV008",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "source": "Kosmik official Baasha audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS024",
+      "title": "Azhagu Azhagu",
+      "movieId": "MOV008",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "source": "Kosmik official Baasha audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=DCEqZg5MqiQ",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS025",
+      "title": "En Peru Padaiyappa",
+      "movieId": "MOV044",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "source": "Star Music India official Padayappa audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS026",
+      "title": "Kikku Aerudae",
+      "movieId": "MOV044",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "source": "Star Music India official Padayappa audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS027",
+      "title": "Minsara Kanna",
+      "movieId": "MOV044",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "source": "Star Music India official Padayappa audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS028",
+      "title": "Suthi Suthi Vandhiga",
+      "movieId": "MOV044",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "source": "Star Music India official Padayappa audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS029",
+      "title": "Vettrikkodi Kattu",
+      "movieId": "MOV044",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "source": "Star Music India official Padayappa audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=V4PsND7MUho",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS030",
+      "title": "Balleilakka",
+      "movieId": "MOV046",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS031",
+      "title": "Style (Oru Koodai Sunlight)",
+      "movieId": "MOV046",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS032",
+      "title": "Vaaji Vaaji",
+      "movieId": "MOV046",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS033",
+      "title": "Athiradee",
+      "movieId": "MOV046",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS034",
+      "title": "Sahana",
+      "movieId": "MOV046",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS035",
+      "title": "The Boss",
+      "movieId": "MOV046",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS036",
+      "title": "Sahara Pookal",
+      "movieId": "MOV046",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "source": "Sivaji: The Boss soundtrack album listing",
+      "sourceUrl": "https://open.spotify.com/album/6AiAPV79TMSwffWkIsVqbv",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS037",
+      "title": "Puthiya Manidha",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS038",
+      "title": "Kadhal Anukkal",
+      "movieId": "MOV002",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS039",
+      "title": "Irumbile Oru Idhaiyam",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS040",
+      "title": "Chitti Dance Showcase",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS041",
+      "title": "Arima Arima",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS042",
+      "title": "Kilimanjaro",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS043",
+      "title": "Boom Boom Robot Da",
+      "movieId": "MOV002",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "source": "Think Music official Enthiran audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=cGeVlX3YyH0",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS044",
+      "title": "Rakkamma Kaiya Thattu",
+      "movieId": "MOV039",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS045",
+      "title": "Sundari Kannal Oru Sethi",
+      "movieId": "MOV039",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS046",
+      "title": "Kaatukuyilu",
+      "movieId": "MOV039",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS047",
+      "title": "Yamunai Aatrile",
+      "movieId": "MOV039",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS048",
+      "title": "Chinna Thayaval",
+      "movieId": "MOV039",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS049",
+      "title": "Putham Puthu Poo",
+      "movieId": "MOV039",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "source": "Lahari Music official Thalapathi audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=RQd3pTnLbTI",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS050",
+      "title": "Annaatthe Annaatthe",
+      "movieId": "MOV004",
+      "moods": [
+        "happy",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "momentum",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS051",
+      "title": "Saara Saara Kaattrae",
+      "movieId": "MOV004",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS052",
+      "title": "Marudhaani",
+      "movieId": "MOV004",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS053",
+      "title": "Yennuyire (Male Version)",
+      "movieId": "MOV004",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS054",
+      "title": "Vaa Saamy",
+      "movieId": "MOV004",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS055",
+      "title": "A For Annaatthe",
+      "movieId": "MOV004",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "confidence"
+      ],
+      "energy": "high",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "MUS056",
+      "title": "Yennuyire (Female Version)",
+      "movieId": "MOV004",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "ta",
+      "externalLink": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "source": "Sun TV official Annaatthe audio jukebox",
+      "sourceUrl": "https://www.youtube.com/watch?v=CkJtsa1rjKA",
+      "rightsStatus": "not_applicable"
+    }
+  ],
+  "movies": [
+    {
+      "id": "MOV015",
+      "title": "Apoorva Raagangal",
+      "year": 1975,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "curious",
+        "reflective"
+      ],
+      "themes": [
+        "curiosity"
+      ],
+      "synopsis": "An early Balachander drama that introduced Rajinikanth to Tamil cinema audiences.",
+      "recommendationReason": "For a reflective mood and a reminder of how memorable beginnings can be.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV016",
+      "title": "Moondru Mudichu",
+      "year": 1976,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "sad",
+        "frustrated"
+      ],
+      "themes": [
+        "resilience"
+      ],
+      "synopsis": "A relationship drama directed by K. Balachander, with Rajinikanth in a pivotal role.",
+      "recommendationReason": "A serious early drama when you want a character-led story.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV017",
+      "title": "Avargal",
+      "year": 1977,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "self_respect"
+      ],
+      "synopsis": "A K. Balachander relationship drama featuring Rajinikanth as Ramanathan.",
+      "recommendationReason": "A thoughtful pick for a quieter, character-focused evening.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV018",
+      "title": "16 Vayathinile",
+      "year": 1977,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "reflective",
+        "curious"
+      ],
+      "themes": [
+        "growth"
+      ],
+      "synopsis": "A rural drama directed by Bharathiraja, with Rajinikanth in a notable supporting role.",
+      "recommendationReason": "A landmark ensemble drama when you want a change from a star-led action film.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV019",
+      "title": "Mullum Malarum",
+      "year": 1978,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "independence"
+      ],
+      "synopsis": "Mahendran’s drama follows Kali, a fiercely independent winch operator played by Rajinikanth.",
+      "recommendationReason": "A strong character study about pride, family and independence.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV020",
+      "title": "Bairavi",
+      "year": 1978,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "angry"
+      ],
+      "themes": [
+        "justice"
+      ],
+      "synopsis": "An early Rajinikanth action drama directed by M. Bhaskar.",
+      "recommendationReason": "A vintage pick for a classic screen presence and straightforward drama.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV021",
+      "title": "Aval Appadithan",
+      "year": 1978,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "reflective",
+        "frustrated"
+      ],
+      "themes": [
+        "perspective"
+      ],
+      "synopsis": "A Tamil drama directed by C. Rudhraiya, featuring Rajinikanth alongside Sripriya and Kamal Haasan.",
+      "recommendationReason": "Choose this for a more experimental, conversation-starting film.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV022",
+      "title": "Ninaithale Inikkum",
+      "year": 1979,
+      "genres": [
+        "musical drama"
+      ],
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "connection"
+      ],
+      "synopsis": "A music-led drama directed by K. Balachander, featuring Rajinikanth in an ensemble cast.",
+      "recommendationReason": "A music-forward choice when you want warmth and an ensemble story.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV023",
+      "title": "Johnny",
+      "year": 1980,
+      "genres": [
+        "romantic thriller"
+      ],
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "themes": [
+        "mystery"
+      ],
+      "synopsis": "Mahendran’s stylish thriller features Rajinikanth in dual roles.",
+      "recommendationReason": "A moody, atmospheric pick when a familiar genre formula feels stale.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV024",
+      "title": "Billa",
+      "year": 1980,
+      "genres": [
+        "action thriller"
+      ],
+      "moods": [
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "reinvention"
+      ],
+      "synopsis": "A stylish action thriller featuring Rajinikanth in dual roles, inspired by the international crime genre.",
+      "recommendationReason": "A sleek double-role performance for a high-energy cinema mood.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV025",
+      "title": "Murattu Kaalai",
+      "year": 1980,
+      "genres": [
+        "action"
+      ],
+      "moods": [
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "courage"
+      ],
+      "synopsis": "A rural action drama that helped establish Rajinikanth as a major leading star.",
+      "recommendationReason": "A classic mass-action pick when you want an energetic change of pace.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV026",
+      "title": "Thillu Mullu",
+      "year": 1981,
+      "genres": [
+        "comedy"
+      ],
+      "moods": [
+        "happy",
+        "stressed",
+        "bored"
+      ],
+      "themes": [
+        "humour"
+      ],
+      "synopsis": "K. Balachander’s comedy stars Rajinikanth in a rare full-length comic role.",
+      "recommendationReason": "A light comedy when you want to step away from heavier moods.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV027",
+      "title": "Netrikkan",
+      "year": 1981,
+      "genres": [
+        "drama"
+      ],
+      "moods": [
+        "angry",
+        "reflective"
+      ],
+      "themes": [
+        "accountability"
+      ],
+      "synopsis": "S. P. Muthuraman’s drama features Rajinikanth in dual roles as father and son.",
+      "recommendationReason": "A performance-led drama with family conflict and a moral turn.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV028",
+      "title": "Moondru Mugam",
+      "year": 1982,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "angry"
+      ],
+      "themes": [
+        "justice"
+      ],
+      "synopsis": "Rajinikanth plays three roles in this action drama directed by A. Jagannathan.",
+      "recommendationReason": "A triple-role classic for an action-packed, nostalgic watch.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV029",
+      "title": "Thanga Magan",
+      "year": 1983,
+      "genres": [
+        "family drama"
+      ],
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "family"
+      ],
+      "synopsis": "A family drama directed by A. Jagannathan, starring Rajinikanth and Poornima Bhagyaraj.",
+      "recommendationReason": "A relationship-centred pick when you want an older family drama.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV030",
+      "title": "Nallavanukku Nallavan",
+      "year": 1984,
+      "genres": [
+        "family drama"
+      ],
+      "moods": [
+        "happy",
+        "sad"
+      ],
+      "themes": [
+        "second_chances"
+      ],
+      "synopsis": "A family drama directed by S. P. Muthuraman, with Rajinikanth and Radhika.",
+      "recommendationReason": "A sentimental story about loyalty and changing relationships.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV031",
+      "title": "Padikkathavan",
+      "year": 1985,
+      "genres": [
+        "family drama"
+      ],
+      "moods": [
+        "sad",
+        "confident"
+      ],
+      "themes": [
+        "belonging"
+      ],
+      "synopsis": "A family drama directed by Rajasekhar, starring Rajinikanth and Sivaji Ganesan.",
+      "recommendationReason": "A warm ensemble pick about family ties and finding your place.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV032",
+      "title": "Sri Raghavendrar",
+      "year": 1985,
+      "genres": [
+        "biographical drama"
+      ],
+      "moods": [
+        "stressed",
+        "reflective"
+      ],
+      "themes": [
+        "faith"
+      ],
+      "synopsis": "A biographical devotional film in which Rajinikanth portrayed the saint Raghavendra.",
+      "recommendationReason": "A contemplative option for a slower, spiritually themed viewing.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV033",
+      "title": "Mr. Bharath",
+      "year": 1986,
+      "genres": [
+        "family drama"
+      ],
+      "moods": [
+        "angry",
+        "frustrated"
+      ],
+      "themes": [
+        "reconciliation"
+      ],
+      "synopsis": "A family drama directed by S. P. Muthuraman, starring Rajinikanth and Sathyaraj.",
+      "recommendationReason": "A dramatic father-son conflict for a focused evening watch.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV034",
+      "title": "Velaikkaran",
+      "year": 1987,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "agency"
+      ],
+      "synopsis": "A contemporary action drama directed by S. P. Muthuraman, starring Rajinikanth.",
+      "recommendationReason": "A brisk, determined-hero story when you want momentum.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV035",
+      "title": "Dharmathin Thalaivan",
+      "year": 1988,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "humour"
+      ],
+      "synopsis": "A film directed by S. P. Muthuraman featuring Rajinikanth in dual roles.",
+      "recommendationReason": "A lighter double-role pick with comedy alongside action.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV036",
+      "title": "Mappillai",
+      "year": 1989,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "self_respect"
+      ],
+      "synopsis": "A family action comedy directed by Rajasekhar, starring Rajinikanth and Amala.",
+      "recommendationReason": "An upbeat, crowd-pleasing choice with family comedy and swagger.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV037",
+      "title": "Rajadhi Raja",
+      "year": 1989,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "celebration"
+      ],
+      "synopsis": "A S. P. Muthuraman action comedy starring Rajinikanth in dual roles.",
+      "recommendationReason": "Pick this for a lively late-eighties entertainer.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV038",
+      "title": "Panakkaran",
+      "year": 1990,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "determination"
+      ],
+      "synopsis": "A drama directed by P. Vasu, starring Rajinikanth as a man who rises from poverty.",
+      "recommendationReason": "A rags-to-resolve story when you want an underdog arc.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV039",
+      "title": "Thalapathi",
+      "year": 1991,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "lonely"
+      ],
+      "themes": [
+        "loyalty"
+      ],
+      "synopsis": "Mani Ratnam’s crime drama pairs Rajinikanth and Mammootty in a story inspired by the Mahabharata.",
+      "recommendationReason": "A richly staged friendship and loyalty drama for an immersive watch.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV040",
+      "title": "Annamalai",
+      "year": 1992,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "perseverance"
+      ],
+      "synopsis": "A Suresh Krissna drama follows the friendship and rivalry between Annamalai and Ashok.",
+      "recommendationReason": "A satisfying rise-against-the-odds story for a determined mood.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV041",
+      "title": "Uzhaippali",
+      "year": 1993,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "energy"
+      ],
+      "synopsis": "A P. Vasu action comedy starring Rajinikanth and Roja.",
+      "recommendationReason": "A lively entertainer when you want action with lighter moments.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV042",
+      "title": "Veera",
+      "year": 1994,
+      "genres": [
+        "comedy drama"
+      ],
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "comedy"
+      ],
+      "synopsis": "A Suresh Krissna comedy-drama starring Rajinikanth, Meena and Roja.",
+      "recommendationReason": "A playful pick when you want romance and comic confusion.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV043",
+      "title": "Arunachalam",
+      "year": 1997,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "purpose"
+      ],
+      "synopsis": "A Sundar C. comedy-drama follows Arunachalam through a challenge tied to his inheritance.",
+      "recommendationReason": "A broad, upbeat story about purpose, choices and generosity.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV044",
+      "title": "Padayappa",
+      "year": 1999,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "angry"
+      ],
+      "themes": [
+        "self_respect"
+      ],
+      "synopsis": "A K. S. Ravikumar family drama starring Rajinikanth, Ramya Krishnan and Soundarya.",
+      "recommendationReason": "A commanding family saga for a bold, larger-than-life cinema mood.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV045",
+      "title": "Baba",
+      "year": 2002,
+      "genres": [
+        "fantasy drama"
+      ],
+      "moods": [
+        "stressed",
+        "reflective"
+      ],
+      "themes": [
+        "choice"
+      ],
+      "synopsis": "A spiritual fantasy drama written by and starring Rajinikanth.",
+      "recommendationReason": "A reflective fantasy when you want a story built around choices and belief.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV046",
+      "title": "Sivaji: The Boss",
+      "year": 2007,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "justice"
+      ],
+      "synopsis": "Shankar’s vigilante action film stars Rajinikanth as a philanthropist challenging corruption.",
+      "recommendationReason": "A glossy, high-energy story about using influence to pursue change.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV047",
+      "title": "Kuselan",
+      "year": 2008,
+      "genres": [
+        "comedy drama"
+      ],
+      "moods": [
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "friendship"
+      ],
+      "synopsis": "A comedy-drama about a village barber and his old friend, a famous film star.",
+      "recommendationReason": "A gentle friendship story with a warm, self-aware cameo.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV048",
+      "title": "Lingaa",
+      "year": 2014,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "confident",
+        "reflective"
+      ],
+      "themes": [
+        "service"
+      ],
+      "synopsis": "A period action drama directed by K. S. Ravikumar, starring Rajinikanth in dual roles.",
+      "recommendationReason": "A sweeping historical adventure for a grand-scale movie night.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV049",
+      "title": "Kochadaiiyaan",
+      "year": 2014,
+      "genres": [
+        "animated action"
+      ],
+      "moods": [
+        "bored",
+        "curious"
+      ],
+      "themes": [
+        "imagination"
+      ],
+      "synopsis": "An animated motion-capture action film directed by Soundarya Rajinikanth.",
+      "recommendationReason": "A visually different choice if you are curious about animation in Tamil cinema.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV050",
+      "title": "Kaala",
+      "year": 2018,
+      "genres": [
+        "action drama"
+      ],
+      "moods": [
+        "angry",
+        "confident"
+      ],
+      "themes": [
+        "community"
+      ],
+      "synopsis": "Pa. Ranjith’s drama follows a Mumbai community leader played by Rajinikanth.",
+      "recommendationReason": "A socially grounded story about community, land and standing together.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV051",
+      "title": "Pokkiri Raja",
+      "year": 1982,
+      "genres": [
+        "action comedy"
+      ],
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "playfulness"
+      ],
+      "synopsis": "A S. P. Muthuraman action comedy featuring Rajinikanth and Sridevi.",
+      "recommendationReason": "An energetic vintage entertainer when you want something breezy.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    },
+    {
+      "id": "MOV052",
+      "title": "Yejaman",
+      "year": 1993,
+      "genres": [
+        "family drama"
+      ],
+      "moods": [
+        "confident",
+        "lonely"
+      ],
+      "themes": [
+        "leadership"
+      ],
+      "synopsis": "A rural family drama directed by R. V. Udayakumar, starring Rajinikanth and Meena.",
+      "recommendationReason": "A village-set story about leadership, loyalty and family.",
+      "externalLink": "https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/",
+      "verified": true,
+      "source": "Rajinikanth filmography reference; viewing link is the Sun NXT guide",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rajinikanth_filmography"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "DIA001",
+      "text": "If I say it once, it’s like saying it a hundred times.",
+      "film": "Baasha",
+      "year": 1995,
+      "moods": [
+        "demotivated",
+        "frustrated",
+        "confident"
+      ],
+      "source": "The News Minute interview with Baasha director Suresh Krissna; English rendering checked against the supplied dialogue reference",
+      "sourceUrl": "https://www.thenewsminute.com/amp/story/flix/baasha-re-release-was-magic-rajinikanth-and-me-director-suresh-krissna-tnm-58054",
+      "interpretation": "For this moment, take the line as a reminder to let one clear commitment count. It is an original reflection, not part of the film dialogue.",
+      "originalStoryTitle": "The One Promise",
+      "originalStory": "On Monday, Hari promised himself he would practise for an hour every evening. By Wednesday, the missed hour felt like proof he would never follow through. He changed the promise: ten minutes after dinner, with his phone in another room. That evening, he kept it. The next day he did it again. The smaller promise did not make the goal smaller; it made his word easier to trust. A week later, Hari had more than an hour of practice behind him, built from minutes he could actually keep."
+    }
+  ]
+}
