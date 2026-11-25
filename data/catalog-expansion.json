@@ -1579,8 +1579,6 @@
       "film": "Baasha",
       "year": 1995,
       "moods": [
-        "demotivated",
-        "frustrated",
         "confident"
       ],
       "source": "The News Minute interview with Baasha director Suresh Krissna; English rendering checked against the supplied dialogue reference",
@@ -1588,6 +1586,129 @@
       "interpretation": "For this moment, take the line as a reminder to let one clear commitment count. It is an original reflection, not part of the film dialogue.",
       "originalStoryTitle": "The One Promise",
       "originalStory": "On Monday, Hari promised himself he would practise for an hour every evening. By Wednesday, the missed hour felt like proof he would never follow through. He changed the promise: ten minutes after dinner, with his phone in another room. That evening, he kept it. The next day he did it again. The smaller promise did not make the goal smaller; it made his word easier to trust. A week later, Hari had more than an hour of practice behind him, built from minutes he could actually keep."
+    },
+    {
+      "id": "DIA002",
+      "text": "Magizhchi — joy.",
+      "film": "Kabali",
+      "year": 2016,
+      "moods": [
+        "happy"
+      ],
+      "kind": "film",
+      "renderingLabel": "Tamil greeting · “joy”",
+      "source": "Scroll.in, explaining the Kabali catchphrase",
+      "sourceUrl": "https://scroll.in/reel/812725/never-mind-tickled-pink-laughter-subtitled-kaba",
+      "interpretation": "Let the good feeling have its moment. You do not need to turn happiness into a task.",
+      "originalStoryTitle": "The Good News Call",
+      "originalStory": "When Asha got the news she had been hoping for, she almost kept it to herself until everything was settled. Instead, she called her sister from the bus stop. They laughed over the small details, then made a plan to celebrate on Sunday. The good news felt even warmer when it was shared."
+    },
+    {
+      "id": "DIA003",
+      "text": "God tests good people, but does not abandon them.",
+      "film": "Baasha",
+      "year": 1995,
+      "moods": [
+        "sad"
+      ],
+      "kind": "film",
+      "source": "Rediff, Rajinikanth’s most popular dialogues",
+      "sourceUrl": "https://m.rediff.com/movies/special/birthday-special-rajinikanths-hit-dialogues/20161212.htm",
+      "interpretation": "This line offers reassurance in the film’s own spiritual language. Take only what feels meaningful to you; the app’s reflection and story are original.",
+      "originalStoryTitle": "A Light Left On",
+      "originalStory": "After a difficult week, Nila did not feel ready for a grand plan. Her friend left a meal outside the door and sent a simple message: “No need to reply.” Nila ate a little, rested, and answered the next morning. The hard week had not disappeared, but care had found its way in."
+    },
+    {
+      "id": "DIA004",
+      "text": "My path is my own path.",
+      "film": "Padayappa",
+      "year": 1999,
+      "moods": [
+        "angry"
+      ],
+      "kind": "film",
+      "source": "Times of India, Rajinikanth’s top punch dialogues",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/photo-features/rajinikanths-top-12-punch-dialogues/photostory/26943804.cms",
+      "interpretation": "A reminder that you can choose your response and hold your boundary without letting anger choose your words.",
+      "originalStoryTitle": "The Message Before Send",
+      "originalStory": "Karthik typed a reply while his hands were still tense. He saved it as a draft, walked to the kitchen, and got a glass of water. When he returned, he kept the boundary but removed the insult. The conversation was still difficult; it now sounded like something he could stand by."
+    },
+    {
+      "id": "DIA005",
+      "text": "God commands; Arunachalam acts.",
+      "film": "Arunachalam",
+      "year": 1997,
+      "moods": [
+        "frustrated"
+      ],
+      "kind": "film",
+      "source": "Times of India, Rajinikanth’s top punch dialogues",
+      "sourceUrl": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/photo-features/rajinikanths-top-12-punch-dialogues/photostory/26943804.cms",
+      "interpretation": "The app’s take on this line: once the next step is clear, give it a small beginning instead of waiting for everything to feel easy.",
+      "originalStoryTitle": "One Useful Call",
+      "originalStory": "The form had been sitting untouched in Priya’s inbox for a week. She could not finish it during lunch, so she chose the part she could do: call the office and ask one question. The call took four minutes. It did not complete the form, but it turned an unclear task into a clear next step."
+    },
+    {
+      "id": "DIA006",
+      "text": "When provoked, pause; keep moving toward what matters.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "stressed"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "speech takeaway · paraphrased",
+      "source": "Paraphrase of the crow-and-eagle story in Rajinikanth’s Jailer audio launch speech; full English transcript",
+      "sourceUrl": "https://www.moviecrow.com/News/32340/jailer-rajinikanth-audio-launch-speech",
+      "interpretation": "This is a summary of the speech, not a verbatim quote. For a tense moment, it suggests protecting your attention and returning to what you can influence.",
+      "originalStoryTitle": "The Quiet Route Home",
+      "originalStory": "After a noisy meeting, Dev wanted to replay every comment on the walk home. He put the phone away and chose one thing he could act on tomorrow. The rest could wait until he had slept. The problem was still there, but it no longer occupied the whole evening."
+    },
+    {
+      "id": "DIA007",
+      "text": "We are all brothers here; let’s stay united.",
+      "film": "Jailer audio launch speech",
+      "year": 2023,
+      "moods": [
+        "lonely"
+      ],
+      "kind": "speech_paraphrase",
+      "renderingLabel": "speech takeaway · paraphrased",
+      "source": "Paraphrase of Rajinikanth’s remarks on unity in the Jailer audio launch speech; full English transcript",
+      "sourceUrl": "https://www.moviecrow.com/News/32340/jailer-rajinikanth-audio-launch-speech",
+      "interpretation": "This is a paraphrase of the speech’s call for unity. It is a gentle invitation to seek one safe point of connection, at your own pace.",
+      "originalStoryTitle": "A Place at the Table",
+      "originalStory": "Ravi had started skipping the shared tea break because he did not know how to join the conversation. One afternoon, a colleague asked if he wanted to help choose snacks for the team. They talked about food first, then found they both liked old film songs. It was a small connection, and it gave the next tea break a familiar face."
+    },
+    {
+      "id": "DIA008",
+      "text": "Even if I arrive late, I arrive as the latest.",
+      "film": "Baba",
+      "year": 2002,
+      "moods": [
+        "bored"
+      ],
+      "kind": "film",
+      "source": "The Indian Express, on Rajinikanth’s memorable film dialogues",
+      "sourceUrl": "https://indianexpress.com/article/entertainment/tamil/rajinikanths-top-gangsta-movie-dialogues-5084011/lite/",
+      "interpretation": "A playful prompt to bring a fresh angle to something familiar. Try changing one small detail in your routine.",
+      "originalStoryTitle": "The Different Tea Shop",
+      "originalStory": "Meera took the same route to work every day until a road closure sent her down a side street. She found a tiny tea shop with a hand-painted menu and ordered something she had never tried. The day did not become an adventure film, but the new flavour gave her something fun to tell her friend."
+    },
+    {
+      "id": "DIA009",
+      "text": "Opportunities do not just happen; we have to create them.",
+      "film": "Kochadaiiyaan",
+      "year": 2014,
+      "moods": [
+        "demotivated"
+      ],
+      "kind": "film",
+      "source": "Rediff, Rajinikanth’s most popular dialogues",
+      "sourceUrl": "https://m.rediff.com/movies/special/birthday-special-rajinikanths-hit-dialogues/20161212.htm",
+      "interpretation": "The app’s take: you do not need a perfect opening. Make one small opportunity for yourself today.",
+      "originalStoryTitle": "The First Invitation",
+      "originalStory": "Naveen wanted to learn photography but kept waiting until he had the right camera. On Saturday he used the phone already in his pocket and took ten pictures on a walk. One friend liked a picture and asked how he made it. That small exchange became the first reason to keep practising."
     }
   ]
 }
