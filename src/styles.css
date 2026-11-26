@@ -61,3 +61,36 @@ footer{border-color:#292a2f}.footer-brand{color:#f8f5ee}footer p,.footer-small{c
 /* Keep original MoodLift writing distinct from curated entertainment references. */
 .original-label{display:inline-block;margin-top:10px;padding:6px 9px;border:1px solid #51472f;border-radius:4px;color:#f0d58b;font-size:9px;line-height:1.45;letter-spacing:.1px}
 .form-secondary{grid-template-columns:1fr}
+
+/* Let the Buddha art fill a portrait-like frame, as the earlier hero image did. */
+.hero-silhouette{
+  right:4%;
+  top:4%;
+  width:min(52%,680px);
+  height:92%;
+  max-width:none;
+  object-fit:cover;
+  object-position:right center;
+  opacity:.62;
+  filter:saturate(.68) brightness(.82);
+  mix-blend-mode:screen;
+  mask-image:linear-gradient(90deg,transparent 0%,#000 16%,#000 84%,transparent 100%),linear-gradient(0deg,transparent 0%,#000 9%,#000 90%,transparent 100%);
+  mask-composite:intersect;
+}
+@media(max-width:950px){
+  .hero-silhouette{right:1%;width:60%;height:90%;opacity:.62}
+}
+@media(max-width:700px){
+  .hero-silhouette{
+    right:-12%;
+    top:38px;
+    width:86vw;
+    height:315px;
+    max-width:none;
+    object-fit:cover;
+    object-position:right center;
+    opacity:.58;
+    filter:saturate(.64) brightness(.82);
+    mask-image:linear-gradient(90deg,transparent 0%,#000 17%,#000 92%,transparent 100%),linear-gradient(0deg,transparent 0%,#000 5%,#000 88%,transparent 100%);
+  }
+}
