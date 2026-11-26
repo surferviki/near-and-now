@@ -4,7 +4,7 @@ MoodLift is a responsive, browser-first mood-to-motivation experience. A visitor
 
 ## MVP architecture
 
-- Curated mood content lives in [`data/content.json`](data/content.json) and [`data/content-expansion.json`](data/content-expansion.json). A broader film and music catalog lives in [`data/general-catalog.json`](data/general-catalog.json), currently covering 28 films and 36 songs across Indian cinema and performers.
+- Curated mood content lives in [`data/content.json`](data/content.json) and [`data/content-expansion.json`](data/content-expansion.json). A broader film and music catalog lives in [`data/general-catalog.json`](data/general-catalog.json), currently covering 51 films and 36 songs across Indian cinema and performers.
 - The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
 - The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
 - The dark hero uses an original generated Buddha statue image with subtle desktop pointer parallax and a reduced-motion fallback.
