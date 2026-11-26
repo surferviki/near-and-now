@@ -1,112 +1,1873 @@
 {
   "thoughts": [
-    {"id":"T006","type":"original_thought","text":"You helped make this good moment possible. Notice your part in it before moving on.","moods":["happy"],"themes":["gratitude","agency","celebration"],"targetEmotion":["appreciative"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T007","type":"original_thought","text":"A good moment does not need to become a checklist. You can simply be here for it.","moods":["happy"],"themes":["joy","presence","gratitude"],"targetEmotion":["present","appreciative"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T008","type":"original_thought","text":"Let someone in on the small win. Shared joy can make an ordinary day warmer.","moods":["happy"],"themes":["connection","celebration","kindness"],"targetEmotion":["connected","joyful"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T009","type":"original_thought","text":"Feeling low is not a verdict on you. It is a hard moment, and you deserve gentleness.","moods":["sad"],"themes":["self_worth","comfort","kindness"],"targetEmotion":["comforted","accepted"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T010","type":"original_thought","text":"Hope can be practical: a warm drink, a softer room, or a message you need not send yet.","moods":["sad"],"themes":["hope","comfort","rest"],"targetEmotion":["hopeful","grounded"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T011","type":"original_thought","text":"You do not have to catch up with the day you imagined. Start with the day you are having.","moods":["sad"],"themes":["self_compassion","acceptance","rest"],"targetEmotion":["accepted","comforted"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T012","type":"original_thought","text":"A strong feeling can have a seat without being handed the steering wheel. Give your next decision time.","moods":["angry"],"themes":["pause","self_control","perspective"],"targetEmotion":["settled","reflective"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T013","type":"original_thought","text":"A boundary can be firm and still be kind. You are allowed to choose words that protect both.","moods":["angry"],"themes":["boundaries","self_respect","kindness"],"targetEmotion":["clear","steady"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T014","type":"original_thought","text":"Taking a minute before you respond gives you back the choice of how you want to show up.","moods":["angry"],"themes":["pause","agency","self_control"],"targetEmotion":["in_control","settled"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T015","type":"original_thought","text":"One blocked route does not close every route. Look for the part you can influence next.","moods":["frustrated"],"themes":["agency","patience","perspective"],"targetEmotion":["confident","calm"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T016","type":"original_thought","text":"Good-enough progress still counts when perfect progress is out of reach today.","moods":["frustrated"],"themes":["self_compassion","small_wins","perseverance"],"targetEmotion":["encouraged","accepting"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T017","type":"original_thought","text":"Try making the problem smaller before making it a judgment about yourself.","moods":["frustrated"],"themes":["perspective","simplification","self_worth"],"targetEmotion":["calm","confident"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T018","type":"original_thought","text":"Your list is something to do, not a measure of who you are. Choose one item for now.","moods":["stressed"],"themes":["simplification","self_worth","focus"],"targetEmotion":["grounded","calmer"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T019","type":"original_thought","text":"You are allowed to slow down before everything is finished. Your needs belong in the plan too.","moods":["stressed"],"themes":["rest","boundaries","self_compassion"],"targetEmotion":["calmer","supported"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T020","type":"original_thought","text":"Make the next choice small enough to carry. You can decide what comes after it later.","moods":["stressed"],"themes":["simplification","focus","small_wins"],"targetEmotion":["grounded","ready_for_one_step"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T021","type":"original_thought","text":"A low-pressure hello can be enough for now. Connection need not solve the whole evening.","moods":["lonely"],"themes":["connection","belonging","kindness"],"targetEmotion":["connected","supported"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T022","type":"original_thought","text":"Being on your own in this moment is not proof that you are unwanted.","moods":["lonely"],"themes":["self_worth","belonging","comfort"],"targetEmotion":["accepted","supported"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T023","type":"original_thought","text":"Think of someone who makes silence comfortable. Reaching out can be as simple as saying their name.","moods":["lonely"],"themes":["connection","trust","kindness"],"targetEmotion":["connected","hopeful"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T024","type":"original_thought","text":"Boredom might be curiosity without a destination yet. Follow one small thing that catches your eye.","moods":["bored"],"themes":["curiosity","novelty","play"],"targetEmotion":["curious","engaged"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T025","type":"original_thought","text":"Change one detail: your seat, soundtrack or routine. A small switch can wake up your attention.","moods":["bored"],"themes":["novelty","creativity","play"],"targetEmotion":["engaged","curious"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T026","type":"original_thought","text":"Make something for the pleasure of making it. It needs no audience or purpose.","moods":["bored"],"themes":["creativity","play","self_expression"],"targetEmotion":["curious","playful"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T027","type":"original_thought","text":"You can begin before motivation arrives. Make the first step small enough for today's energy.","moods":["demotivated"],"themes":["small_wins","agency","self_compassion"],"targetEmotion":["encouraged","ready_for_one_step"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T028","type":"original_thought","text":"One focused minute is real progress. You do not need to promise yourself a perfect hour.","moods":["demotivated"],"themes":["small_wins","focus","perseverance"],"targetEmotion":["encouraged","focused"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T029","type":"original_thought","text":"Rest and progress can sit beside each other. Choose the kind next step, not the most impressive one.","moods":["demotivated"],"themes":["rest","self_compassion","small_wins"],"targetEmotion":["accepted","ready_for_one_step"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T030","type":"original_thought","text":"Use your confidence to step forward, and your kindness to make room for someone beside you.","moods":["confident"],"themes":["courage","kindness","leadership"],"targetEmotion":["positive","connected"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T031","type":"original_thought","text":"Start the thing you are proud to have tried, even before you know how it will end.","moods":["confident"],"themes":["courage","ambition","agency"],"targetEmotion":["energised","ready"],"reviewStatus":"approved","rightsStatus":"original"},
-    {"id":"T032","type":"original_thought","text":"Keep track of what you are learning as well as what you are winning. Both are part of the story.","moods":["confident"],"themes":["growth","perspective","ambition"],"targetEmotion":["positive","reflective"],"reviewStatus":"approved","rightsStatus":"original"}
+    {
+      "id": "T006",
+      "type": "original_thought",
+      "text": "You helped make this good moment possible. Notice your part in it before moving on.",
+      "moods": [
+        "happy"
+      ],
+      "themes": [
+        "gratitude",
+        "agency",
+        "celebration"
+      ],
+      "targetEmotion": [
+        "appreciative"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T007",
+      "type": "original_thought",
+      "text": "A good moment does not need to become a checklist. You can simply be here for it.",
+      "moods": [
+        "happy"
+      ],
+      "themes": [
+        "joy",
+        "presence",
+        "gratitude"
+      ],
+      "targetEmotion": [
+        "present",
+        "appreciative"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T008",
+      "type": "original_thought",
+      "text": "Let someone in on the small win. Shared joy can make an ordinary day warmer.",
+      "moods": [
+        "happy"
+      ],
+      "themes": [
+        "connection",
+        "celebration",
+        "kindness"
+      ],
+      "targetEmotion": [
+        "connected",
+        "joyful"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T009",
+      "type": "original_thought",
+      "text": "Feeling low is not a verdict on you. It is a hard moment, and you deserve gentleness.",
+      "moods": [
+        "sad"
+      ],
+      "themes": [
+        "self_worth",
+        "comfort",
+        "kindness"
+      ],
+      "targetEmotion": [
+        "comforted",
+        "accepted"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T010",
+      "type": "original_thought",
+      "text": "Hope can be practical: a warm drink, a softer room, or a message you need not send yet.",
+      "moods": [
+        "sad"
+      ],
+      "themes": [
+        "hope",
+        "comfort",
+        "rest"
+      ],
+      "targetEmotion": [
+        "hopeful",
+        "grounded"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T011",
+      "type": "original_thought",
+      "text": "You do not have to catch up with the day you imagined. Start with the day you are having.",
+      "moods": [
+        "sad"
+      ],
+      "themes": [
+        "self_compassion",
+        "acceptance",
+        "rest"
+      ],
+      "targetEmotion": [
+        "accepted",
+        "comforted"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T012",
+      "type": "original_thought",
+      "text": "A strong feeling can have a seat without being handed the steering wheel. Give your next decision time.",
+      "moods": [
+        "angry"
+      ],
+      "themes": [
+        "pause",
+        "self_control",
+        "perspective"
+      ],
+      "targetEmotion": [
+        "settled",
+        "reflective"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T013",
+      "type": "original_thought",
+      "text": "A boundary can be firm and still be kind. You are allowed to choose words that protect both.",
+      "moods": [
+        "angry"
+      ],
+      "themes": [
+        "boundaries",
+        "self_respect",
+        "kindness"
+      ],
+      "targetEmotion": [
+        "clear",
+        "steady"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T014",
+      "type": "original_thought",
+      "text": "Taking a minute before you respond gives you back the choice of how you want to show up.",
+      "moods": [
+        "angry"
+      ],
+      "themes": [
+        "pause",
+        "agency",
+        "self_control"
+      ],
+      "targetEmotion": [
+        "in_control",
+        "settled"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T015",
+      "type": "original_thought",
+      "text": "One blocked route does not close every route. Look for the part you can influence next.",
+      "moods": [
+        "frustrated"
+      ],
+      "themes": [
+        "agency",
+        "patience",
+        "perspective"
+      ],
+      "targetEmotion": [
+        "confident",
+        "calm"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T016",
+      "type": "original_thought",
+      "text": "Good-enough progress still counts when perfect progress is out of reach today.",
+      "moods": [
+        "frustrated"
+      ],
+      "themes": [
+        "self_compassion",
+        "small_wins",
+        "perseverance"
+      ],
+      "targetEmotion": [
+        "encouraged",
+        "accepting"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T017",
+      "type": "original_thought",
+      "text": "Try making the problem smaller before making it a judgment about yourself.",
+      "moods": [
+        "frustrated"
+      ],
+      "themes": [
+        "perspective",
+        "simplification",
+        "self_worth"
+      ],
+      "targetEmotion": [
+        "calm",
+        "confident"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T018",
+      "type": "original_thought",
+      "text": "Your list is something to do, not a measure of who you are. Choose one item for now.",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "simplification",
+        "self_worth",
+        "focus"
+      ],
+      "targetEmotion": [
+        "grounded",
+        "calmer"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T019",
+      "type": "original_thought",
+      "text": "You are allowed to slow down before everything is finished. Your needs belong in the plan too.",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "rest",
+        "boundaries",
+        "self_compassion"
+      ],
+      "targetEmotion": [
+        "calmer",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T020",
+      "type": "original_thought",
+      "text": "Make the next choice small enough to carry. You can decide what comes after it later.",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "simplification",
+        "focus",
+        "small_wins"
+      ],
+      "targetEmotion": [
+        "grounded",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T021",
+      "type": "original_thought",
+      "text": "A low-pressure hello can be enough for now. Connection need not solve the whole evening.",
+      "moods": [
+        "lonely"
+      ],
+      "themes": [
+        "connection",
+        "belonging",
+        "kindness"
+      ],
+      "targetEmotion": [
+        "connected",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T022",
+      "type": "original_thought",
+      "text": "Being on your own in this moment is not proof that you are unwanted.",
+      "moods": [
+        "lonely"
+      ],
+      "themes": [
+        "self_worth",
+        "belonging",
+        "comfort"
+      ],
+      "targetEmotion": [
+        "accepted",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T023",
+      "type": "original_thought",
+      "text": "Think of someone who makes silence comfortable. Reaching out can be as simple as saying their name.",
+      "moods": [
+        "lonely"
+      ],
+      "themes": [
+        "connection",
+        "trust",
+        "kindness"
+      ],
+      "targetEmotion": [
+        "connected",
+        "hopeful"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T024",
+      "type": "original_thought",
+      "text": "Boredom might be curiosity without a destination yet. Follow one small thing that catches your eye.",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "curiosity",
+        "novelty",
+        "play"
+      ],
+      "targetEmotion": [
+        "curious",
+        "engaged"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T025",
+      "type": "original_thought",
+      "text": "Change one detail: your seat, soundtrack or routine. A small switch can wake up your attention.",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "novelty",
+        "creativity",
+        "play"
+      ],
+      "targetEmotion": [
+        "engaged",
+        "curious"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T026",
+      "type": "original_thought",
+      "text": "Make something for the pleasure of making it. It needs no audience or purpose.",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "creativity",
+        "play",
+        "self_expression"
+      ],
+      "targetEmotion": [
+        "curious",
+        "playful"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T027",
+      "type": "original_thought",
+      "text": "You can begin before motivation arrives. Make the first step small enough for today's energy.",
+      "moods": [
+        "demotivated"
+      ],
+      "themes": [
+        "small_wins",
+        "agency",
+        "self_compassion"
+      ],
+      "targetEmotion": [
+        "encouraged",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T028",
+      "type": "original_thought",
+      "text": "One focused minute is real progress. You do not need to promise yourself a perfect hour.",
+      "moods": [
+        "demotivated"
+      ],
+      "themes": [
+        "small_wins",
+        "focus",
+        "perseverance"
+      ],
+      "targetEmotion": [
+        "encouraged",
+        "focused"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T029",
+      "type": "original_thought",
+      "text": "Rest and progress can sit beside each other. Choose the kind next step, not the most impressive one.",
+      "moods": [
+        "demotivated"
+      ],
+      "themes": [
+        "rest",
+        "self_compassion",
+        "small_wins"
+      ],
+      "targetEmotion": [
+        "accepted",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T030",
+      "type": "original_thought",
+      "text": "Use your confidence to step forward, and your kindness to make room for someone beside you.",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "courage",
+        "kindness",
+        "leadership"
+      ],
+      "targetEmotion": [
+        "positive",
+        "connected"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T031",
+      "type": "original_thought",
+      "text": "Start the thing you are proud to have tried, even before you know how it will end.",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "courage",
+        "ambition",
+        "agency"
+      ],
+      "targetEmotion": [
+        "energised",
+        "ready"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T032",
+      "type": "original_thought",
+      "text": "Keep track of what you are learning as well as what you are winning. Both are part of the story.",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "growth",
+        "perspective",
+        "ambition"
+      ],
+      "targetEmotion": [
+        "positive",
+        "reflective"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    }
   ],
   "stories": [
-    {"id":"S006","title":"The Extra Slice","content":"When the project ended early, Kavya almost rushed to fill the quiet with another task. Instead, she cut a mango and ate it by the window. Sunlight crossed the counter while a friend sent a voice note full of laughter. The afternoon did not need to become more productive to count as good. Kavya shared the last slice with her brother and let the small celebration be enough.","moods":["happy"],"themes":["joy","presence","connection"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["appreciative","connected"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S007","title":"The Rainy Playlist","content":"A grey morning found Ravi moving slowly. He put on a familiar song while making tea and let the kettle set the pace. He did not feel cheerful by the final note, but his shoulders had dropped. He texted a cousin that today felt heavy. The reply was only a heart and a promise to call later. It helped to be met without being fixed.","moods":["sad"],"themes":["comfort","connection","self_compassion"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["comforted","supported"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S008","title":"The Draft That Waited","content":"Meena wrote a furious reply, read it once, then saved it as a draft. She drank water and looked out at the street until the bus passed. The problem was still real when she returned. Her words were different now: one clear boundary, one request to talk tomorrow. She could not control the answer, but she could send a message she would stand by in the morning.","moods":["angry"],"themes":["pause","boundaries","self_control"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["settled","clear"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S009","title":"The Loose Screw","content":"A shelf kept tilting no matter how carefully Dinesh tightened it. After the third try, he stopped blaming his hands and checked the wall. One screw had gone into a patch that could not hold it. He moved the bracket a few centimetres and tried again. The shelf sat level. The answer was not more effort; it was a different place to begin.","moods":["frustrated"],"themes":["perspective","patience","problem_solving"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["calm","confident"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S010","title":"The Two-Column Page","content":"Anu's thoughts were arriving all at once, so she drew a line down a page. On one side she wrote what needed attention today; on the other, what could wait. The second column grew longer than she expected. She chose one call from the first column, then closed the notebook. The day still held plenty, but it no longer had to be carried all at the same time.","moods":["stressed"],"themes":["simplification","focus","boundaries"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["grounded","calmer"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S011","title":"The Familiar Voice","content":"At the community garden, Farah recognised the neighbour who watered the mint on Tuesdays. She asked whether the plant always leaned toward the gate. They compared notes and learned each other's names. Nothing dramatic happened; the city simply felt a little less full of strangers. A small conversation had not solved loneliness, but it made one corner feel more familiar.","moods":["lonely"],"themes":["belonging","connection","kindness"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["connected","supported"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S012","title":"The Bent Paperclip","content":"With a long wait ahead, Joel folded a paperclip into a tiny bird, then made another with crooked wings. He lined them on the desk and gave each one a name. The task was pointless in the best way: it asked for attention but not achievement. By the time his number was called, the wait had become less flat. Curiosity had started with whatever was nearby.","moods":["bored"],"themes":["curiosity","creativity","play"],"intensity":["mild","moderate"],"durationMinutes":1,"targetEmotion":["curious","engaged"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S013","title":"The First Square","content":"Lakshmi opened the document she had been avoiding and set a timer for three minutes. She wrote a heading, then one rough sentence. It was not especially good, but the blank page was no longer blank. When the timer rang, she stretched before deciding whether to continue. She did, for a few more minutes. The work became possible after she stopped waiting to feel fully ready.","moods":["demotivated"],"themes":["small_wins","agency","perseverance"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["encouraged","ready_for_one_step"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S014","title":"The Open Mic List","content":"Sanjay had an idea for a neighbourhood music night and worried it was too ambitious to begin. He made a list of three people who might help, then sent one message asking for a quick chat. The event was still only an idea, but another person was now part of it. Confidence looked like sharing a first draft instead of having every answer.","moods":["confident"],"themes":["ambition","courage","connection"],"intensity":["mild","moderate"],"durationMinutes":1,"targetEmotion":["positive","energised"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S015","title":"The Small Good Thing","content":"Priya's day had been difficult, and she did not want anyone to tell her to look on the bright side. She sat with her dog near the doorway and noticed its warm weight against her foot. It did not erase the difficult parts. It gave her one quiet minute that belonged to her. Later she made toast and called her aunt. The day stayed imperfect, but care still reached her.","moods":["sad","lonely"],"themes":["comfort","kindness","connection"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["comforted","supported"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S016","title":"The Parked Conversation","content":"Rohan and his colleague disagreed in a meeting. Rohan could feel his answer getting louder, so he asked for ten minutes to check the figures. Outside, he walked to the end of the corridor. When he returned, he asked which number they were each using. They found the mismatch together. The pause did not make either person wrong; it gave the conversation a better question.","moods":["angry","frustrated"],"themes":["pause","perspective","problem_solving"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["settled","reflective"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S017","title":"The One-Page Plan","content":"The moving checklist looked endless until Naren chose one box to unpack: the mugs. He lined them up, washed the one he needed, and stopped there. The room was still full of boxes, yet breakfast would be easier. He wrote down the next box and left the list on the counter. A manageable plan did not make the job tiny; it made the next part visible.","moods":["stressed","demotivated"],"themes":["simplification","small_wins","agency"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["grounded","ready_for_one_step"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S018","title":"The Bright Umbrella","content":"During lunch, Sita noticed a yellow umbrella beside the café door. She asked its owner where it came from; they compared favourite market stalls. When the rain eased, Sita took a different street back and spotted a mural she had never seen. Her afternoon had acquired a detail worth remembering. Curiosity needed no special equipment, only a question and a short detour.","moods":["happy","bored"],"themes":["novelty","curiosity","connection"],"intensity":["mild","moderate"],"durationMinutes":1,"targetEmotion":["curious","engaged"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S019","title":"The Kind Boundary","content":"Nila's friend asked for help when Nila had nothing left to give. She wanted to say yes, then remembered how tired she felt. She replied, 'I care about this, and I can't do it tonight. Can we talk tomorrow?' Her friend said yes. Nila made tea and let the evening be quiet. The boundary did not close the door; it helped her show up honestly.","moods":["stressed","angry"],"themes":["boundaries","self_worth","kindness"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["supported","clear"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S020","title":"The Pocket Notebook","content":"Before a presentation, Meera wrote three things she wanted people to remember on a small card. She did not try to memorise every sentence. When she lost her place, she glanced down and kept going. Afterwards, a colleague asked for the notes. Meera had been nervous, but she had prepared enough to begin. Confidence came from trusting the next line she had chosen.","moods":["confident","stressed"],"themes":["preparation","focus","courage"],"intensity":["mild","moderate"],"durationMinutes":1,"targetEmotion":["focused","positive"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S021","title":"The Tea on the Stairs","content":"Asha was not ready for a long conversation, so she sat on the front steps with tea. Her neighbour was watering the pots and asked whether the basil had survived the week. They talked about plants for five minutes. Asha went back inside still carrying her own thoughts, but the evening felt less sealed off. It helped to be near someone without explaining everything.","moods":["lonely","sad"],"themes":["belonging","comfort","connection"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["connected","comforted"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S022","title":"The Five-Minute Table","content":"The kitchen table had become a landing place for mail, keys and half-finished plans. Arjun cleared only the space needed for one plate. He stopped when the five-minute timer rang. The whole room was not tidy, but dinner had somewhere to go. He ate without looking at the remaining pile. A small patch of order was enough to make the next hour feel possible.","moods":["frustrated","demotivated"],"themes":["agency","small_wins","simplification"],"intensity":["mild","moderate","high"],"durationMinutes":1,"targetEmotion":["encouraged","calm"],"reviewStatus":"approved","isOriginal":true},
-    {"id":"S023","title":"The Window Garden","content":"A pot of mint on the windowsill had survived a week of forgotten watering. Hari trimmed one dry leaf and watered the soil, then opened the window. He had been feeling stuck indoors, but the small task brought his attention back to the room. He sent a picture to his sister, who suggested adding coriander. It was one living thing and one easy idea for later.","moods":["bored","stressed"],"themes":["care","curiosity","grounded"],"intensity":["mild","moderate"],"durationMinutes":1,"targetEmotion":["grounded","curious"],"reviewStatus":"approved","isOriginal":true}
+    {
+      "id": "S006",
+      "title": "The Extra Slice",
+      "content": "When the project ended early, Kavya almost rushed to fill the quiet with another task. Instead, she cut a mango and ate it by the window. Sunlight crossed the counter while a friend sent a voice note full of laughter. The afternoon did not need to become more productive to count as good. Kavya shared the last slice with her brother and let the small celebration be enough.",
+      "moods": [
+        "happy"
+      ],
+      "themes": [
+        "joy",
+        "presence",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "appreciative",
+        "connected"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S007",
+      "title": "The Rainy Playlist",
+      "content": "A grey morning found Ravi moving slowly. He put on a familiar song while making tea and let the kettle set the pace. He did not feel cheerful by the final note, but his shoulders had dropped. He texted a cousin that today felt heavy. The reply was only a heart and a promise to call later. It helped to be met without being fixed.",
+      "moods": [
+        "sad"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "self_compassion"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "comforted",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S008",
+      "title": "The Draft That Waited",
+      "content": "Meena wrote a furious reply, read it once, then saved it as a draft. She drank water and looked out at the street until the bus passed. The problem was still real when she returned. Her words were different now: one clear boundary, one request to talk tomorrow. She could not control the answer, but she could send a message she would stand by in the morning.",
+      "moods": [
+        "angry"
+      ],
+      "themes": [
+        "pause",
+        "boundaries",
+        "self_control"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "settled",
+        "clear"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S009",
+      "title": "The Loose Screw",
+      "content": "A shelf kept tilting no matter how carefully Dinesh tightened it. After the third try, he stopped blaming his hands and checked the wall. One screw had gone into a patch that could not hold it. He moved the bracket a few centimetres and tried again. The shelf sat level. The answer was not more effort; it was a different place to begin.",
+      "moods": [
+        "frustrated"
+      ],
+      "themes": [
+        "perspective",
+        "patience",
+        "problem_solving"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "calm",
+        "confident"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S010",
+      "title": "The Two-Column Page",
+      "content": "Anu's thoughts were arriving all at once, so she drew a line down a page. On one side she wrote what needed attention today; on the other, what could wait. The second column grew longer than she expected. She chose one call from the first column, then closed the notebook. The day still held plenty, but it no longer had to be carried all at the same time.",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "simplification",
+        "focus",
+        "boundaries"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "grounded",
+        "calmer"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S011",
+      "title": "The Familiar Voice",
+      "content": "At the community garden, Farah recognised the neighbour who watered the mint on Tuesdays. She asked whether the plant always leaned toward the gate. They compared notes and learned each other's names. Nothing dramatic happened; the city simply felt a little less full of strangers. A small conversation had not solved loneliness, but it made one corner feel more familiar.",
+      "moods": [
+        "lonely"
+      ],
+      "themes": [
+        "belonging",
+        "connection",
+        "kindness"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "connected",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S012",
+      "title": "The Bent Paperclip",
+      "content": "With a long wait ahead, Joel folded a paperclip into a tiny bird, then made another with crooked wings. He lined them on the desk and gave each one a name. The task was pointless in the best way: it asked for attention but not achievement. By the time his number was called, the wait had become less flat. Curiosity had started with whatever was nearby.",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "curiosity",
+        "creativity",
+        "play"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "curious",
+        "engaged"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S013",
+      "title": "The First Square",
+      "content": "Lakshmi opened the document she had been avoiding and set a timer for three minutes. She wrote a heading, then one rough sentence. It was not especially good, but the blank page was no longer blank. When the timer rang, she stretched before deciding whether to continue. She did, for a few more minutes. The work became possible after she stopped waiting to feel fully ready.",
+      "moods": [
+        "demotivated"
+      ],
+      "themes": [
+        "small_wins",
+        "agency",
+        "perseverance"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "encouraged",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S014",
+      "title": "The Open Mic List",
+      "content": "Sanjay had an idea for a neighbourhood music night and worried it was too ambitious to begin. He made a list of three people who might help, then sent one message asking for a quick chat. The event was still only an idea, but another person was now part of it. Confidence looked like sharing a first draft instead of having every answer.",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "ambition",
+        "courage",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "positive",
+        "energised"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S015",
+      "title": "The Small Good Thing",
+      "content": "Priya's day had been difficult, and she did not want anyone to tell her to look on the bright side. She sat with her dog near the doorway and noticed its warm weight against her foot. It did not erase the difficult parts. It gave her one quiet minute that belonged to her. Later she made toast and called her aunt. The day stayed imperfect, but care still reached her.",
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "comfort",
+        "kindness",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "comforted",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S016",
+      "title": "The Parked Conversation",
+      "content": "Rohan and his colleague disagreed in a meeting. Rohan could feel his answer getting louder, so he asked for ten minutes to check the figures. Outside, he walked to the end of the corridor. When he returned, he asked which number they were each using. They found the mismatch together. The pause did not make either person wrong; it gave the conversation a better question.",
+      "moods": [
+        "angry",
+        "frustrated"
+      ],
+      "themes": [
+        "pause",
+        "perspective",
+        "problem_solving"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "settled",
+        "reflective"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S017",
+      "title": "The One-Page Plan",
+      "content": "The moving checklist looked endless until Naren chose one box to unpack: the mugs. He lined them up, washed the one he needed, and stopped there. The room was still full of boxes, yet breakfast would be easier. He wrote down the next box and left the list on the counter. A manageable plan did not make the job tiny; it made the next part visible.",
+      "moods": [
+        "stressed",
+        "demotivated"
+      ],
+      "themes": [
+        "simplification",
+        "small_wins",
+        "agency"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "grounded",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S018",
+      "title": "The Bright Umbrella",
+      "content": "During lunch, Sita noticed a yellow umbrella beside the café door. She asked its owner where it came from; they compared favourite market stalls. When the rain eased, Sita took a different street back and spotted a mural she had never seen. Her afternoon had acquired a detail worth remembering. Curiosity needed no special equipment, only a question and a short detour.",
+      "moods": [
+        "happy",
+        "bored"
+      ],
+      "themes": [
+        "novelty",
+        "curiosity",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "curious",
+        "engaged"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S019",
+      "title": "The Kind Boundary",
+      "content": "Nila's friend asked for help when Nila had nothing left to give. She wanted to say yes, then remembered how tired she felt. She replied, 'I care about this, and I can't do it tonight. Can we talk tomorrow?' Her friend said yes. Nila made tea and let the evening be quiet. The boundary did not close the door; it helped her show up honestly.",
+      "moods": [
+        "stressed",
+        "angry"
+      ],
+      "themes": [
+        "boundaries",
+        "self_worth",
+        "kindness"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "supported",
+        "clear"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S020",
+      "title": "The Pocket Notebook",
+      "content": "Before a presentation, Meera wrote three things she wanted people to remember on a small card. She did not try to memorise every sentence. When she lost her place, she glanced down and kept going. Afterwards, a colleague asked for the notes. Meera had been nervous, but she had prepared enough to begin. Confidence came from trusting the next line she had chosen.",
+      "moods": [
+        "confident",
+        "stressed"
+      ],
+      "themes": [
+        "preparation",
+        "focus",
+        "courage"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "focused",
+        "positive"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S021",
+      "title": "The Tea on the Stairs",
+      "content": "Asha was not ready for a long conversation, so she sat on the front steps with tea. Her neighbour was watering the pots and asked whether the basil had survived the week. They talked about plants for five minutes. Asha went back inside still carrying her own thoughts, but the evening felt less sealed off. It helped to be near someone without explaining everything.",
+      "moods": [
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "belonging",
+        "comfort",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "connected",
+        "comforted"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S022",
+      "title": "The Five-Minute Table",
+      "content": "The kitchen table had become a landing place for mail, keys and half-finished plans. Arjun cleared only the space needed for one plate. He stopped when the five-minute timer rang. The whole room was not tidy, but dinner had somewhere to go. He ate without looking at the remaining pile. A small patch of order was enough to make the next hour feel possible.",
+      "moods": [
+        "frustrated",
+        "demotivated"
+      ],
+      "themes": [
+        "agency",
+        "small_wins",
+        "simplification"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "encouraged",
+        "calm"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S023",
+      "title": "The Window Garden",
+      "content": "A pot of mint on the windowsill had survived a week of forgotten watering. Hari trimmed one dry leaf and watered the soil, then opened the window. He had been feeling stuck indoors, but the small task brought his attention back to the room. He sent a picture to his sister, who suggested adding coriander. It was one living thing and one easy idea for later.",
+      "moods": [
+        "bored",
+        "stressed"
+      ],
+      "themes": [
+        "care",
+        "curiosity",
+        "grounded"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 1,
+      "targetEmotion": [
+        "grounded",
+        "curious"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    }
   ],
   "activities": [
-    {"id":"A010","title":"Save one bright detail","description":"Notice one thing from today that you would like to remember, without needing to make the whole day perfect.","steps":["Pick a moment, colour, sound or taste from today.","Write one sentence about it or take a quick photo.","If you like, share it with someone who would enjoy it."],"category":"reflection","moods":["happy"],"themes":["gratitude","presence","joy"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","browsing"],"energyRequired":"low","safetyNotes":["Keep it simple; the detail can be very ordinary."]},
-    {"id":"A011","title":"Send a small thank-you","description":"Tell someone about one specific thing they did that you appreciated.","steps":["Think of a person who made today easier or brighter.","Send one short message naming what you appreciated.","Put your phone down and let the message be enough."],"category":"connection","moods":["happy","confident"],"themes":["gratitude","connection","kindness"],"intensity":["mild","moderate"],"durationMinutes":5,"reasonIds":["personal","family_relationships"],"energyRequired":"low","safetyNotes":["Reach out only if it feels comfortable and welcome."]},
-    {"id":"A012","title":"Make a tiny celebration","description":"Mark a small win with a brief ritual that feels like you.","steps":["Name something you completed or handled today.","Choose a small celebration: a favourite song, a stretch or tea.","Take one minute to enjoy it before moving on."],"category":"celebration","moods":["happy","confident"],"themes":["celebration","self_worth","joy"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","browsing"],"energyRequired":"low","safetyNotes":["Choose a celebration that suits your needs and circumstances."]},
-    {"id":"A013","title":"Create a comfort corner","description":"Make one small place around you feel more comfortable for the next few minutes.","steps":["Choose a seat or spot where you can pause.","Add one comforting thing nearby, such as a blanket or warm drink.","Sit there without asking yourself to feel different."],"category":"comfort","moods":["sad"],"themes":["comfort","rest","self_compassion"],"intensity":["mild","moderate","high"],"durationMinutes":10,"reasonIds":["personal","tiredness"],"energyRequired":"low","safetyNotes":["Use a safe temperature for drinks and comfort items."]},
-    {"id":"A014","title":"Let the light in","description":"Give yourself a gentle change of scene by sitting near a window or another comfortable place.","steps":["Move only if it feels easy and safe.","Notice the light, sky or view for a minute.","Choose one small need for the next hour: water, food, rest or company."],"category":"grounding","moods":["sad","stressed"],"themes":["grounded","hope","self_care"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","tiredness"],"energyRequired":"low","safetyNotes":["A comfortable indoor spot is fine if going outside is not suitable."]},
-    {"id":"A015","title":"Ask for a little company","description":"If it feels right, make a simple invitation for a short call or quiet company.","steps":["Choose someone you trust or feel safe contacting.","Try a short message: 'Could you talk for a few minutes later?'.","You need not explain everything; say what would help."],"category":"connection","moods":["sad","lonely"],"themes":["connection","belonging","support"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","family_relationships"],"energyRequired":"low","safetyNotes":["Reach out only to someone who feels safe; a reply may take time."]},
-    {"id":"A016","title":"Give the reply a pause","description":"Create space before responding to a message or conversation that has upset you.","steps":["Put the phone down or step away if you can.","Take a few normal breaths and drink some water.","Return when ready and write one clear sentence about what you need."],"category":"pause","moods":["angry"],"themes":["pause","self_control","boundaries"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","personal","family_relationships"],"energyRequired":"low","safetyNotes":["If stepping away would make the situation unsafe, prioritise getting help and moving to safety."]},
-    {"id":"A017","title":"Unclench and reset","description":"Let your hands and shoulders rest for a moment instead of carrying the tension forward.","steps":["Notice whether you are gripping your hands or raising your shoulders.","Let your hands rest open and lower your shoulders if comfortable.","Look around and name one thing you can choose next."],"category":"grounding","moods":["angry","stressed"],"themes":["grounded","pause","self_control"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Skip any movement that feels painful or uncomfortable."]},
-    {"id":"A018","title":"Write the unsent version","description":"Write the first version of what you want to say privately, then decide later what belongs in the conversation.","steps":["Write freely in a note you will not send.","Underline the need or boundary underneath the words.","Close the note and revisit it only when ready."],"category":"reflection","moods":["angry","frustrated"],"themes":["self_control","perspective","boundaries"],"intensity":["mild","moderate","high"],"durationMinutes":10,"reasonIds":["work","personal","family_relationships"],"energyRequired":"low","safetyNotes":["Keep private notes somewhere others cannot access if privacy matters."]},
-    {"id":"A019","title":"Find the next controllable piece","description":"Turn a frustrating problem into one question you can answer or one step you can try.","steps":["Write the problem in one plain sentence.","Circle the part within your control today.","Choose a five-minute action or ask someone for input."],"category":"problem_solving","moods":["frustrated"],"themes":["agency","problem_solving","small_wins"],"intensity":["mild","moderate","high"],"durationMinutes":10,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Some problems need time or support; you do not have to solve everything alone."]},
-    {"id":"A020","title":"Change one part of the setup","description":"If you are stuck on a task, change one practical detail before trying again.","steps":["Name what is not working in the current setup.","Change one thing: the order, tool, location or time.","Try the new version for five minutes, then reassess."],"category":"reset","moods":["frustrated","bored"],"themes":["novelty","problem_solving","agency"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["work","browsing"],"energyRequired":"low","safetyNotes":["A short pause is also a valid change of plan."]},
-    {"id":"A021","title":"Park the extra thoughts","description":"Put competing tasks on paper so you only have to focus on one for now.","steps":["List the things asking for your attention.","Mark one 'now', one 'later' and one 'ask for help'.","Start only the 'now' item for five minutes."],"category":"planning","moods":["stressed"],"themes":["simplification","focus","boundaries"],"intensity":["mild","moderate","high"],"durationMinutes":10,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["If making a list increases pressure, stop and choose a pause instead."]},
-    {"id":"A022","title":"Take a shoulder break","description":"Let your upper body rest from one fixed position for a short while.","steps":["Pause what you are doing if it is safe.","Relax your shoulders gently, or simply let your arms rest.","Look away from the screen and choose whether to continue."],"category":"rest","moods":["stressed"],"themes":["rest","grounded","self_care"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","tiredness"],"energyRequired":"low","safetyNotes":["Keep movement gentle and skip it if it causes discomfort."]},
-    {"id":"A023","title":"Make a familiar connection","description":"Send a small hello to someone whose company usually feels comfortable.","steps":["Think of one person you would like to hear from.","Send a greeting, photo or simple question.","Let the message be a small opening; you need not keep chatting."],"category":"connection","moods":["lonely"],"themes":["connection","belonging","kindness"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","family_relationships"],"energyRequired":"low","safetyNotes":["Choose a safe contact and allow them time to reply."]},
-    {"id":"A024","title":"Spend a few minutes around people","description":"If it feels comfortable, choose a familiar public place for a short change of atmosphere.","steps":["Pick a safe nearby place such as a café, library or shared garden.","Stay only as long as feels comfortable; conversation is optional.","Notice one ordinary detail on the way back."],"category":"connection","moods":["lonely","bored"],"themes":["belonging","novelty","grounded"],"intensity":["mild","moderate"],"durationMinutes":20,"reasonIds":["personal","browsing"],"energyRequired":"low","safetyNotes":["Skip travel or public places if they do not feel safe or accessible today."]},
-    {"id":"A025","title":"Share a small memory","description":"Bring a safe, familiar connection closer by sharing a memory or asking someone about theirs.","steps":["Choose a photo, song or small memory that feels comfortable.","Send it to someone you trust with a simple note.","Continue the conversation only as long as you want."],"category":"connection","moods":["lonely","sad"],"themes":["belonging","connection","nostalgia"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["personal","family_relationships"],"energyRequired":"low","safetyNotes":["Choose a memory and person that feel emotionally safe."]},
-    {"id":"A026","title":"Try a colour hunt","description":"Give your attention a playful target by looking for one colour around you.","steps":["Choose a colour you like.","Find five objects or details in that colour.","Pick the most surprising one and notice why."],"category":"play","moods":["bored"],"themes":["curiosity","play","attention"],"intensity":["mild","moderate"],"durationMinutes":5,"reasonIds":["browsing","personal"],"energyRequired":"low","safetyNotes":["Stay where you are; do not reach for anything unsafe."]},
-    {"id":"A027","title":"Remix one routine","description":"Make a familiar, low-stakes routine feel new by changing one detail.","steps":["Choose a routine such as making tea or arranging your desk.","Change one detail: music, order, mug or location.","Notice whether it made the routine more interesting."],"category":"novelty","moods":["bored"],"themes":["novelty","creativity","play"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["personal","browsing"],"energyRequired":"low","safetyNotes":["Keep the change safe and easy to undo."]},
-    {"id":"A028","title":"Make a no-pressure doodle","description":"Draw a pattern or object for a few minutes without judging the result.","steps":["Find paper or a note app and a pen or brush.","Draw repeating lines, shapes or something nearby.","Stop when you want; there is no need to finish or share it."],"category":"creativity","moods":["bored","happy"],"themes":["creativity","play","self_expression"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["personal","browsing"],"energyRequired":"low","safetyNotes":["Use materials that are comfortable and already available."]},
-    {"id":"A029","title":"Start with two minutes","description":"Give an avoided task a very small beginning, then decide whether to continue.","steps":["Choose the next visible action, not the whole project.","Set a two-minute timer and begin.","When it rings, choose to stop, continue or ask for support."],"category":"small_steps","moods":["demotivated"],"themes":["small_wins","agency","perseverance"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Stopping after two minutes still counts as starting."]},
-    {"id":"A030","title":"Prepare one thing for later","description":"Make a future task easier by setting out one small item or reminder now.","steps":["Think of one thing you may want to do later or tomorrow.","Put out the needed item or write a brief reminder.","Close the task and give yourself permission to pause."],"category":"planning","moods":["demotivated","stressed"],"themes":["simplification","small_wins","self_care"],"intensity":["mild","moderate"],"durationMinutes":5,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Choose one preparation step; leave the rest for later."]},
-    {"id":"A031","title":"Mark what is already done","description":"Notice the effort you have already made instead of only seeing the unfinished list.","steps":["Write down two things you have handled today, however small.","Notice what each one required from you.","Choose whether you need a break or one next step."],"category":"reflection","moods":["demotivated","sad"],"themes":["self_worth","small_wins","perspective"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["personal","work"],"energyRequired":"low","safetyNotes":["If reflection feels unhelpful, skip it and choose a simple pause."]},
-    {"id":"A032","title":"Take one useful stretch goal","description":"Use your confidence on a challenge just beyond your usual comfort zone.","steps":["Name something you would like to try or learn.","Choose a first step that takes ten minutes or less.","Decide what support or information would make it easier."],"category":"growth","moods":["confident"],"themes":["ambition","courage","learning"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Keep the goal realistic and safe for your situation."]},
-    {"id":"A033","title":"Share the credit","description":"Strengthen a good moment by recognising someone who helped make it happen.","steps":["Think of one person who contributed to a recent success.","Tell them specifically what their help meant.","Notice how it feels to celebrate the result together."],"category":"connection","moods":["confident","happy"],"themes":["gratitude","leadership","connection"],"intensity":["mild","moderate"],"durationMinutes":5,"reasonIds":["work","family_relationships"],"energyRequired":"low","safetyNotes":["Share only what feels appropriate in that relationship."]},
-    {"id":"A034","title":"Capture what worked","description":"Write a short note about something you handled well so you can use that learning again.","steps":["Choose a recent moment that went well.","Write one thing you did that helped.","Save the note somewhere you can find it later."],"category":"reflection","moods":["confident"],"themes":["growth","perspective","agency"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Keep the note private if you prefer."]},
-    {"id":"A035","title":"Notice a soundscape","description":"Take a short pause and notice the sounds around you, letting each one come and go.","steps":["Settle in a comfortable position.","Notice three sounds, near or far, without needing to name them.","Choose one sound you find pleasant or interesting."],"category":"grounding","moods":["stressed","angry","sad"],"themes":["attention","grounded","pause"],"intensity":["mild","moderate","high"],"durationMinutes":5,"reasonIds":["work","personal","tiredness"],"energyRequired":"low","safetyNotes":["If listening feels uncomfortable, look at a familiar object instead."]},
-    {"id":"A036","title":"Ask for a second pair of eyes","description":"If a task feels stuck, ask someone trusted to look at one specific part with you.","steps":["Choose the part you are unsure about.","Ask one person for a brief review or idea.","Use what helps and leave the rest; the decision remains yours."],"category":"support","moods":["frustrated","demotivated"],"themes":["support","perspective","problem_solving"],"intensity":["mild","moderate"],"durationMinutes":10,"reasonIds":["work","personal"],"energyRequired":"low","safetyNotes":["Choose someone appropriate and safe to ask."]}
-  ],
-  "songs": [
-    {"id":"MUS003","title":"Kaavaalaa","movieId":"MOV001","moods":["happy","bored"],"themes":["joy","play","energy"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=lM8h5Mm6ODo","source":"Sun Pictures official video","sourceUrl":"https://www.youtube.com/watch?v=lM8h5Mm6ODo","rightsStatus":"not_applicable"},
-    {"id":"MUS004","title":"Jujubee","movieId":"MOV001","moods":["happy","bored","confident"],"themes":["play","novelty","celebration"],"energy":"high","language":"ta","externalLink":"https://www.sunnxt.com/tamil-music-jailer-jujubee-song/detail/174031/musicvideo/0","source":"Sun NXT official music video listing","sourceUrl":"https://www.sunnxt.com/tamil-music-jailer-jujubee-song/detail/174031/musicvideo/0","rightsStatus":"not_applicable"},
-    {"id":"MUS005","title":"Alappara Theme","movieId":"MOV001","moods":["angry","frustrated","demotivated","confident"],"themes":["courage","agency","energy"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=X8k6LPsB4tY","source":"Sun Pictures official Jailer audio jukebox","sourceUrl":"https://www.youtube.com/watch?v=X8k6LPsB4tY","rightsStatus":"not_applicable"},
-    {"id":"MUS006","title":"Jailer Theme Music","movieId":"MOV001","moods":["stressed","confident","frustrated"],"themes":["focus","courage","resilience"],"energy":"medium","language":"ta","externalLink":"https://www.youtube.com/watch?v=X8k6LPsB4tY","source":"Sun Pictures official Jailer audio jukebox","sourceUrl":"https://www.youtube.com/watch?v=X8k6LPsB4tY","rightsStatus":"not_applicable"},
-    {"id":"MUS007","title":"Muthuvel Pandian Theme","movieId":"MOV001","moods":["angry","confident","demotivated"],"themes":["courage","resilience","agency"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=X8k6LPsB4tY","source":"Sun Pictures official Jailer audio jukebox","sourceUrl":"https://www.youtube.com/watch?v=X8k6LPsB4tY","rightsStatus":"not_applicable"},
-    {"id":"MUS008","title":"Jailer Drill","movieId":"MOV001","moods":["angry","frustrated","bored"],"themes":["energy","focus","play"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=X8k6LPsB4tY","source":"Sun Pictures official Jailer audio jukebox","sourceUrl":"https://www.youtube.com/watch?v=X8k6LPsB4tY","rightsStatus":"not_applicable"},
-    {"id":"MUS009","title":"Neruppu Da","movieId":"MOV005","moods":["angry","frustrated","confident","demotivated"],"themes":["courage","resilience","energy"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=bwXHx8ng7_E","source":"Think Music India official video","sourceUrl":"https://www.youtube.com/watch?v=bwXHx8ng7_E","rightsStatus":"not_applicable"},
-    {"id":"MUS010","title":"Maya Nadhi","movieId":"MOV005","moods":["sad","lonely","stressed"],"themes":["comfort","hope","connection"],"energy":"low","language":"ta","externalLink":"https://www.youtube.com/watch?v=EJlFp1SLDjc","source":"Think Music official video","sourceUrl":"https://www.youtube.com/watch?v=EJlFp1SLDjc","rightsStatus":"not_applicable"},
-    {"id":"MUS011","title":"Marana Mass","movieId":"MOV003","moods":["happy","angry","frustrated","confident","demotivated"],"themes":["energy","courage","celebration"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=HHk-Fk7wTfo","source":"Sun TV official Petta lyric video","sourceUrl":"https://www.youtube.com/watch?v=HHk-Fk7wTfo","rightsStatus":"not_applicable"},
-    {"id":"MUS012","title":"Ullaallaa","movieId":"MOV003","moods":["happy","bored","confident"],"themes":["joy","play","celebration"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=0yfHT7dXs4o","source":"Sony Music South official video","sourceUrl":"https://www.youtube.com/watch?v=0yfHT7dXs4o","rightsStatus":"not_applicable"},
-    {"id":"MUS013","title":"Manasilaayo","movieId":"MOV012","moods":["happy","bored","confident"],"themes":["joy","play","connection"],"energy":"medium","language":"ta","externalLink":"https://www.youtube.com/watch?v=5WsUIeNAtbM","source":"Sony Music South official video","sourceUrl":"https://www.youtube.com/watch?v=5WsUIeNAtbM","rightsStatus":"not_applicable"},
-    {"id":"MUS014","title":"Hunter Vantaar","movieId":"MOV012","moods":["angry","frustrated","confident","demotivated"],"themes":["courage","energy","agency"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=lIwhaTfqwzc","source":"Sony Music South official video","sourceUrl":"https://www.youtube.com/watch?v=lIwhaTfqwzc","rightsStatus":"not_applicable"},
-    {"id":"MUS015","title":"Chikitu","movieId":"MOV013","moods":["happy","bored","confident"],"themes":["joy","play","energy"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=rsJ-LGpE7Lc","source":"Sun TV official Coolie video","sourceUrl":"https://www.youtube.com/watch?v=rsJ-LGpE7Lc","rightsStatus":"not_applicable"},
-    {"id":"MUS016","title":"Powerhouse","movieId":"MOV013","moods":["angry","frustrated","demotivated","confident"],"themes":["courage","agency","energy"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=EBa6OoMxAag","source":"Sun TV official Coolie video","sourceUrl":"https://www.youtube.com/watch?v=EBa6OoMxAag","rightsStatus":"not_applicable"},
-    {"id":"MUS017","title":"Pullinangal","movieId":"MOV011","moods":["happy","sad","lonely","stressed"],"themes":["wonder","hope","connection"],"energy":"low","language":"ta","externalLink":"https://www.youtube.com/watch?v=sNm55ptmDcs","source":"Lyca Productions official 2.0 video","sourceUrl":"https://www.youtube.com/watch?v=sNm55ptmDcs","rightsStatus":"not_applicable"},
-    {"id":"MUS018","title":"Endhira Logathu Sundariye","movieId":"MOV011","moods":["happy","sad","lonely","stressed"],"themes":["connection","wonder","comfort"],"energy":"low","language":"ta","externalLink":"https://www.youtube.com/watch?v=jojuiGh7Edg","source":"Lyca Productions official 2.0 video","sourceUrl":"https://www.youtube.com/watch?v=jojuiGh7Edg","rightsStatus":"not_applicable"},
-    {"id":"MUS019","title":"Chumma Kizhi","movieId":"MOV010","moods":["happy","bored","confident","demotivated"],"themes":["joy","energy","celebration"],"energy":"high","language":"ta","externalLink":"https://www.youtube.com/watch?v=FdVuB1G2G_g","source":"Divo Music official Darbar lyric video","sourceUrl":"https://www.youtube.com/watch?v=FdVuB1G2G_g","rightsStatus":"not_applicable"}
-  ],
-  "movies": [
-    {"id":"MOV004","title":"Annaatthe","year":2021,"genres":["action","family drama"],"moods":["happy","sad","lonely"],"themes":["family","care","belonging"],"synopsis":"A family action drama about a village leader whose loyalty to his sister shapes the story.","recommendationReason":"A family-centred pick when you want familiar emotions and a protective, larger-than-life lead.","externalLink":"https://www.sunpictures.in/?sunpict_movies=annaatthe","verified":true,"source":"Sun Pictures","sourceUrl":"https://www.sunpictures.in/?sunpict_movies=annaatthe"},
-    {"id":"MOV005","title":"Kabali","year":2016,"genres":["action","drama"],"moods":["angry","frustrated","confident","demotivated"],"themes":["resilience","justice","identity"],"synopsis":"A crime drama starring Rajinikanth as an older gang leader seeking justice for his people.","recommendationReason":"A grounded action drama for a moment when you want resolve and a story about standing your ground.","externalLink":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/","verified":true,"source":"Sun NXT official Rajinikanth film guide","sourceUrl":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/"},
-    {"id":"MOV006","title":"Chandramukhi","year":2005,"genres":["comedy","horror drama"],"moods":["happy","bored","stressed"],"themes":["mystery","humour","curiosity"],"synopsis":"A supernatural mystery-comedy featuring Rajinikanth, Jyothika and Prabhu.","recommendationReason":"A familiar mix of mystery and comedy when you want your attention pulled into another world.","externalLink":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/","verified":true,"source":"Sun NXT official Rajinikanth film guide","sourceUrl":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/"},
-    {"id":"MOV007","title":"Muthu","year":1995,"genres":["comedy","drama"],"moods":["happy","sad","lonely"],"themes":["kindness","humour","belonging"],"synopsis":"A period comedy-drama starring Rajinikanth as a loyal and generous charioteer.","recommendationReason":"A warm, humorous classic for when a familiar screen world would feel good.","externalLink":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/","verified":true,"source":"Sun NXT official Rajinikanth film guide","sourceUrl":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/"},
-    {"id":"MOV008","title":"Baasha","year":1995,"genres":["action","drama"],"moods":["angry","frustrated","confident","demotivated"],"themes":["courage","resilience","identity"],"synopsis":"An action drama about an auto driver with a hidden past, starring Rajinikanth.","recommendationReason":"A classic transformation story for when you want bold, familiar cinema energy.","externalLink":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/","verified":true,"source":"Sun NXT official Rajinikanth film guide","sourceUrl":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/"},
-    {"id":"MOV009","title":"Laal Salaam","year":2024,"genres":["sports drama"],"moods":["happy","confident","lonely","frustrated"],"themes":["teamwork","belonging","resilience"],"synopsis":"A Tamil sports drama featuring Rajinikanth in an extended cameo role.","recommendationReason":"A team-centred story for a moment when you want to think about belonging and shared effort.","externalLink":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/","verified":true,"source":"Sun NXT official Rajinikanth film guide","sourceUrl":"https://blog.sunnxt.com/watch-rajinikanth-movies-online-on-sunnxt-in-tamil-telugu-and-malayalam/"},
-    {"id":"MOV010","title":"Darbar","year":2020,"genres":["action","crime thriller"],"moods":["angry","frustrated","confident","demotivated"],"themes":["justice","courage","energy"],"synopsis":"An action thriller about Mumbai police commissioner Aaditya Arunachalam taking on a drug syndicate.","recommendationReason":"Choose this when you want a brisk investigation and a determined lead taking action.","externalLink":"https://lycaproductions.in/movies/darbar/","verified":true,"source":"Lyca Productions","sourceUrl":"https://lycaproductions.in/movies/darbar/"},
-    {"id":"MOV011","title":"2.0","year":2018,"genres":["science fiction","action"],"moods":["happy","bored","confident","stressed"],"themes":["curiosity","imagination","wonder"],"synopsis":"Scientist Vaseegaran and robot Chitti are called in when mysterious forces threaten Chennai.","recommendationReason":"A colourful sci-fi spectacle for when you want to step into a bigger, more imaginative world.","externalLink":"https://lycaproductions.in/movies/2-o/","verified":true,"source":"Lyca Productions","sourceUrl":"https://lycaproductions.in/movies/2-o/"},
-    {"id":"MOV012","title":"Vettaiyan","year":2024,"genres":["action","crime drama"],"moods":["angry","frustrated","confident","demotivated"],"themes":["justice","perspective","courage"],"synopsis":"A police officer faces difficult questions about justice after a high-profile case.","recommendationReason":"A thought-provoking action drama when you want a story with moral tension as well as momentum.","externalLink":"https://lycaproductions.in/movies/vettaiyan/","verified":true,"source":"Lyca Productions","sourceUrl":"https://lycaproductions.in/movies/vettaiyan/"},
-    {"id":"MOV013","title":"Coolie","year":2025,"genres":["action","thriller"],"moods":["happy","angry","frustrated","bored","confident","demotivated"],"themes":["energy","courage","agency"],"synopsis":"An action thriller starring Rajinikanth as Deva, directed by Lokesh Kanagaraj.","recommendationReason":"A high-energy pick when you want a punchy change of pace and larger-than-life action.","externalLink":"https://www.sunpictures.in/?sunpict_movies=coolie","verified":true,"source":"Sun Pictures","sourceUrl":"https://www.sunpictures.in/?sunpict_movies=coolie"},
-    {"id":"MOV014","title":"Lal Salaam","year":2024,"genres":["sports drama"],"moods":["happy","sad","lonely","frustrated","confident"],"themes":["teamwork","belonging","resilience"],"synopsis":"A sports drama about cricket, community tensions and finding common ground, featuring Rajinikanth as Moideen Bhai.","recommendationReason":"A community-centred story when you want to reflect on belonging, shared effort and reconciliation.","externalLink":"https://lycaproductions.in/movies/lal-salaam/","verified":true,"source":"Lyca Productions","sourceUrl":"https://lycaproductions.in/movies/lal-salaam/"}
+    {
+      "id": "A010",
+      "title": "Save one bright detail",
+      "description": "Notice one thing from today that you would like to remember, without needing to make the whole day perfect.",
+      "steps": [
+        "Pick a moment, colour, sound or taste from today.",
+        "Write one sentence about it or take a quick photo.",
+        "If you like, share it with someone who would enjoy it."
+      ],
+      "category": "reflection",
+      "moods": [
+        "happy"
+      ],
+      "themes": [
+        "gratitude",
+        "presence",
+        "joy"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep it simple; the detail can be very ordinary."
+      ]
+    },
+    {
+      "id": "A011",
+      "title": "Send a small thank-you",
+      "description": "Tell someone about one specific thing they did that you appreciated.",
+      "steps": [
+        "Think of a person who made today easier or brighter.",
+        "Send one short message naming what you appreciated.",
+        "Put your phone down and let the message be enough."
+      ],
+      "category": "connection",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "gratitude",
+        "connection",
+        "kindness"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Reach out only if it feels comfortable and welcome."
+      ]
+    },
+    {
+      "id": "A012",
+      "title": "Make a tiny celebration",
+      "description": "Mark a small win with a brief ritual that feels like you.",
+      "steps": [
+        "Name something you completed or handled today.",
+        "Choose a small celebration: a favourite song, a stretch or tea.",
+        "Take one minute to enjoy it before moving on."
+      ],
+      "category": "celebration",
+      "moods": [
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "celebration",
+        "self_worth",
+        "joy"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Choose a celebration that suits your needs and circumstances."
+      ]
+    },
+    {
+      "id": "A013",
+      "title": "Create a comfort corner",
+      "description": "Make one small place around you feel more comfortable for the next few minutes.",
+      "steps": [
+        "Choose a seat or spot where you can pause.",
+        "Add one comforting thing nearby, such as a blanket or warm drink.",
+        "Sit there without asking yourself to feel different."
+      ],
+      "category": "comfort",
+      "moods": [
+        "sad"
+      ],
+      "themes": [
+        "comfort",
+        "rest",
+        "self_compassion"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "personal",
+        "tiredness"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Use a safe temperature for drinks and comfort items."
+      ]
+    },
+    {
+      "id": "A014",
+      "title": "Let the light in",
+      "description": "Give yourself a gentle change of scene by sitting near a window or another comfortable place.",
+      "steps": [
+        "Move only if it feels easy and safe.",
+        "Notice the light, sky or view for a minute.",
+        "Choose one small need for the next hour: water, food, rest or company."
+      ],
+      "category": "grounding",
+      "moods": [
+        "sad",
+        "stressed"
+      ],
+      "themes": [
+        "grounded",
+        "hope",
+        "self_care"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "tiredness"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "A comfortable indoor spot is fine if going outside is not suitable."
+      ]
+    },
+    {
+      "id": "A015",
+      "title": "Ask for a little company",
+      "description": "If it feels right, make a simple invitation for a short call or quiet company.",
+      "steps": [
+        "Choose someone you trust or feel safe contacting.",
+        "Try a short message: 'Could you talk for a few minutes later?'.",
+        "You need not explain everything; say what would help."
+      ],
+      "category": "connection",
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "connection",
+        "belonging",
+        "support"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Reach out only to someone who feels safe; a reply may take time."
+      ]
+    },
+    {
+      "id": "A016",
+      "title": "Give the reply a pause",
+      "description": "Create space before responding to a message or conversation that has upset you.",
+      "steps": [
+        "Put the phone down or step away if you can.",
+        "Take a few normal breaths and drink some water.",
+        "Return when ready and write one clear sentence about what you need."
+      ],
+      "category": "pause",
+      "moods": [
+        "angry"
+      ],
+      "themes": [
+        "pause",
+        "self_control",
+        "boundaries"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "If stepping away would make the situation unsafe, prioritise getting help and moving to safety."
+      ]
+    },
+    {
+      "id": "A017",
+      "title": "Unclench and reset",
+      "description": "Let your hands and shoulders rest for a moment instead of carrying the tension forward.",
+      "steps": [
+        "Notice whether you are gripping your hands or raising your shoulders.",
+        "Let your hands rest open and lower your shoulders if comfortable.",
+        "Look around and name one thing you can choose next."
+      ],
+      "category": "grounding",
+      "moods": [
+        "angry",
+        "stressed"
+      ],
+      "themes": [
+        "grounded",
+        "pause",
+        "self_control"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Skip any movement that feels painful or uncomfortable."
+      ]
+    },
+    {
+      "id": "A018",
+      "title": "Write the unsent version",
+      "description": "Write the first version of what you want to say privately, then decide later what belongs in the conversation.",
+      "steps": [
+        "Write freely in a note you will not send.",
+        "Underline the need or boundary underneath the words.",
+        "Close the note and revisit it only when ready."
+      ],
+      "category": "reflection",
+      "moods": [
+        "angry",
+        "frustrated"
+      ],
+      "themes": [
+        "self_control",
+        "perspective",
+        "boundaries"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep private notes somewhere others cannot access if privacy matters."
+      ]
+    },
+    {
+      "id": "A019",
+      "title": "Find the next controllable piece",
+      "description": "Turn a frustrating problem into one question you can answer or one step you can try.",
+      "steps": [
+        "Write the problem in one plain sentence.",
+        "Circle the part within your control today.",
+        "Choose a five-minute action or ask someone for input."
+      ],
+      "category": "problem_solving",
+      "moods": [
+        "frustrated"
+      ],
+      "themes": [
+        "agency",
+        "problem_solving",
+        "small_wins"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Some problems need time or support; you do not have to solve everything alone."
+      ]
+    },
+    {
+      "id": "A020",
+      "title": "Change one part of the setup",
+      "description": "If you are stuck on a task, change one practical detail before trying again.",
+      "steps": [
+        "Name what is not working in the current setup.",
+        "Change one thing: the order, tool, location or time.",
+        "Try the new version for five minutes, then reassess."
+      ],
+      "category": "reset",
+      "moods": [
+        "frustrated",
+        "bored"
+      ],
+      "themes": [
+        "novelty",
+        "problem_solving",
+        "agency"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "A short pause is also a valid change of plan."
+      ]
+    },
+    {
+      "id": "A021",
+      "title": "Park the extra thoughts",
+      "description": "Put competing tasks on paper so you only have to focus on one for now.",
+      "steps": [
+        "List the things asking for your attention.",
+        "Mark one 'now', one 'later' and one 'ask for help'.",
+        "Start only the 'now' item for five minutes."
+      ],
+      "category": "planning",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "simplification",
+        "focus",
+        "boundaries"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "If making a list increases pressure, stop and choose a pause instead."
+      ]
+    },
+    {
+      "id": "A022",
+      "title": "Take a shoulder break",
+      "description": "Let your upper body rest from one fixed position for a short while.",
+      "steps": [
+        "Pause what you are doing if it is safe.",
+        "Relax your shoulders gently, or simply let your arms rest.",
+        "Look away from the screen and choose whether to continue."
+      ],
+      "category": "rest",
+      "moods": [
+        "stressed"
+      ],
+      "themes": [
+        "rest",
+        "grounded",
+        "self_care"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "tiredness"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep movement gentle and skip it if it causes discomfort."
+      ]
+    },
+    {
+      "id": "A023",
+      "title": "Make a familiar connection",
+      "description": "Send a small hello to someone whose company usually feels comfortable.",
+      "steps": [
+        "Think of one person you would like to hear from.",
+        "Send a greeting, photo or simple question.",
+        "Let the message be a small opening; you need not keep chatting."
+      ],
+      "category": "connection",
+      "moods": [
+        "lonely"
+      ],
+      "themes": [
+        "connection",
+        "belonging",
+        "kindness"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Choose a safe contact and allow them time to reply."
+      ]
+    },
+    {
+      "id": "A024",
+      "title": "Spend a few minutes around people",
+      "description": "If it feels comfortable, choose a familiar public place for a short change of atmosphere.",
+      "steps": [
+        "Pick a safe nearby place such as a café, library or shared garden.",
+        "Stay only as long as feels comfortable; conversation is optional.",
+        "Notice one ordinary detail on the way back."
+      ],
+      "category": "connection",
+      "moods": [
+        "lonely",
+        "bored"
+      ],
+      "themes": [
+        "belonging",
+        "novelty",
+        "grounded"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 20,
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Skip travel or public places if they do not feel safe or accessible today."
+      ]
+    },
+    {
+      "id": "A025",
+      "title": "Share a small memory",
+      "description": "Bring a safe, familiar connection closer by sharing a memory or asking someone about theirs.",
+      "steps": [
+        "Choose a photo, song or small memory that feels comfortable.",
+        "Send it to someone you trust with a simple note.",
+        "Continue the conversation only as long as you want."
+      ],
+      "category": "connection",
+      "moods": [
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "belonging",
+        "connection",
+        "nostalgia"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "personal",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Choose a memory and person that feel emotionally safe."
+      ]
+    },
+    {
+      "id": "A026",
+      "title": "Try a colour hunt",
+      "description": "Give your attention a playful target by looking for one colour around you.",
+      "steps": [
+        "Choose a colour you like.",
+        "Find five objects or details in that colour.",
+        "Pick the most surprising one and notice why."
+      ],
+      "category": "play",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "curiosity",
+        "play",
+        "attention"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "browsing",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Stay where you are; do not reach for anything unsafe."
+      ]
+    },
+    {
+      "id": "A027",
+      "title": "Remix one routine",
+      "description": "Make a familiar, low-stakes routine feel new by changing one detail.",
+      "steps": [
+        "Choose a routine such as making tea or arranging your desk.",
+        "Change one detail: music, order, mug or location.",
+        "Notice whether it made the routine more interesting."
+      ],
+      "category": "novelty",
+      "moods": [
+        "bored"
+      ],
+      "themes": [
+        "novelty",
+        "creativity",
+        "play"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep the change safe and easy to undo."
+      ]
+    },
+    {
+      "id": "A028",
+      "title": "Make a no-pressure doodle",
+      "description": "Draw a pattern or object for a few minutes without judging the result.",
+      "steps": [
+        "Find paper or a note app and a pen or brush.",
+        "Draw repeating lines, shapes or something nearby.",
+        "Stop when you want; there is no need to finish or share it."
+      ],
+      "category": "creativity",
+      "moods": [
+        "bored",
+        "happy"
+      ],
+      "themes": [
+        "creativity",
+        "play",
+        "self_expression"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Use materials that are comfortable and already available."
+      ]
+    },
+    {
+      "id": "A029",
+      "title": "Start with two minutes",
+      "description": "Give an avoided task a very small beginning, then decide whether to continue.",
+      "steps": [
+        "Choose the next visible action, not the whole project.",
+        "Set a two-minute timer and begin.",
+        "When it rings, choose to stop, continue or ask for support."
+      ],
+      "category": "small_steps",
+      "moods": [
+        "demotivated"
+      ],
+      "themes": [
+        "small_wins",
+        "agency",
+        "perseverance"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Stopping after two minutes still counts as starting."
+      ]
+    },
+    {
+      "id": "A030",
+      "title": "Prepare one thing for later",
+      "description": "Make a future task easier by setting out one small item or reminder now.",
+      "steps": [
+        "Think of one thing you may want to do later or tomorrow.",
+        "Put out the needed item or write a brief reminder.",
+        "Close the task and give yourself permission to pause."
+      ],
+      "category": "planning",
+      "moods": [
+        "demotivated",
+        "stressed"
+      ],
+      "themes": [
+        "simplification",
+        "small_wins",
+        "self_care"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Choose one preparation step; leave the rest for later."
+      ]
+    },
+    {
+      "id": "A031",
+      "title": "Mark what is already done",
+      "description": "Notice the effort you have already made instead of only seeing the unfinished list.",
+      "steps": [
+        "Write down two things you have handled today, however small.",
+        "Notice what each one required from you.",
+        "Choose whether you need a break or one next step."
+      ],
+      "category": "reflection",
+      "moods": [
+        "demotivated",
+        "sad"
+      ],
+      "themes": [
+        "self_worth",
+        "small_wins",
+        "perspective"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "personal",
+        "work"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "If reflection feels unhelpful, skip it and choose a simple pause."
+      ]
+    },
+    {
+      "id": "A032",
+      "title": "Take one useful stretch goal",
+      "description": "Use your confidence on a challenge just beyond your usual comfort zone.",
+      "steps": [
+        "Name something you would like to try or learn.",
+        "Choose a first step that takes ten minutes or less.",
+        "Decide what support or information would make it easier."
+      ],
+      "category": "growth",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "ambition",
+        "courage",
+        "learning"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep the goal realistic and safe for your situation."
+      ]
+    },
+    {
+      "id": "A033",
+      "title": "Share the credit",
+      "description": "Strengthen a good moment by recognising someone who helped make it happen.",
+      "steps": [
+        "Think of one person who contributed to a recent success.",
+        "Tell them specifically what their help meant.",
+        "Notice how it feels to celebrate the result together."
+      ],
+      "category": "connection",
+      "moods": [
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "gratitude",
+        "leadership",
+        "connection"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "family_relationships"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Share only what feels appropriate in that relationship."
+      ]
+    },
+    {
+      "id": "A034",
+      "title": "Capture what worked",
+      "description": "Write a short note about something you handled well so you can use that learning again.",
+      "steps": [
+        "Choose a recent moment that went well.",
+        "Write one thing you did that helped.",
+        "Save the note somewhere you can find it later."
+      ],
+      "category": "reflection",
+      "moods": [
+        "confident"
+      ],
+      "themes": [
+        "growth",
+        "perspective",
+        "agency"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep the note private if you prefer."
+      ]
+    },
+    {
+      "id": "A035",
+      "title": "Notice a soundscape",
+      "description": "Take a short pause and notice the sounds around you, letting each one come and go.",
+      "steps": [
+        "Settle in a comfortable position.",
+        "Notice three sounds, near or far, without needing to name them.",
+        "Choose one sound you find pleasant or interesting."
+      ],
+      "category": "grounding",
+      "moods": [
+        "stressed",
+        "angry",
+        "sad"
+      ],
+      "themes": [
+        "attention",
+        "grounded",
+        "pause"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "reasonIds": [
+        "work",
+        "personal",
+        "tiredness"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "If listening feels uncomfortable, look at a familiar object instead."
+      ]
+    },
+    {
+      "id": "A036",
+      "title": "Ask for a second pair of eyes",
+      "description": "If a task feels stuck, ask someone trusted to look at one specific part with you.",
+      "steps": [
+        "Choose the part you are unsure about.",
+        "Ask one person for a brief review or idea.",
+        "Use what helps and leave the rest; the decision remains yours."
+      ],
+      "category": "support",
+      "moods": [
+        "frustrated",
+        "demotivated"
+      ],
+      "themes": [
+        "support",
+        "perspective",
+        "problem_solving"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Choose someone appropriate and safe to ask."
+      ]
+    }
   ]
 }

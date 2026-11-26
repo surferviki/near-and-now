@@ -4,7 +4,7 @@ const WEIGHTS = { mood: 40, intensity: 20, duration: 15, target: 10 } as const;
 const GENERAL_MOODS: MoodId[] = ["happy", "sad", "angry", "frustrated", "stressed", "lonely", "bored", "demotivated", "confident"];
 export function validateContent(content: Content): string[] {
   const errors: string[] = [];
-  for (const collection of [content.moods, content.thoughts, content.stories, content.activities, content.songs, content.movies, ...(content.dialogues ? [content.dialogues] : [])]) {
+  for (const collection of [content.moods, content.thoughts, content.stories, content.activities, content.songs, content.movies]) {
     const ids = collection.map((entry) => entry.id);
     if (new Set(ids).size !== ids.length) errors.push("Content IDs must be unique within each collection.");
   }
@@ -12,7 +12,7 @@ export function validateContent(content: Content): string[] {
   for (const [name, collection] of Object.entries({ moods: content.moods, thoughts: content.thoughts, stories: content.stories, activities: content.activities, songs: content.songs, movies: content.movies })) {
     if (!collection.length) errors.push(`The ${name} collection cannot be empty.`);
   }
-  for (const item of [...content.thoughts, ...content.stories, ...content.activities, ...content.songs, ...content.movies, ...(content.dialogues ?? [])]) {
+  for (const item of [...content.thoughts, ...content.stories, ...content.activities, ...content.songs, ...content.movies]) {
     if (item.moods.some((mood) => !moodIds.has(mood))) errors.push(`Unknown mood reference in ${item.id}.`);
   }
   if (content.songs.some((song) => !content.movies.some((movie) => movie.id === song.movieId))) errors.push("Every song must reference a movie.");
@@ -67,22 +67,20 @@ export function buildExperience(input: UserInput, content: Content, recentIds: s
   const activity = chooseActivity(content.activities, input, [...profile.preferredThemes, ...story.item.themes], recent);
   const song = choose(score(validSongs, input, profile.preferredThemes, recent), recent);
   const movie = choose(score(validMovies, input, profile.preferredThemes, recent), recent);
-  const dialogueCandidates = (content.dialogues ?? []).filter((item) => item.moods.includes(input.moodId));
-  const dialogue = dialogueCandidates.find((item) => !recent.has(item.id)) ?? dialogueCandidates[0];
-  return { mood: profile, thought, story, activity, song, movie, ...(dialogue ? { dialogue } : {}) };
+  return { mood: profile, thought, story, activity, song, movie };
 }
 
 export function rememberExperience(experience: Experience): string[] {
   let previous: string[] = [];
-  try { previous = JSON.parse(sessionStorage.getItem("rajinism-recent") ?? "[]") as string[]; } catch { /* Storage can be unavailable in private or restricted contexts. */ }
-  const ids = [experience.thought.item.id, experience.story.item.id, experience.activity.item.id, experience.song.item.id, experience.movie.item.id, ...(experience.dialogue ? [experience.dialogue.id] : [])];
+  try { previous = JSON.parse(sessionStorage.getItem("moodlift-recent") ?? "[]") as string[]; } catch { /* Storage can be unavailable in private or restricted contexts. */ }
+  const ids = [experience.thought.item.id, experience.story.item.id, experience.activity.item.id, experience.song.item.id, experience.movie.item.id];
   const next = [...new Set([...ids, ...previous])].slice(0, 20);
-  try { sessionStorage.setItem("rajinism-recent", JSON.stringify(next)); } catch { /* Recommendations still work without session persistence. */ }
+  try { sessionStorage.setItem("moodlift-recent", JSON.stringify(next)); } catch { /* Recommendations still work without session persistence. */ }
   return next;
 }
 
 export function getInitialRecent(): string[] {
-  try { return JSON.parse(sessionStorage.getItem("rajinism-recent") ?? "[]") as string[]; } catch { return []; }
+  try { return JSON.parse(sessionStorage.getItem("moodlift-recent") ?? "[]") as string[]; } catch { return []; }
 }
 
 export function allMoodIds(): MoodId[] { return GENERAL_MOODS; }

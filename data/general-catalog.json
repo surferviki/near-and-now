@@ -1,0 +1,1578 @@
+{
+  "songs": [
+    {
+      "id": "SONGG001",
+      "title": "Munbe Vaa",
+      "movieId": "MOVG016",
+      "moods": [
+        "sad",
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "romance",
+        "calm",
+        "hope"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Munbe+Vaa+Sita+Ramam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Munbe+Vaa+Sita+Ramam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG002",
+      "title": "Vaseegara",
+      "movieId": "MOVG012",
+      "moods": [
+        "sad",
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "romance",
+        "calm",
+        "connection"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Vaseegara+Bangalore+Days+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Vaseegara+Bangalore+Days+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG003",
+      "title": "Nenjukkul Peidhidum",
+      "movieId": "MOVG015",
+      "moods": [
+        "happy",
+        "lonely",
+        "bored"
+      ],
+      "themes": [
+        "romance",
+        "wonder",
+        "warmth"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Nenjukkul+Peidhidum+Mahanati+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Nenjukkul+Peidhidum+Mahanati+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG004",
+      "title": "Anbil Avan",
+      "movieId": "MOVG016",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "love",
+        "connection",
+        "hope"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Anbil+Avan+Sita+Ramam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Anbil+Avan+Sita+Ramam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG005",
+      "title": "Aalaporan Thamizhan",
+      "movieId": "MOVG025",
+      "moods": [
+        "confident",
+        "happy",
+        "demotivated"
+      ],
+      "themes": [
+        "pride",
+        "energy",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Aalaporan+Thamizhan+RRR+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Aalaporan+Thamizhan+RRR+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG006",
+      "title": "Vaathi Coming",
+      "movieId": "MOVG005",
+      "moods": [
+        "bored",
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "energy",
+        "play",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Vaathi+Coming+Vikram+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Vaathi+Coming+Vikram+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG007",
+      "title": "Arabic Kuthu",
+      "movieId": "MOVG009",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "energy",
+        "play",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Arabic+Kuthu+Love+Today+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Arabic+Kuthu+Love+Today+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG008",
+      "title": "Megham Karukatha",
+      "movieId": "MOVG007",
+      "moods": [
+        "happy",
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "romance",
+        "hope",
+        "warmth"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Megham+Karukatha+Thiruchitrambalam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Megham+Karukatha+Thiruchitrambalam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG009",
+      "title": "Life of Pazham",
+      "movieId": "MOVG007",
+      "moods": [
+        "sad",
+        "frustrated",
+        "lonely"
+      ],
+      "themes": [
+        "reflection",
+        "acceptance",
+        "comfort"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Life+of+Pazham+Thiruchitrambalam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Life+of+Pazham+Thiruchitrambalam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG010",
+      "title": "New York Nagaram",
+      "movieId": "MOVG012",
+      "moods": [
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "longing",
+        "connection",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=New+York+Nagaram+Bangalore+Days+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=New+York+Nagaram+Bangalore+Days+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG011",
+      "title": "Mundhinam",
+      "movieId": "MOVG015",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "hope",
+        "memory"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Mundhinam+Mahanati+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Mundhinam+Mahanati+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG012",
+      "title": "Pachai Nirame",
+      "movieId": "MOVG012",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "wonder",
+        "romance",
+        "joy"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Pachai+Nirame+Bangalore+Days+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Pachai+Nirame+Bangalore+Days+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG013",
+      "title": "Uyire Uyire",
+      "movieId": "MOVG013",
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "longing",
+        "comfort",
+        "love"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Uyire+Uyire+Kumbalangi+Nights+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Uyire+Uyire+Kumbalangi+Nights+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG014",
+      "title": "Malare",
+      "movieId": "MOVG011",
+      "moods": [
+        "happy",
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "romance",
+        "hope",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Malare+Premalu+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Malare+Premalu+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG015",
+      "title": "Darshana",
+      "movieId": "MOVG011",
+      "moods": [
+        "happy",
+        "confident",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "joy",
+        "hope"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Darshana+Premalu+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Darshana+Premalu+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG016",
+      "title": "Pavizha Mazha",
+      "movieId": "MOVG013",
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "calm",
+        "comfort",
+        "romance"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Pavizha+Mazha+Kumbalangi+Nights+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Pavizha+Mazha+Kumbalangi+Nights+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG017",
+      "title": "Uyiril Thodum",
+      "movieId": "MOVG013",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "comfort",
+        "connection",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Uyiril+Thodum+Kumbalangi+Nights+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Uyiril+Thodum+Kumbalangi+Nights+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG018",
+      "title": "Ilahi",
+      "movieId": "MOVG018",
+      "moods": [
+        "bored",
+        "demotivated",
+        "happy"
+      ],
+      "themes": [
+        "freedom",
+        "adventure",
+        "curiosity"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Ilahi+Zindagi+Na+Milegi+Dobara+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Ilahi+Zindagi+Na+Milegi+Dobara+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG019",
+      "title": "Kun Faya Kun",
+      "movieId": "MOVG019",
+      "moods": [
+        "stressed",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "reflection",
+        "calm",
+        "hope"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Kun+Faya+Kun+3+Idiots+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Kun+Faya+Kun+3+Idiots+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG020",
+      "title": "Zinda",
+      "movieId": "MOVG021",
+      "moods": [
+        "demotivated",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "resilience",
+        "courage",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Zinda+Dangal+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Zinda+Dangal+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG021",
+      "title": "Kabira",
+      "movieId": "MOVG018",
+      "moods": [
+        "sad",
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "reflection",
+        "connection",
+        "hope"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Kabira+Zindagi+Na+Milegi+Dobara+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Kabira+Zindagi+Na+Milegi+Dobara+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG022",
+      "title": "Gallan Goodiyaan",
+      "movieId": "MOVG018",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "celebration",
+        "family",
+        "energy"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Gallan+Goodiyaan+Zindagi+Na+Milegi+Dobara+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Gallan+Goodiyaan+Zindagi+Na+Milegi+Dobara+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG023",
+      "title": "Aashayein",
+      "movieId": "MOVG023",
+      "moods": [
+        "demotivated",
+        "sad",
+        "confident"
+      ],
+      "themes": [
+        "hope",
+        "ambition",
+        "resilience"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Aashayein+Swades+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Aashayein+Swades+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG024",
+      "title": "Lakshya",
+      "movieId": "MOVG021",
+      "moods": [
+        "demotivated",
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "focus",
+        "purpose",
+        "perseverance"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Lakshya+Dangal+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Lakshya+Dangal+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG025",
+      "title": "Naatu Naatu",
+      "movieId": "MOVG025",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "energy",
+        "joy",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Naatu+Naatu+RRR+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Naatu+Naatu+RRR+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG026",
+      "title": "Inkem Inkem Inkem Kaavaale",
+      "movieId": "MOVG026",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "hope",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Inkem+Inkem+Inkem+Kaavaale+Geetha+Govindam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Inkem+Inkem+Inkem+Kaavaale+Geetha+Govindam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG027",
+      "title": "Samajavaragamana",
+      "movieId": "MOVG026",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "romance",
+        "joy",
+        "play"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Samajavaragamana+Geetha+Govindam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Samajavaragamana+Geetha+Govindam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG028",
+      "title": "Aaromale",
+      "movieId": "MOVG012",
+      "moods": [
+        "happy",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "wonder",
+        "memory"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Aaromale+Bangalore+Days+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Aaromale+Bangalore+Days+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG029",
+      "title": "Pularikalo",
+      "movieId": "MOVG017",
+      "moods": [
+        "stressed",
+        "sad",
+        "happy"
+      ],
+      "themes": [
+        "calm",
+        "hope",
+        "renewal"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Pularikalo+Manjummel+Boys+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Pularikalo+Manjummel+Boys+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG030",
+      "title": "Kaavaalaa",
+      "movieId": "MOVG028",
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "play",
+        "energy",
+        "celebration"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Kaavaalaa+Jailer+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Kaavaalaa+Jailer+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG031",
+      "title": "Hukum",
+      "movieId": "MOVG028",
+      "moods": [
+        "confident",
+        "happy",
+        "demotivated"
+      ],
+      "themes": [
+        "confidence",
+        "celebration",
+        "agency"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Hukum+Jailer+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Hukum+Jailer+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG032",
+      "title": "Rathamaarey",
+      "movieId": "MOVG028",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "connection",
+        "comfort",
+        "calm"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Rathamaarey+Jailer+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Rathamaarey+Jailer+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG033",
+      "title": "Pookkal Pookkum",
+      "movieId": "MOVG016",
+      "moods": [
+        "happy",
+        "lonely"
+      ],
+      "themes": [
+        "romance",
+        "hope",
+        "wonder"
+      ],
+      "energy": "medium",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Pookkal+Pookkum+Sita+Ramam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Pookkal+Pookkum+Sita+Ramam+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG034",
+      "title": "Aaruyire",
+      "movieId": "MOVG015",
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "comfort",
+        "hope",
+        "reflection"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Aaruyire+Mahanati+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Aaruyire+Mahanati+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG035",
+      "title": "Appadi Podu",
+      "movieId": "MOVG006",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "energy",
+        "celebration",
+        "play"
+      ],
+      "energy": "high",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Appadi+Podu+Kaithi+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Appadi+Podu+Kaithi+official+song",
+      "rightsStatus": "not_applicable"
+    },
+    {
+      "id": "SONGG036",
+      "title": "Vennilave Vennilave",
+      "movieId": "MOVG014",
+      "moods": [
+        "sad",
+        "lonely",
+        "stressed"
+      ],
+      "themes": [
+        "calm",
+        "romance",
+        "longing"
+      ],
+      "energy": "low",
+      "language": "mixed",
+      "externalLink": "https://www.youtube.com/results?search_query=Vennilave+Vennilave+Drishyam+official+song",
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Vennilave+Vennilave+Drishyam+official+song",
+      "rightsStatus": "not_applicable"
+    }
+  ],
+  "movies": [
+    {
+      "id": "MOVG001",
+      "title": "96",
+      "year": 2018,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "cast": [
+        "Vijay Sethupathi",
+        "Trisha Krishnan"
+      ],
+      "moods": [
+        "sad",
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "memory",
+        "love",
+        "connection"
+      ],
+      "synopsis": "A romance featuring Vijay Sethupathi, Trisha Krishnan.",
+      "recommendationReason": "A tender story for a reflective or nostalgic moment.",
+      "externalLink": "https://www.youtube.com/results?search_query=96+2018+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=96+2018+film"
+    },
+    {
+      "id": "MOVG002",
+      "title": "Anbe Sivam",
+      "year": 2003,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Kamal Haasan",
+        "Madhavan"
+      ],
+      "moods": [
+        "sad",
+        "frustrated",
+        "lonely",
+        "confident"
+      ],
+      "themes": [
+        "kindness",
+        "perspective",
+        "connection"
+      ],
+      "synopsis": "A comedy featuring Kamal Haasan, Madhavan.",
+      "recommendationReason": "A thoughtful, humane film when you want perspective and warmth.",
+      "externalLink": "https://www.youtube.com/results?search_query=Anbe+Sivam+2003+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Anbe+Sivam+2003+film"
+    },
+    {
+      "id": "MOVG003",
+      "title": "Soorarai Pottru",
+      "year": 2020,
+      "genres": [
+        "drama"
+      ],
+      "cast": [
+        "Suriya",
+        "Aparna Balamurali"
+      ],
+      "moods": [
+        "demotivated",
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "ambition",
+        "perseverance",
+        "courage"
+      ],
+      "synopsis": "A drama featuring Suriya, Aparna Balamurali.",
+      "recommendationReason": "An inspiring choice when you need a reminder to keep moving toward a goal.",
+      "externalLink": "https://www.youtube.com/results?search_query=Soorarai+Pottru+2020+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Soorarai+Pottru+2020+film"
+    },
+    {
+      "id": "MOVG004",
+      "title": "Jai Bhim",
+      "year": 2021,
+      "genres": [
+        "courtroom drama"
+      ],
+      "cast": [
+        "Suriya",
+        "Lijomol Jose",
+        "Manikandan"
+      ],
+      "moods": [
+        "angry",
+        "frustrated",
+        "confident"
+      ],
+      "themes": [
+        "justice",
+        "courage",
+        "resilience"
+      ],
+      "synopsis": "A courtroom drama featuring Suriya, Lijomol Jose, Manikandan.",
+      "recommendationReason": "A powerful, serious drama about justice and persistence.",
+      "externalLink": "https://www.youtube.com/results?search_query=Jai+Bhim+2021+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Jai+Bhim+2021+film"
+    },
+    {
+      "id": "MOVG005",
+      "title": "Vikram",
+      "year": 2022,
+      "genres": [
+        "action",
+        "thriller"
+      ],
+      "cast": [
+        "Kamal Haasan",
+        "Vijay Sethupathi",
+        "Fahadh Faasil"
+      ],
+      "moods": [
+        "bored",
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "energy",
+        "teamwork",
+        "suspense"
+      ],
+      "synopsis": "An action featuring Kamal Haasan, Vijay Sethupathi, Fahadh Faasil.",
+      "recommendationReason": "A fast-paced ensemble thriller for a high-energy change of scene.",
+      "externalLink": "https://www.youtube.com/results?search_query=Vikram+2022+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Vikram+2022+film"
+    },
+    {
+      "id": "MOVG006",
+      "title": "Kaithi",
+      "year": 2019,
+      "genres": [
+        "action",
+        "thriller"
+      ],
+      "cast": [
+        "Karthi",
+        "Narain"
+      ],
+      "moods": [
+        "bored",
+        "confident",
+        "frustrated"
+      ],
+      "themes": [
+        "courage",
+        "resilience",
+        "momentum"
+      ],
+      "synopsis": "An action featuring Karthi, Narain.",
+      "recommendationReason": "A tense, propulsive action story when you want to focus on something bold.",
+      "externalLink": "https://www.youtube.com/results?search_query=Kaithi+2019+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Kaithi+2019+film"
+    },
+    {
+      "id": "MOVG007",
+      "title": "Thiruchitrambalam",
+      "year": 2022,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Dhanush",
+        "Nithya Menen",
+        "Raashi Khanna"
+      ],
+      "moods": [
+        "lonely",
+        "sad",
+        "happy"
+      ],
+      "themes": [
+        "friendship",
+        "family",
+        "belonging"
+      ],
+      "synopsis": "A comedy featuring Dhanush, Nithya Menen, Raashi Khanna.",
+      "recommendationReason": "A warm, everyday story about friendship, family and finding your footing.",
+      "externalLink": "https://www.youtube.com/results?search_query=Thiruchitrambalam+2022+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Thiruchitrambalam+2022+film"
+    },
+    {
+      "id": "MOVG008",
+      "title": "Velaiilla Pattadhari",
+      "year": 2014,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Dhanush",
+        "Amala Paul"
+      ],
+      "moods": [
+        "frustrated",
+        "demotivated",
+        "confident"
+      ],
+      "themes": [
+        "perseverance",
+        "ambition",
+        "self_belief"
+      ],
+      "synopsis": "A comedy featuring Dhanush, Amala Paul.",
+      "recommendationReason": "A relatable pick for a moment when work or plans feel stuck.",
+      "externalLink": "https://www.youtube.com/results?search_query=Velaiilla+Pattadhari+2014+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Velaiilla+Pattadhari+2014+film"
+    },
+    {
+      "id": "MOVG009",
+      "title": "Love Today",
+      "year": 2022,
+      "genres": [
+        "romantic comedy"
+      ],
+      "cast": [
+        "Pradeep Ranganathan",
+        "Ivana"
+      ],
+      "moods": [
+        "bored",
+        "happy",
+        "frustrated"
+      ],
+      "themes": [
+        "humour",
+        "curiosity",
+        "relationships"
+      ],
+      "synopsis": "A romantic comedy featuring Pradeep Ranganathan, Ivana.",
+      "recommendationReason": "A lively comedy when you want something playful and easy to follow.",
+      "externalLink": "https://www.youtube.com/results?search_query=Love+Today+2022+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Love+Today+2022+film"
+    },
+    {
+      "id": "MOVG010",
+      "title": "Good Night",
+      "year": 2023,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Manikandan",
+        "Meetha Raghunath"
+      ],
+      "moods": [
+        "stressed",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "comfort",
+        "kindness",
+        "relationships"
+      ],
+      "synopsis": "A comedy featuring Manikandan, Meetha Raghunath.",
+      "recommendationReason": "A gentle, feel-good story for a quieter evening.",
+      "externalLink": "https://www.youtube.com/results?search_query=Good+Night+2023+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Good+Night+2023+film"
+    },
+    {
+      "id": "MOVG011",
+      "title": "Premalu",
+      "year": 2024,
+      "genres": [
+        "romantic comedy"
+      ],
+      "cast": [
+        "Naslen",
+        "Mamitha Baiju"
+      ],
+      "moods": [
+        "happy",
+        "lonely",
+        "bored"
+      ],
+      "themes": [
+        "humour",
+        "hope",
+        "connection"
+      ],
+      "synopsis": "A romantic comedy featuring Naslen, Mamitha Baiju.",
+      "recommendationReason": "A light romantic comedy for when you want an easy smile.",
+      "externalLink": "https://www.youtube.com/results?search_query=Premalu+2024+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Premalu+2024+film"
+    },
+    {
+      "id": "MOVG012",
+      "title": "Bangalore Days",
+      "year": 2014,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Dulquer Salmaan",
+        "Nivin Pauly",
+        "Fahadh Faasil",
+        "Nazriya Nazim"
+      ],
+      "moods": [
+        "happy",
+        "lonely",
+        "confident"
+      ],
+      "themes": [
+        "friendship",
+        "belonging",
+        "adventure"
+      ],
+      "synopsis": "A comedy featuring Dulquer Salmaan, Nivin Pauly, Fahadh Faasil, Nazriya Nazim.",
+      "recommendationReason": "A warm ensemble story about friendship and finding your place.",
+      "externalLink": "https://www.youtube.com/results?search_query=Bangalore+Days+2014+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Bangalore+Days+2014+film"
+    },
+    {
+      "id": "MOVG013",
+      "title": "Kumbalangi Nights",
+      "year": 2019,
+      "genres": [
+        "drama"
+      ],
+      "cast": [
+        "Fahadh Faasil",
+        "Soubin Shahir",
+        "Shane Nigam"
+      ],
+      "moods": [
+        "sad",
+        "lonely",
+        "frustrated"
+      ],
+      "themes": [
+        "family",
+        "belonging",
+        "healing"
+      ],
+      "synopsis": "A drama featuring Fahadh Faasil, Soubin Shahir, Shane Nigam.",
+      "recommendationReason": "A distinctive family drama for a reflective, slower-paced watch.",
+      "externalLink": "https://www.youtube.com/results?search_query=Kumbalangi+Nights+2019+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Kumbalangi+Nights+2019+film"
+    },
+    {
+      "id": "MOVG014",
+      "title": "Drishyam",
+      "year": 2013,
+      "genres": [
+        "thriller",
+        "drama"
+      ],
+      "cast": [
+        "Mohanlal",
+        "Meena"
+      ],
+      "moods": [
+        "bored",
+        "confident",
+        "stressed"
+      ],
+      "themes": [
+        "family",
+        "suspense",
+        "resourcefulness"
+      ],
+      "synopsis": "A thriller featuring Mohanlal, Meena.",
+      "recommendationReason": "A tightly plotted thriller when you want an absorbing story.",
+      "externalLink": "https://www.youtube.com/results?search_query=Drishyam+2013+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Drishyam+2013+film"
+    },
+    {
+      "id": "MOVG015",
+      "title": "Mahanati",
+      "year": 2018,
+      "genres": [
+        "biographical drama"
+      ],
+      "cast": [
+        "Keerthy Suresh",
+        "Dulquer Salmaan",
+        "Samantha Ruth Prabhu"
+      ],
+      "moods": [
+        "sad",
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "creativity",
+        "resilience",
+        "ambition"
+      ],
+      "synopsis": "A biographical drama featuring Keerthy Suresh, Dulquer Salmaan, Samantha Ruth Prabhu.",
+      "recommendationReason": "A moving portrait of artistic ambition, talent and complexity.",
+      "externalLink": "https://www.youtube.com/results?search_query=Mahanati+2018+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Mahanati+2018+film"
+    },
+    {
+      "id": "MOVG016",
+      "title": "Sita Ramam",
+      "year": 2022,
+      "genres": [
+        "romance",
+        "drama"
+      ],
+      "cast": [
+        "Dulquer Salmaan",
+        "Mrunal Thakur",
+        "Rashmika Mandanna"
+      ],
+      "moods": [
+        "sad",
+        "lonely",
+        "happy"
+      ],
+      "themes": [
+        "love",
+        "hope",
+        "connection"
+      ],
+      "synopsis": "A romance featuring Dulquer Salmaan, Mrunal Thakur, Rashmika Mandanna.",
+      "recommendationReason": "A sweeping romantic drama for a tender, reflective mood.",
+      "externalLink": "https://www.youtube.com/results?search_query=Sita+Ramam+2022+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Sita+Ramam+2022+film"
+    },
+    {
+      "id": "MOVG017",
+      "title": "Manjummel Boys",
+      "year": 2024,
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "cast": [
+        "Soubin Shahir",
+        "Sreenath Bhasi",
+        "Balu Varghese"
+      ],
+      "moods": [
+        "confident",
+        "stressed",
+        "happy"
+      ],
+      "themes": [
+        "friendship",
+        "courage",
+        "teamwork"
+      ],
+      "synopsis": "An adventure featuring Soubin Shahir, Sreenath Bhasi, Balu Varghese.",
+      "recommendationReason": "A gripping story of friendship and showing up for one another.",
+      "externalLink": "https://www.youtube.com/results?search_query=Manjummel+Boys+2024+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Manjummel+Boys+2024+film"
+    },
+    {
+      "id": "MOVG018",
+      "title": "Zindagi Na Milegi Dobara",
+      "year": 2011,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Hrithik Roshan",
+        "Farhan Akhtar",
+        "Abhay Deol",
+        "Katrina Kaif"
+      ],
+      "moods": [
+        "stressed",
+        "bored",
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "friendship",
+        "adventure",
+        "perspective"
+      ],
+      "synopsis": "A comedy featuring Hrithik Roshan, Farhan Akhtar, Abhay Deol, Katrina Kaif.",
+      "recommendationReason": "A breezy road-trip story when you want a little perspective and escape.",
+      "externalLink": "https://www.youtube.com/results?search_query=Zindagi+Na+Milegi+Dobara+2011+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Zindagi+Na+Milegi+Dobara+2011+film"
+    },
+    {
+      "id": "MOVG019",
+      "title": "3 Idiots",
+      "year": 2009,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor"
+      ],
+      "moods": [
+        "demotivated",
+        "stressed",
+        "happy"
+      ],
+      "themes": [
+        "friendship",
+        "curiosity",
+        "self_belief"
+      ],
+      "synopsis": "A comedy featuring Aamir Khan, R. Madhavan, Sharman Joshi, Kareena Kapoor.",
+      "recommendationReason": "A funny, heartfelt story for a moment when pressure is crowding out curiosity.",
+      "externalLink": "https://www.youtube.com/results?search_query=3+Idiots+2009+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=3+Idiots+2009+film"
+    },
+    {
+      "id": "MOVG020",
+      "title": "Queen",
+      "year": 2013,
+      "genres": [
+        "comedy",
+        "drama"
+      ],
+      "cast": [
+        "Kangana Ranaut",
+        "Rajkummar Rao"
+      ],
+      "moods": [
+        "demotivated",
+        "lonely",
+        "confident"
+      ],
+      "themes": [
+        "independence",
+        "courage",
+        "discovery"
+      ],
+      "synopsis": "A comedy featuring Kangana Ranaut, Rajkummar Rao.",
+      "recommendationReason": "A self-discovery story when you could use a nudge toward your own next step.",
+      "externalLink": "https://www.youtube.com/results?search_query=Queen+2013+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Queen+2013+film"
+    },
+    {
+      "id": "MOVG021",
+      "title": "Dangal",
+      "year": 2016,
+      "genres": [
+        "sports drama"
+      ],
+      "cast": [
+        "Aamir Khan",
+        "Fatima Sana Shaikh",
+        "Sanya Malhotra"
+      ],
+      "moods": [
+        "confident",
+        "frustrated",
+        "demotivated"
+      ],
+      "themes": [
+        "discipline",
+        "teamwork",
+        "perseverance"
+      ],
+      "synopsis": "A sports drama featuring Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra.",
+      "recommendationReason": "A determined sports drama about practice, persistence and ambition.",
+      "externalLink": "https://www.youtube.com/results?search_query=Dangal+2016+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Dangal+2016+film"
+    },
+    {
+      "id": "MOVG022",
+      "title": "Taare Zameen Par",
+      "year": 2007,
+      "genres": [
+        "drama"
+      ],
+      "cast": [
+        "Aamir Khan",
+        "Darsheel Safary",
+        "Tisca Chopra"
+      ],
+      "moods": [
+        "sad",
+        "stressed",
+        "lonely"
+      ],
+      "themes": [
+        "empathy",
+        "creativity",
+        "kindness"
+      ],
+      "synopsis": "A drama featuring Aamir Khan, Darsheel Safary, Tisca Chopra.",
+      "recommendationReason": "A compassionate story that invites patience and a different point of view.",
+      "externalLink": "https://www.youtube.com/results?search_query=Taare+Zameen+Par+2007+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Taare+Zameen+Par+2007+film"
+    },
+    {
+      "id": "MOVG023",
+      "title": "Swades",
+      "year": 2004,
+      "genres": [
+        "drama"
+      ],
+      "cast": [
+        "Shah Rukh Khan",
+        "Gayatri Joshi"
+      ],
+      "moods": [
+        "demotivated",
+        "confident",
+        "lonely"
+      ],
+      "themes": [
+        "purpose",
+        "belonging",
+        "service"
+      ],
+      "synopsis": "A drama featuring Shah Rukh Khan, Gayatri Joshi.",
+      "recommendationReason": "A reflective drama about purpose, community and where we feel at home.",
+      "externalLink": "https://www.youtube.com/results?search_query=Swades+2004+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Swades+2004+film"
+    },
+    {
+      "id": "MOVG024",
+      "title": "Chak De! India",
+      "year": 2007,
+      "genres": [
+        "sports drama"
+      ],
+      "cast": [
+        "Shah Rukh Khan",
+        "Vidya Malvade",
+        "Sagarika Ghatge"
+      ],
+      "moods": [
+        "confident",
+        "frustrated",
+        "demotivated"
+      ],
+      "themes": [
+        "teamwork",
+        "resilience",
+        "focus"
+      ],
+      "synopsis": "A sports drama featuring Shah Rukh Khan, Vidya Malvade, Sagarika Ghatge.",
+      "recommendationReason": "An energetic team story for a moment when shared effort could help.",
+      "externalLink": "https://www.youtube.com/results?search_query=Chak+De%21+India+2007+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Chak+De%21+India+2007+film"
+    },
+    {
+      "id": "MOVG025",
+      "title": "RRR",
+      "year": 2022,
+      "genres": [
+        "action",
+        "drama"
+      ],
+      "cast": [
+        "N. T. Rama Rao Jr.",
+        "Ram Charan",
+        "Alia Bhatt"
+      ],
+      "moods": [
+        "happy",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "friendship",
+        "courage",
+        "energy"
+      ],
+      "synopsis": "An action featuring N. T. Rama Rao Jr., Ram Charan, Alia Bhatt.",
+      "recommendationReason": "A spectacular action adventure when you want a big, energetic escape.",
+      "externalLink": "https://www.youtube.com/results?search_query=RRR+2022+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=RRR+2022+film"
+    },
+    {
+      "id": "MOVG026",
+      "title": "Geetha Govindam",
+      "year": 2018,
+      "genres": [
+        "romantic comedy"
+      ],
+      "cast": [
+        "Vijay Deverakonda",
+        "Rashmika Mandanna"
+      ],
+      "moods": [
+        "happy",
+        "lonely",
+        "bored"
+      ],
+      "themes": [
+        "humour",
+        "relationships",
+        "hope"
+      ],
+      "synopsis": "A romantic comedy featuring Vijay Deverakonda, Rashmika Mandanna.",
+      "recommendationReason": "A light romantic comedy for a playful change of pace.",
+      "externalLink": "https://www.youtube.com/results?search_query=Geetha+Govindam+2018+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Geetha+Govindam+2018+film"
+    },
+    {
+      "id": "MOVG027",
+      "title": "The Lunchbox",
+      "year": 2013,
+      "genres": [
+        "drama",
+        "romance"
+      ],
+      "cast": [
+        "Irrfan Khan",
+        "Nimrat Kaur",
+        "Nawazuddin Siddiqui"
+      ],
+      "moods": [
+        "lonely",
+        "sad",
+        "stressed"
+      ],
+      "themes": [
+        "connection",
+        "kindness",
+        "hope"
+      ],
+      "synopsis": "A drama featuring Irrfan Khan, Nimrat Kaur, Nawazuddin Siddiqui.",
+      "recommendationReason": "A quiet, tender film about an unexpected human connection.",
+      "externalLink": "https://www.youtube.com/results?search_query=The+Lunchbox+2013+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=The+Lunchbox+2013+film"
+    },
+    {
+      "id": "MOVG028",
+      "title": "Jailer",
+      "year": 2023,
+      "genres": [
+        "action",
+        "drama"
+      ],
+      "cast": [
+        "Rajinikanth",
+        "Ramya Krishnan",
+        "Vasanth Ravi"
+      ],
+      "moods": [
+        "bored",
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "energy",
+        "family",
+        "humour"
+      ],
+      "synopsis": "An action featuring Rajinikanth, Ramya Krishnan, Vasanth Ravi.",
+      "recommendationReason": "A high-energy action comedy among a wide-ranging mix of Indian cinema.",
+      "externalLink": "https://www.youtube.com/results?search_query=Jailer+2023+film+trailer",
+      "verified": true,
+      "source": "YouTube search results",
+      "sourceUrl": "https://www.youtube.com/results?search_query=Jailer+2023+film"
+    }
+  ]
+}

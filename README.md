@@ -1,13 +1,13 @@
 # MoodLift
 
-MoodLift is a responsive, browser-first mood-to-motivation experience. A visitor chooses a mood and intensity, then receives a thoughtful reflection, one doable reset, and a surprise inspired by Rajinikanth's words and cinema.
+MoodLift is a responsive, browser-first mood-to-motivation experience. A visitor chooses a mood and intensity, then receives an original quote, one doable reset, and a music or film suggestion matched to that moment.
 
 ## MVP architecture
 
-- Curated recommendations live in [`data/content.json`](data/content.json), [`data/content-expansion.json`](data/content-expansion.json), and [`data/catalog-expansion.json`](data/catalog-expansion.json). Together they contain 32 thoughts, 23 short stories, 36 activities, 94 song references and 53 film recommendations.
-- The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, cycles through recent mood-matched Thalaivar material, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
+- Curated mood content lives in [`data/content.json`](data/content.json) and [`data/content-expansion.json`](data/content-expansion.json). A broader film and music catalog lives in [`data/general-catalog.json`](data/general-catalog.json), currently covering 28 films and 36 songs across Indian cinema and performers.
+- The deterministic recommendation engine is in [`src/recommendation.ts`](src/recommendation.ts). It scores local content, avoids recently shown items in the current session, pairs stories with related themes, and keeps high-intensity activity suggestions low-energy.
 - The interface is plain HTML and CSS with a small TypeScript entry point. No runtime AI, database, account, or external recommendation API is used.
-- The dark hero uses the owner-provided Rajinikanth reference image as a high-contrast silhouette treatment with subtle desktop pointer parallax and a reduced-motion fallback.
+- The dark hero uses an original generated Buddha statue image with subtle desktop pointer parallax and a reduced-motion fallback.
 - The previous Near & Now page is retained in `legacy-near-and-now/`. Its Vercel API routes remain in `api/` but the MoodLift page does not call them.
 - `mcp-server/` remains a separate learning example. The new website does not depend on it.
 
@@ -24,13 +24,9 @@ Vite opens the browser-first experience at the local URL it prints. Create a pro
 
 ## Content editing
 
-Edit the JSON in `data/content.json` or `data/content-expansion.json`. IDs must be unique across both files within each collection, mood references must match the mood taxonomy, every song must point to an existing movie, and only approved original thoughts and stories are shown. Movie and song references should remain factual, with links pointing to official platforms. Do not add lyrics, film dialogue, stills, posters, or media files without the appropriate rights.
+Edit the JSON in `data/content.json`, `data/content-expansion.json`, or `data/general-catalog.json`. IDs must be unique within each collection, mood references must match the mood taxonomy, every song must point to an existing movie, and only approved original thoughts and stories are shown. Catalog links open external search results. Do not add lyrics, film dialogue, stills, posters, or media files without the appropriate rights.
 
-The first set focuses on original English thoughts, stories, and practical activities. Film/music references are metadata plus outbound links; the application does not stream or host entertainment media. Music links open curated label or rightsholder album/video pages; film links open a general Sun NXT guide and do not promise that every listed title is currently available to stream.
-
-## Attribution clarity
-
-Original reflections and stories are app-authored and must not be attributed to Rajinikanth. The mood guide contributes 31 dialogue entries, seven speech summaries, seven philosophy summaries, and two fan-meet summaries. Film attributions flagged as unconfirmed remain labeled that way; speeches and philosophy are identified as paraphrases. The app's separate stories are original work, not part of the sourced material.
+Thoughts and stories are original English content; film and music entries are metadata with outbound discovery links. The application does not stream or host entertainment media.
 
 ## Privacy and safety
 
@@ -38,4 +34,4 @@ Mood, intensity, reason, and time are used only in the browser to select recomme
 
 ## Rights and credits
 
-This is an independent fan-made concept, not affiliated with or endorsed by Rajinikanth, his representatives, film producers, studios, music labels, or other rights holders. See `data/ASSET_RIGHTS.md` for the supplied photos' current rights status. The notice does not grant permission to use third-party material.
+MoodLift is an independent project and is not affiliated with or endorsed by any film, music, or media rights holders. See `data/ASSET_RIGHTS.md` for image notes. The notice does not grant permission to use third-party material.

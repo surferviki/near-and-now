@@ -1,49 +1,671 @@
 {
   "schemaVersion": 1,
   "moods": [
-    { "id": "happy", "label": "Happy", "emoji": "☀️", "targetEmotion": ["appreciative", "energised"], "preferredThemes": ["gratitude", "joy", "celebration"] },
-    { "id": "sad", "label": "Sad", "emoji": "🌧️", "targetEmotion": ["comforted", "hopeful"], "preferredThemes": ["hope", "connection", "self_worth"] },
-    { "id": "angry", "label": "Angry", "emoji": "🔥", "targetEmotion": ["settled", "reflective"], "preferredThemes": ["pause", "perspective", "self_control"] },
-    { "id": "frustrated", "label": "Frustrated", "emoji": "🌀", "targetEmotion": ["calm", "confident"], "preferredThemes": ["resilience", "patience", "agency"] },
-    { "id": "stressed", "label": "Stressed", "emoji": "🌫️", "targetEmotion": ["grounded", "calmer"], "preferredThemes": ["breathing", "simplification", "rest"] },
-    { "id": "lonely", "label": "Lonely", "emoji": "🫶", "targetEmotion": ["connected", "supported"], "preferredThemes": ["kindness", "belonging", "connection"] },
-    { "id": "bored", "label": "Bored", "emoji": "🪁", "targetEmotion": ["curious", "engaged"], "preferredThemes": ["creativity", "novelty", "play"] },
-    { "id": "demotivated", "label": "Demotivated", "emoji": "🌱", "targetEmotion": ["encouraged", "ready_for_one_step"], "preferredThemes": ["perseverance", "small_wins", "agency"] },
-    { "id": "confident", "label": "Confident", "emoji": "⚡", "targetEmotion": ["positive", "energised"], "preferredThemes": ["courage", "ambition", "celebration"] }
+    {
+      "id": "happy",
+      "label": "Happy",
+      "emoji": "☀️",
+      "targetEmotion": [
+        "appreciative",
+        "energised"
+      ],
+      "preferredThemes": [
+        "gratitude",
+        "joy",
+        "celebration"
+      ]
+    },
+    {
+      "id": "sad",
+      "label": "Sad",
+      "emoji": "🌧️",
+      "targetEmotion": [
+        "comforted",
+        "hopeful"
+      ],
+      "preferredThemes": [
+        "hope",
+        "connection",
+        "self_worth"
+      ]
+    },
+    {
+      "id": "angry",
+      "label": "Angry",
+      "emoji": "🔥",
+      "targetEmotion": [
+        "settled",
+        "reflective"
+      ],
+      "preferredThemes": [
+        "pause",
+        "perspective",
+        "self_control"
+      ]
+    },
+    {
+      "id": "frustrated",
+      "label": "Frustrated",
+      "emoji": "🌀",
+      "targetEmotion": [
+        "calm",
+        "confident"
+      ],
+      "preferredThemes": [
+        "resilience",
+        "patience",
+        "agency"
+      ]
+    },
+    {
+      "id": "stressed",
+      "label": "Stressed",
+      "emoji": "🌫️",
+      "targetEmotion": [
+        "grounded",
+        "calmer"
+      ],
+      "preferredThemes": [
+        "breathing",
+        "simplification",
+        "rest"
+      ]
+    },
+    {
+      "id": "lonely",
+      "label": "Lonely",
+      "emoji": "🫶",
+      "targetEmotion": [
+        "connected",
+        "supported"
+      ],
+      "preferredThemes": [
+        "kindness",
+        "belonging",
+        "connection"
+      ]
+    },
+    {
+      "id": "bored",
+      "label": "Bored",
+      "emoji": "🪁",
+      "targetEmotion": [
+        "curious",
+        "engaged"
+      ],
+      "preferredThemes": [
+        "creativity",
+        "novelty",
+        "play"
+      ]
+    },
+    {
+      "id": "demotivated",
+      "label": "Demotivated",
+      "emoji": "🌱",
+      "targetEmotion": [
+        "encouraged",
+        "ready_for_one_step"
+      ],
+      "preferredThemes": [
+        "perseverance",
+        "small_wins",
+        "agency"
+      ]
+    },
+    {
+      "id": "confident",
+      "label": "Confident",
+      "emoji": "⚡",
+      "targetEmotion": [
+        "positive",
+        "energised"
+      ],
+      "preferredThemes": [
+        "courage",
+        "ambition",
+        "celebration"
+      ]
+    }
   ],
   "thoughts": [
-    { "id": "T001", "type": "original_thought", "text": "You do not have to make the whole day brilliant. Notice the one good thing that is already here, and give it a little room to grow.", "moods": ["happy", "sad", "lonely"], "themes": ["gratitude", "hope", "connection"], "targetEmotion": ["appreciative", "comforted"], "reviewStatus": "approved", "rightsStatus": "original" },
-    { "id": "T002", "type": "original_thought", "text": "A pause is not surrender. It is a small space where your next move gets to be chosen, instead of rushed.", "moods": ["angry", "stressed", "frustrated"], "themes": ["pause", "self_control", "perspective"], "targetEmotion": ["settled", "grounded"], "reviewStatus": "approved", "rightsStatus": "original" },
-    { "id": "T003", "type": "original_thought", "text": "The first step can be so small that doubt barely notices it. Begin there. Momentum can meet you on the way.", "moods": ["demotivated", "bored", "confident"], "themes": ["small_wins", "agency", "creativity"], "targetEmotion": ["encouraged", "curious"], "reviewStatus": "approved", "rightsStatus": "original" },
-    { "id": "T004", "type": "original_thought", "text": "You are allowed to ask for company. A simple hello can be a brave beginning, and connection does not need a perfect opening line.", "moods": ["lonely", "sad"], "themes": ["kindness", "belonging", "connection"], "targetEmotion": ["connected", "supported"], "reviewStatus": "approved", "rightsStatus": "original" },
-    { "id": "T005", "type": "original_thought", "text": "Celebrate the energy you have today. Confidence is not a promise that everything will work; it is permission to take part.", "moods": ["confident", "happy"], "themes": ["courage", "ambition", "celebration"], "targetEmotion": ["positive", "energised"], "reviewStatus": "approved", "rightsStatus": "original" }
+    {
+      "id": "T001",
+      "type": "original_thought",
+      "text": "You do not have to make the whole day brilliant. Notice the one good thing that is already here, and give it a little room to grow.",
+      "moods": [
+        "happy",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "gratitude",
+        "hope",
+        "connection"
+      ],
+      "targetEmotion": [
+        "appreciative",
+        "comforted"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T002",
+      "type": "original_thought",
+      "text": "A pause is not surrender. It is a small space where your next move gets to be chosen, instead of rushed.",
+      "moods": [
+        "angry",
+        "stressed",
+        "frustrated"
+      ],
+      "themes": [
+        "pause",
+        "self_control",
+        "perspective"
+      ],
+      "targetEmotion": [
+        "settled",
+        "grounded"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T003",
+      "type": "original_thought",
+      "text": "The first step can be so small that doubt barely notices it. Begin there. Momentum can meet you on the way.",
+      "moods": [
+        "demotivated",
+        "bored",
+        "confident"
+      ],
+      "themes": [
+        "small_wins",
+        "agency",
+        "creativity"
+      ],
+      "targetEmotion": [
+        "encouraged",
+        "curious"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T004",
+      "type": "original_thought",
+      "text": "You are allowed to ask for company. A simple hello can be a brave beginning, and connection does not need a perfect opening line.",
+      "moods": [
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "kindness",
+        "belonging",
+        "connection"
+      ],
+      "targetEmotion": [
+        "connected",
+        "supported"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    },
+    {
+      "id": "T005",
+      "type": "original_thought",
+      "text": "Celebrate the energy you have today. Confidence is not a promise that everything will work; it is permission to take part.",
+      "moods": [
+        "confident",
+        "happy"
+      ],
+      "themes": [
+        "courage",
+        "ambition",
+        "celebration"
+      ],
+      "targetEmotion": [
+        "positive",
+        "energised"
+      ],
+      "reviewStatus": "approved",
+      "rightsStatus": "original"
+    }
   ],
   "stories": [
-    { "id": "S001", "title": "The Window Seat", "content": "Mira had been saving the window seat for a day when she felt completely cheerful. That day never seemed to arrive. One grey afternoon, she sat there anyway and watched rain gather on the glass. A neighbour's child waved from the pavement. Mira waved back. Nothing about the afternoon changed at once, but she noticed the small warmth of being seen. She made tea, opened the window for a breath of cool air, and texted her cousin a picture of the rain. The reply came with a joke and a promise to call later. Mira did not suddenly become happy. She simply found one thread of connection and followed it. Sometimes a little light is not a spotlight. Sometimes it is a window left open.", "moods": ["sad", "lonely"], "themes": ["connection", "hope", "kindness"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 2, "targetEmotion": ["comforted", "connected"], "reviewStatus": "approved", "isOriginal": true },
-    { "id": "S002", "title": "The Unsent Reply", "content": "Arun read the message again and felt his shoulders rise. He began typing a reply that grew sharper with every sentence. Before sending it, he put the phone face down and filled a glass of water. He stood by the sink and named five things he could see: the blue mug, a towel, the window, a plant, the evening light. The message was still there when he returned. So was the feeling, but it had a little less control of his hands. Arun deleted the long reply and wrote one clear sentence asking to talk tomorrow. He could not decide how the other person would respond. He could decide how he wanted to show up. The pause did not solve the disagreement; it gave him room to choose his next step.", "moods": ["angry", "frustrated", "stressed"], "themes": ["pause", "self_control", "perspective"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 2, "targetEmotion": ["settled", "reflective"], "reviewStatus": "approved", "isOriginal": true },
-    { "id": "S003", "title": "One Blue Dot", "content": "Leela opened her notebook and wrote a list of everything she had not finished. The page filled quickly, and her energy disappeared with it. She turned to a clean page and drew one small blue dot. Beside it, she wrote a task that would take less than five minutes: put the papers in one pile. When she finished, she did not add ten more tasks. She marked the dot with a circle and took a breath. The room was not transformed, and the day was not suddenly easy. But one thing had moved from tangled to done. Leela chose the next small action only after a short break. She learned that progress did not need to arrive with a grand entrance. It could begin as one quiet mark on an empty page.", "moods": ["demotivated", "frustrated", "bored"], "themes": ["small_wins", "agency", "perseverance"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 2, "targetEmotion": ["encouraged", "ready_for_one_step"], "reviewStatus": "approved", "isOriginal": true },
-    { "id": "S004", "title": "A Different Route", "content": "On Saturday, Dev walked the same route he always took and found himself counting the minutes. At the corner, he noticed a lane he had never explored. He checked that it was public and safe, then followed it for a few blocks. There was a tiny bookshop, a wall painted with bright birds, and a bakery filling the air with cardamom. Dev bought nothing. He simply let the familiar neighbourhood become unfamiliar for a little while. On the way home, he took a photo of the painted birds and sent it to a friend who loved art. The day had not needed a big plan or a long journey. A small detour had given his attention something new to hold. Curiosity, Dev decided, could be a very local adventure.", "moods": ["bored", "happy", "confident"], "themes": ["creativity", "novelty", "play"], "intensity": ["mild", "moderate"], "durationMinutes": 2, "targetEmotion": ["curious", "engaged"], "reviewStatus": "approved", "isOriginal": true },
-    { "id": "S005", "title": "The Softer Plan", "content": "Nila's calendar was full, and every square seemed to ask for more. She had planned a hard workout to clear her head, but her body felt tired before she began. Instead of calling herself lazy, she changed the plan. She sat on the floor, stretched her hands above her head, and breathed slowly for a minute. Then she chose one thing that could wait until tomorrow and moved it. The list looked almost the same, but the pressure felt less crowded. Nila made a simple dinner and let the evening be quiet. There was no dramatic transformation and no lesson about pushing through. The useful choice was noticing what she needed and responding kindly. Tomorrow would bring its own plans. Tonight, a gentler pace was enough.", "moods": ["stressed", "sad", "demotivated"], "themes": ["rest", "simplification", "self_worth"], "intensity": ["moderate", "high"], "durationMinutes": 2, "targetEmotion": ["grounded", "calmer"], "reviewStatus": "approved", "isOriginal": true }
+    {
+      "id": "S001",
+      "title": "The Window Seat",
+      "content": "Mira had been saving the window seat for a day when she felt completely cheerful. That day never seemed to arrive. One grey afternoon, she sat there anyway and watched rain gather on the glass. A neighbour's child waved from the pavement. Mira waved back. Nothing about the afternoon changed at once, but she noticed the small warmth of being seen. She made tea, opened the window for a breath of cool air, and texted her cousin a picture of the rain. The reply came with a joke and a promise to call later. Mira did not suddenly become happy. She simply found one thread of connection and followed it. Sometimes a little light is not a spotlight. Sometimes it is a window left open.",
+      "moods": [
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "connection",
+        "hope",
+        "kindness"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 2,
+      "targetEmotion": [
+        "comforted",
+        "connected"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S002",
+      "title": "The Unsent Reply",
+      "content": "Arun read the message again and felt his shoulders rise. He began typing a reply that grew sharper with every sentence. Before sending it, he put the phone face down and filled a glass of water. He stood by the sink and named five things he could see: the blue mug, a towel, the window, a plant, the evening light. The message was still there when he returned. So was the feeling, but it had a little less control of his hands. Arun deleted the long reply and wrote one clear sentence asking to talk tomorrow. He could not decide how the other person would respond. He could decide how he wanted to show up. The pause did not solve the disagreement; it gave him room to choose his next step.",
+      "moods": [
+        "angry",
+        "frustrated",
+        "stressed"
+      ],
+      "themes": [
+        "pause",
+        "self_control",
+        "perspective"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 2,
+      "targetEmotion": [
+        "settled",
+        "reflective"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S003",
+      "title": "One Blue Dot",
+      "content": "Leela opened her notebook and wrote a list of everything she had not finished. The page filled quickly, and her energy disappeared with it. She turned to a clean page and drew one small blue dot. Beside it, she wrote a task that would take less than five minutes: put the papers in one pile. When she finished, she did not add ten more tasks. She marked the dot with a circle and took a breath. The room was not transformed, and the day was not suddenly easy. But one thing had moved from tangled to done. Leela chose the next small action only after a short break. She learned that progress did not need to arrive with a grand entrance. It could begin as one quiet mark on an empty page.",
+      "moods": [
+        "demotivated",
+        "frustrated",
+        "bored"
+      ],
+      "themes": [
+        "small_wins",
+        "agency",
+        "perseverance"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 2,
+      "targetEmotion": [
+        "encouraged",
+        "ready_for_one_step"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S004",
+      "title": "A Different Route",
+      "content": "On Saturday, Dev walked the same route he always took and found himself counting the minutes. At the corner, he noticed a lane he had never explored. He checked that it was public and safe, then followed it for a few blocks. There was a tiny bookshop, a wall painted with bright birds, and a bakery filling the air with cardamom. Dev bought nothing. He simply let the familiar neighbourhood become unfamiliar for a little while. On the way home, he took a photo of the painted birds and sent it to a friend who loved art. The day had not needed a big plan or a long journey. A small detour had given his attention something new to hold. Curiosity, Dev decided, could be a very local adventure.",
+      "moods": [
+        "bored",
+        "happy",
+        "confident"
+      ],
+      "themes": [
+        "creativity",
+        "novelty",
+        "play"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 2,
+      "targetEmotion": [
+        "curious",
+        "engaged"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    },
+    {
+      "id": "S005",
+      "title": "The Softer Plan",
+      "content": "Nila's calendar was full, and every square seemed to ask for more. She had planned a hard workout to clear her head, but her body felt tired before she began. Instead of calling herself lazy, she changed the plan. She sat on the floor, stretched her hands above her head, and breathed slowly for a minute. Then she chose one thing that could wait until tomorrow and moved it. The list looked almost the same, but the pressure felt less crowded. Nila made a simple dinner and let the evening be quiet. There was no dramatic transformation and no lesson about pushing through. The useful choice was noticing what she needed and responding kindly. Tomorrow would bring its own plans. Tonight, a gentler pace was enough.",
+      "moods": [
+        "stressed",
+        "sad",
+        "demotivated"
+      ],
+      "themes": [
+        "rest",
+        "simplification",
+        "self_worth"
+      ],
+      "intensity": [
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 2,
+      "targetEmotion": [
+        "grounded",
+        "calmer"
+      ],
+      "reviewStatus": "approved",
+      "isOriginal": true
+    }
   ],
   "activities": [
-    { "id": "A001", "title": "A five-sense reset", "description": "Pause where you are and gently notice your surroundings.", "steps": ["Name five things you can see", "Notice four things you can feel", "Take three comfortable, unforced breaths"], "category": "breathing", "moods": ["angry", "stressed", "frustrated"], "themes": ["pause", "grounded", "self_control"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 5, "energyRequired": "low", "reasonIds": ["work", "personal"], "safetyNotes": ["Skip any step that feels uncomfortable; keep breathing natural."] },
-    { "id": "A002", "title": "Step outside for a little air", "description": "Take an easy, unhurried walk or sit somewhere outdoors.", "steps": ["Choose a familiar, safe place", "Go at a comfortable pace", "Notice one colour, sound, and texture"], "category": "physical", "moods": ["sad", "bored", "stressed", "happy"], "themes": ["hope", "novelty", "grounded"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 10, "energyRequired": "low", "reasonIds": ["personal", "browsing"], "safetyNotes": ["Walking is optional; adapt for your mobility and surroundings."] },
-    { "id": "A003", "title": "Make something tiny", "description": "Create a five-minute doodle, playlist, or paper design with no goal to get it right.", "steps": ["Pick one material or app", "Set a five-minute timer", "Keep the result just for you if you like"], "category": "creative", "moods": ["bored", "demotivated", "confident"], "themes": ["creativity", "play", "small_wins"], "intensity": ["mild", "moderate"], "durationMinutes": 5, "energyRequired": "low", "reasonIds": ["personal", "browsing"], "safetyNotes": ["There is no need to share or finish it."] },
-    { "id": "A004", "title": "Send a low-pressure hello", "description": "Reach out to someone safe with a simple message or voice note.", "steps": ["Think of someone you trust", "Send a short hello or ask how they are", "Let them reply in their own time"], "category": "social", "moods": ["lonely", "sad"], "themes": ["connection", "kindness", "belonging"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 5, "energyRequired": "low", "reasonIds": ["personal", "family_relationships"], "safetyNotes": ["Choose a person and pace that feel safe for you."] },
-    { "id": "A005", "title": "Clear one small surface", "description": "Choose a tiny practical task that makes your space feel a little easier to use.", "steps": ["Pick one shelf or corner", "Move only what is out of place", "Stop after five minutes"], "category": "practical", "moods": ["frustrated", "demotivated", "stressed"], "themes": ["agency", "small_wins", "simplification"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 5, "energyRequired": "low", "reasonIds": ["work", "personal"], "safetyNotes": ["Keep the task light and stop whenever you need."] },
-    { "id": "A006", "title": "Celebrate with a song", "description": "Play a song you already enjoy and give yourself permission to enjoy the moment.", "steps": ["Choose a familiar song", "Listen or move in whatever way feels comfortable", "Notice what you appreciate about today"], "category": "rest", "moods": ["happy", "confident", "bored"], "themes": ["joy", "gratitude", "celebration"], "intensity": ["mild", "moderate"], "durationMinutes": 5, "energyRequired": "low", "safetyNotes": ["Keep the volume comfortable; movement is optional."] },
-    { "id": "A007", "title": "Take a quiet minute", "description": "Give yourself a brief pause with no task to complete.", "steps": ["Sit or stand somewhere comfortable", "Let your shoulders rest", "Choose one next step, or choose to pause longer"], "category": "rest", "moods": ["stressed", "angry", "sad", "lonely"], "themes": ["rest", "pause", "self_worth"], "intensity": ["mild", "moderate", "high"], "durationMinutes": 5, "energyRequired": "low", "safetyNotes": ["You can keep your eyes open and stop at any time."] },
-    { "id": "A008", "title": "Try a playful mini-challenge", "description": "Pick a colour and spot five things around you that contain it.", "steps": ["Choose any colour", "Find five examples nearby", "Pick your favourite and say why"], "category": "creative", "moods": ["bored", "happy", "demotivated"], "themes": ["play", "novelty", "curiosity"], "intensity": ["mild", "moderate"], "durationMinutes": 5, "energyRequired": "low", "safetyNotes": ["Do this from a safe place; do not rush or reach unsafely."] },
-    { "id": "A009", "title": "Choose one brave next step", "description": "Turn a big intention into one action you can begin today.", "steps": ["Write the goal in a few words", "Choose an action that takes under ten minutes", "Decide when you will start"], "category": "practical", "moods": ["confident", "demotivated", "frustrated"], "themes": ["courage", "agency", "small_wins"], "intensity": ["mild", "moderate"], "durationMinutes": 10, "energyRequired": "low", "safetyNotes": ["Keep the step realistic and safe for your circumstances."] }
+    {
+      "id": "A001",
+      "title": "A five-sense reset",
+      "description": "Pause where you are and gently notice your surroundings.",
+      "steps": [
+        "Name five things you can see",
+        "Notice four things you can feel",
+        "Take three comfortable, unforced breaths"
+      ],
+      "category": "breathing",
+      "moods": [
+        "angry",
+        "stressed",
+        "frustrated"
+      ],
+      "themes": [
+        "pause",
+        "grounded",
+        "self_control"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "safetyNotes": [
+        "Skip any step that feels uncomfortable; keep breathing natural."
+      ]
+    },
+    {
+      "id": "A002",
+      "title": "Step outside for a little air",
+      "description": "Take an easy, unhurried walk or sit somewhere outdoors.",
+      "steps": [
+        "Choose a familiar, safe place",
+        "Go at a comfortable pace",
+        "Notice one colour, sound, and texture"
+      ],
+      "category": "physical",
+      "moods": [
+        "sad",
+        "bored",
+        "stressed",
+        "happy"
+      ],
+      "themes": [
+        "hope",
+        "novelty",
+        "grounded"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 10,
+      "energyRequired": "low",
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "safetyNotes": [
+        "Walking is optional; adapt for your mobility and surroundings."
+      ]
+    },
+    {
+      "id": "A003",
+      "title": "Make something tiny",
+      "description": "Create a five-minute doodle, playlist, or paper design with no goal to get it right.",
+      "steps": [
+        "Pick one material or app",
+        "Set a five-minute timer",
+        "Keep the result just for you if you like"
+      ],
+      "category": "creative",
+      "moods": [
+        "bored",
+        "demotivated",
+        "confident"
+      ],
+      "themes": [
+        "creativity",
+        "play",
+        "small_wins"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "reasonIds": [
+        "personal",
+        "browsing"
+      ],
+      "safetyNotes": [
+        "There is no need to share or finish it."
+      ]
+    },
+    {
+      "id": "A004",
+      "title": "Send a low-pressure hello",
+      "description": "Reach out to someone safe with a simple message or voice note.",
+      "steps": [
+        "Think of someone you trust",
+        "Send a short hello or ask how they are",
+        "Let them reply in their own time"
+      ],
+      "category": "social",
+      "moods": [
+        "lonely",
+        "sad"
+      ],
+      "themes": [
+        "connection",
+        "kindness",
+        "belonging"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "reasonIds": [
+        "personal",
+        "family_relationships"
+      ],
+      "safetyNotes": [
+        "Choose a person and pace that feel safe for you."
+      ]
+    },
+    {
+      "id": "A005",
+      "title": "Clear one small surface",
+      "description": "Choose a tiny practical task that makes your space feel a little easier to use.",
+      "steps": [
+        "Pick one shelf or corner",
+        "Move only what is out of place",
+        "Stop after five minutes"
+      ],
+      "category": "practical",
+      "moods": [
+        "frustrated",
+        "demotivated",
+        "stressed"
+      ],
+      "themes": [
+        "agency",
+        "small_wins",
+        "simplification"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "reasonIds": [
+        "work",
+        "personal"
+      ],
+      "safetyNotes": [
+        "Keep the task light and stop whenever you need."
+      ]
+    },
+    {
+      "id": "A006",
+      "title": "Celebrate with a song",
+      "description": "Play a song you already enjoy and give yourself permission to enjoy the moment.",
+      "steps": [
+        "Choose a familiar song",
+        "Listen or move in whatever way feels comfortable",
+        "Notice what you appreciate about today"
+      ],
+      "category": "rest",
+      "moods": [
+        "happy",
+        "confident",
+        "bored"
+      ],
+      "themes": [
+        "joy",
+        "gratitude",
+        "celebration"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep the volume comfortable; movement is optional."
+      ]
+    },
+    {
+      "id": "A007",
+      "title": "Take a quiet minute",
+      "description": "Give yourself a brief pause with no task to complete.",
+      "steps": [
+        "Sit or stand somewhere comfortable",
+        "Let your shoulders rest",
+        "Choose one next step, or choose to pause longer"
+      ],
+      "category": "rest",
+      "moods": [
+        "stressed",
+        "angry",
+        "sad",
+        "lonely"
+      ],
+      "themes": [
+        "rest",
+        "pause",
+        "self_worth"
+      ],
+      "intensity": [
+        "mild",
+        "moderate",
+        "high"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "safetyNotes": [
+        "You can keep your eyes open and stop at any time."
+      ]
+    },
+    {
+      "id": "A008",
+      "title": "Try a playful mini-challenge",
+      "description": "Pick a colour and spot five things around you that contain it.",
+      "steps": [
+        "Choose any colour",
+        "Find five examples nearby",
+        "Pick your favourite and say why"
+      ],
+      "category": "creative",
+      "moods": [
+        "bored",
+        "happy",
+        "demotivated"
+      ],
+      "themes": [
+        "play",
+        "novelty",
+        "curiosity"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 5,
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Do this from a safe place; do not rush or reach unsafely."
+      ]
+    },
+    {
+      "id": "A009",
+      "title": "Choose one brave next step",
+      "description": "Turn a big intention into one action you can begin today.",
+      "steps": [
+        "Write the goal in a few words",
+        "Choose an action that takes under ten minutes",
+        "Decide when you will start"
+      ],
+      "category": "practical",
+      "moods": [
+        "confident",
+        "demotivated",
+        "frustrated"
+      ],
+      "themes": [
+        "courage",
+        "agency",
+        "small_wins"
+      ],
+      "intensity": [
+        "mild",
+        "moderate"
+      ],
+      "durationMinutes": 10,
+      "energyRequired": "low",
+      "safetyNotes": [
+        "Keep the step realistic and safe for your circumstances."
+      ]
+    }
   ],
-  "songs": [
-    { "id": "MUS001", "title": "Hukum – Thalaivar Alappara", "movieId": "MOV001", "moods": ["confident", "happy", "demotivated", "bored"], "themes": ["confidence", "celebration", "agency"], "energy": "high", "language": "ta", "externalLink": "https://www.youtube.com/watch?v=gB2zKZxESTg", "source": "Sun Pictures official video", "sourceUrl": "https://www.youtube.com/watch?v=gB2zKZxESTg", "rightsStatus": "not_applicable" },
-    { "id": "MUS002", "title": "Rathamaarey", "movieId": "MOV001", "moods": ["sad", "lonely", "stressed"], "themes": ["connection", "comfort", "calm"], "energy": "low", "language": "ta", "externalLink": "https://www.sunnxt.com/tamil-music-jailer-rathamaarey-song/detail/173103/musicvideo/0", "source": "Sun NXT official music video listing", "sourceUrl": "https://www.sunnxt.com/tamil-music-jailer-rathamaarey-song/detail/173103/musicvideo/0", "rightsStatus": "not_applicable" }
-  ],
-  "movies": [
-    { "id": "MOV001", "title": "Jailer", "year": 2023, "genres": ["action", "drama"], "moods": ["happy", "sad", "angry", "frustrated", "stressed", "lonely", "bored", "demotivated", "confident"], "themes": ["family", "resilience", "humour"], "synopsis": "A Tamil action drama starring Rajinikanth.", "recommendationReason": "A familiar screen-world to revisit when you want a larger-than-life change of pace.", "externalLink": "https://www.sunnxt.com/tamil-movie-jailer-2023/detail/172190", "verified": true, "source": "Sun NXT", "sourceUrl": "https://www.sunpictures.in/?sunpict_movies=jailer" },
-    { "id": "MOV002", "title": "Enthiran", "year": 2010, "genres": ["science fiction", "action"], "moods": ["happy", "bored", "confident", "demotivated"], "themes": ["curiosity", "imagination", "wonder"], "synopsis": "A science-fiction action film starring Rajinikanth, written and directed by S. Shankar, with music by A. R. Rahman.", "recommendationReason": "Pick this when you want a vivid, imaginative change of scene.", "externalLink": "https://www.sunpictures.in/movies/enthiran/", "verified": true, "source": "Sun Pictures", "sourceUrl": "https://www.sunpictures.in/movies/enthiran/" },
-    { "id": "MOV003", "title": "Petta", "year": 2019, "genres": ["action", "thriller"], "moods": ["happy", "angry", "frustrated", "bored", "demotivated", "confident"], "themes": ["resilience", "courage", "energy"], "synopsis": "An action thriller starring Rajinikanth and Vijay Sethupathi, directed by Karthik Subbaraj.", "recommendationReason": "A high-energy screen pick for a moment when you want a bolder change of pace.", "externalLink": "https://www.sunpictures.in/?sunpict_movies=petta", "verified": true, "source": "Sun Pictures", "sourceUrl": "https://www.sunpictures.in/?sunpict_movies=petta" }
-  ],
+  "songs": [],
+  "movies": [],
   "comfortFoods": []
 }
